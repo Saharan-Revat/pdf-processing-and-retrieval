@@ -1,0 +1,147 @@
+{
+  "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+  "source_file": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.pdf",
+  "max_tokens": 512,
+  "min_tokens": 100,
+  "overlap_tokens": 64,
+  "chunks": [
+    {
+      "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::0",
+      "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+      "source_file": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.pdf",
+      "sections": [
+        "MARKETING AND TRANSPORTATION SERVICES AGREEMENT"
+      ],
+      "page_numbers": [
+        1,
+        2,
+        3,
+        5,
+        6
+      ],
+      "element_ids": [
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::0",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::1",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::2",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::3",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::4",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::5",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::6",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::7",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::8",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::9",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::10",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::11",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::12",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::13",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::14"
+      ],
+      "token_count": 308,
+      "text": "MARKETING AND TRANSPORTATION SERVICES AGREEMENT\n\n3\n\n4\n\nDynamex may continue to provide the same day service it currently provides to Alltours customers, provided revenue to Dynamex from this business does not exceed Five Thousand Dollars ($5,000.00) per month provided there is no change in control, direct or indirect, in Alltours.\n\nAny amounts invoiced which are not supported by documentation shall not be paid until such time as documentation is provided by the invoicing Party.\n\nIt is understood and agreed that Bills of Lading will not be required as supporting documentation.\n\nPurolator Courier Ltd. 5995 Avebury Road, Suite 500 Mississauga, Ontario L5R 3T8\n\nAttention: Finance\n\nDynamex Express 2630 Skymark Avenue Mississauga, Ontario L4W 5A4\n\n8\n\n9\n\nand any others for whom it may be responsible in law, arising out of or in any way connected with the indemnifying Party, its directors, officers, employees and any others for whom it may be responsible in law, arising out of or in any way connected with the indemnifying Party provision of Services under this Agreement and whether or not caused by the indemnifying Party's negligence. Loss or damage sustained by the indemnifying Party shall also include loss as a result of loss of use.\n\n- 9 -\n\nor to fulfil its obligations under this Agreement. Any such additional insurance shall be provided and maintained by that Party at its own expense.\n\n10"
+    },
+    {
+      "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::1",
+      "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+      "source_file": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.pdf",
+      "sections": [
+        "13.0 DANGEROUS GOODS"
+      ],
+      "page_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "element_ids": [
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::15",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::16",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::17",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::18",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::19",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::20",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::21",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::22",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::23",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::24",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::25",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::26",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::27",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::28",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::29",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::30",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::31",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::32",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::33",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::34",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::35",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::36",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::37",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::38",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::39",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::40",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::41",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::42",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::43",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::44",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::45",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::46"
+      ],
+      "token_count": 512,
+      "text": "13.0 DANGEROUS GOODS\n\n11\n\nin a facility at its own cost.\n\n- 10 -\n\n- 11 -\n\n13\n\nFor each Default Month, the Party in default shall pay a penalty equal to five (5) times the Party not in default's corporate average yield during the Default Month for each shipment below the performance\n\n12\n\n- 13 commitment.\n\nFor example, if the defaulting Party, in a Default Month, provided services at an eighty five percent (85%) level and the average yield for the Default Month of the Party not in default is ten dollars ($10.00) and the total number of shipments handled by the defaulting Party pursuant to this Agreement is one hundred (100), then the penalty would be equal to 5 x[(Performance Commitment - Actual Performance Level) x # of shipments] x average yield or 5 x [(90-85) x 100] x 10 = $250.00.\n\n100\n\nPurolator Courier Ltd. 5995 Avebury Road, Suite 500 Mississauga, Ontario L5R 3T8 Attention:\n\nDynamex Inc. 2630 Skymark Avenue Suite 610 Mississauga, Ontario L4W 5A4\n\n- 14 -\n\nor to any other address of which the Party in question advises to the other Party in writing. Any notice that is delivered shall be deemed to have been received on delivery; any notice sent by facsimile or electronic means shall be deemed to have been received when sent and receipt confirmed and any notice that is mailed shall be deemed to have been received five (5) business days after being mailed. In the event of a postal disruption, service to be effective must be delivered or sent by facsimile.\n\ngovernmental authority or agency required to be obtained or accomplished by Purolator has been obtained or accomplished\n\n14\n\n15\n\nand are in good standing; and\n\n16\n\n(a) Agreement\n\n(b) Schedules, and\n\n(c) the operating plan and any amendments thereto.\n\n17\n\nsubstantially frustrate the intention of this Agreement, such invalidity or unenforceability or illegality shall not affect any other provision of this Agreement.\n\n18\n\nequally.\n\nLes Parties ont specifiquement requis que la presente entente soit redigee en langue anglaise.\n\n19\n\nThe Parties have executed this Agreement as of the day, month and year first above written by their proper officers duly authorized on that behalf.\n\nPARCELWAY COURIER"
+    },
+    {
+      "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::2",
+      "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+      "source_file": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT.pdf",
+      "sections": [
+        "13.0 DANGEROUS GOODS"
+      ],
+      "page_numbers": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+      ],
+      "element_ids": [
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::15",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::16",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::17",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::18",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::19",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::20",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::21",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::22",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::23",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::24",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::25",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::26",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::27",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::28",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::29",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::30",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::31",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::32",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::33",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::34",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::35",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::36",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::37",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::38",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::39",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::40",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::41",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::42",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::43",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::44",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::45",
+        "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::element::46"
+      ],
+      "token_count": 71,
+      "text": "of this Agreement.\n\n18\n\nequally.\n\nLes Parties ont specifiquement requis que la presente entente soit redigee en langue anglaise.\n\n19\n\nThe Parties have executed this Agreement as of the day, month and year first above written by their proper officers duly authorized on that behalf.\n\nPARCELWAY COURIER SYSTEMS CANADA LTD.\n\n--------------------------------"
+    }
+  ]
+}

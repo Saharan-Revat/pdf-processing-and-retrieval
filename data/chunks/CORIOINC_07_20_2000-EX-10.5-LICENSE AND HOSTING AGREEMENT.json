@@ -1,0 +1,243 @@
+{
+  "document_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+  "source_file": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.pdf",
+  "max_tokens": 512,
+  "min_tokens": 100,
+  "overlap_tokens": 64,
+  "chunks": [
+    {
+      "chunk_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::chunk::0",
+      "document_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+      "source_file": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.pdf",
+      "sections": [
+        "CORIO INC.",
+        "LICENSE AND HOSTING AGREEMENT"
+      ],
+      "page_numbers": [
+        1
+      ],
+      "element_ids": [
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::0",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::1",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::2"
+      ],
+      "token_count": 117,
+      "text": "CORIO INC.\n\nLICENSE AND HOSTING AGREEMENT\n\nThis License and Hosting Agreement (the \"AGREEMENT\") is made and entered into as of October 29, 1999 (\"EFFECTIVE DATE\") by and between Corio Inc., a Delaware corporation, having its principal place of business at 700 Bay Road, Suite 210, Redwood City, CA 94063 (\"CORIO\") and Commerce One, Inc., a Delaware corporation having its principal place of business at 1600 Rivera Avenue, Walnut Creek, CA 94596 (\"COMMERCE ONE\")."
+    },
+    {
+      "chunk_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::chunk::1",
+      "document_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+      "source_file": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.pdf",
+      "sections": [
+        "BACKGROUND"
+      ],
+      "page_numbers": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "element_ids": [
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::3",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::4",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::5",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::6",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::7",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::8",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::9",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::10",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::11",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::12",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::13",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::14",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::15",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::16",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::17",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::18",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::19",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::20",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::21",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::22",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::23",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::24",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::25",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::26"
+      ],
+      "token_count": 512,
+      "text": "BACKGROUND\n\nNOW, THEREFORE, for good and valuable consideration, the parties hereby agree as follows:\n\nThe following terms shall have the following meanings:\n\n1\n\nindependent of the Corio Services, Commerce One shall immediately refer that Customer to Corio.\n\n3\n\n4\n\n5\n\nCorio site and re-perform the Acceptance Test. If Corio does not accept the Software after the second Acceptance Test, a third Acceptance Test will be performed. Notwithstanding the foregoing, all Acceptance Testing shall be complete by December 30, 1999, and Corio shall notify Commerce One in writing of it's acceptance or rejection of the Software no later than December 31, 1999. If after the third Acceptance Test Corio does not accept the Software, Corio may, at its sole option, elect to (i) repeat the Acceptance Test or (ii) terminate the Agreement and receive a refund of any fees paid to Commerce One as of such date. Both parties acknowledge that any professional services provided to Corio subsequent to the installation and acceptance of the Software are non-essential for the purpose of the acceptance of the Software.\n\n5\n\nupon Commerce One's income.\n\n6\n\n8\n\nAgreement and refund to Corio a pro-rated portion of the fees paid hereunder.\n\nEXCEPT FOR LIABILITY ARISING UNDER SECTION 8 OF THIS AGREEMENT, IN NO EVENT SHALL EITHER PARTY'S LIABILITY ARISING OUT OF THIS AGREEMENT OR THE USE OR PERFORMANCE OF THE SOFTWARE EXCEED THE TOTAL AMOUNT ACTUALLY PAID BY CORIO HEREUNDER FOR THE TRANSACTION WHICH THE LIABILITY RELATES TO DURING THE TWELVE (12) MONTHS IMMEDIATELY PRIOR TO THE FILING OF THE CAUSE OF ACTION TO WHICH THE LIABILITY RELATES. EXCEPT FOR LIABILITY ARISING UNDER SECTION 8 OF THIS AGREEMENT, IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY AND WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE PARTIES AGREE THAT THIS SECTION 9 REPRESENTS A REASONABLE ALLOCATION OF RISK.\n\n9\n\nLIABILITY RELATES. EXCEPT FOR LIABILITY ARISING UNDER SECTION 8 OF THIS AGREEMENT, IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY INDIRECT, SPECIAL OR"
+    },
+    {
+      "chunk_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::chunk::2",
+      "document_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+      "source_file": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.pdf",
+      "sections": [
+        "BACKGROUND"
+      ],
+      "page_numbers": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "element_ids": [
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::3",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::4",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::5",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::6",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::7",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::8",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::9",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::10",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::11",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::12",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::13",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::14",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::15",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::16",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::17",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::18",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::19",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::20",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::21",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::22",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::23",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::24",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::25",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::26"
+      ],
+      "token_count": 512,
+      "text": "ABLE ALLOCATION OF RISK.\n\n9\n\nLIABILITY RELATES. EXCEPT FOR LIABILITY ARISING UNDER SECTION 8 OF THIS AGREEMENT, IN NO EVENT SHALL EITHER PARTY HAVE ANY LIABILITY TO THE OTHER PARTY FOR ANY LOST PROFITS OR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, OR FOR ANY INDIRECT, SPECIAL OR CONSEQUENTIAL DAMAGES HOWEVER CAUSED AND UNDER ANY THEORY OF LIABILITY AND WHETHER OR NOT SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THE PARTIES AGREE THAT THIS SECTION 9 REPRESENTS A REASONABLE ALLOCATION OF RISK.\n\nEach party hereby agrees that it shall not use any Confidential Information received from the other party other than as expressly permitted under the terms of a non-disclosure agreement to be concurrently executed with this Agreement.\n\nincluding all Updates and Upgrades thereto, documentation and similar materials (the SOURCE CODE). The escrow agreement shall contain, at a minimum, the terms and conditions set forth in this Section 12. Corio shall bear all fees, expenses and other charges to open and maintain such escrow account. If a Release Condition (as defined in Section 12.2 of this Agreement) occurs and the Escrow Agent provides the Source Code to Corio under the escrow agreement, Corio agrees to hold the Source Code in confidence pursuant to the provisions contained in Section 10 of this Agreement, and not to use them for any purpose other than those purposes contemplated under Section 12.3 of this Agreement.\n\n11\n\nconsulting personnel shall initially work together with Corio personnel election.\n\nintellectual property rights in the Developments. To the extent that Commerce One would otherwise have a claim of ownership in such Developments, Commerce One hereby assigns all rights in and to such Developments to Corio. Further, Commerce One represents and warrants that all Commerce One employees, agents, contractors or consultants that will be provided to work together with Corio have or will have signed agreements with customary terms containing confidentiality provisions and assignment of inventions (\"EMPLOYEE NDA/INVENTION AGREEMENT\"). Corio covenants and warrants that it will not disclose to Commerce One or its officers, directors, employees, agents, contractors or consultants any proprietary information, including without limitation any technical information related to Developments created solely by Corio under this Agreement, except upon the written authorization to do so by a Corporate Officer of Commerce One. Commerce One covenants that during the term of this Agreement, it will continue to require all Commerce One employees, agents, contractors or consultants to sign an Employee NDA/Invention"
+    },
+    {
+      "chunk_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::chunk::3",
+      "document_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+      "source_file": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.pdf",
+      "sections": [
+        "BACKGROUND"
+      ],
+      "page_numbers": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "element_ids": [
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::3",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::4",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::5",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::6",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::7",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::8",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::9",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::10",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::11",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::12",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::13",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::14",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::15",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::16",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::17",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::18",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::19",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::20",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::21",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::22",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::23",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::24",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::25",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::26"
+      ],
+      "token_count": 512,
+      "text": "Developments created solely by Corio under this Agreement, except upon the written authorization to do so by a Corporate Officer of Commerce One. Commerce One covenants that during the term of this Agreement, it will continue to require all Commerce One employees, agents, contractors or consultants to sign an Employee NDA/Invention Agreement and that Commerce One will furnish to Corio copies of such signed agreements upon Corio's request. Ownership of intellectual property rights to any enhancements, modifications or derivative works to the Software itself which may be developed jointly by the parties or solely by Corio shall be negotiated by the parties prior to the start of any such development work.\n\n12\n\nMarketSite.net Service access SOFTWARE USERS: BuySite Hosted Edition: Unlimited LICENSE FEES: BuySite Hosted Edition: [*] MARKETSITE.NET SERVICE FEES: MarketSite.net Service Access: Year 1 [*] Year 2-5, and beyond: [*] MAINTENANCE AND SUPPORT FEES: Year 1 [*] Year 2-5, and beyond: [*] REVENUE SHARING FEES: 1. MarketSite Transaction Revenue: Commerce One to pay Corio [*] of all transaction fees from Corio Customer transactions on MarketSite. 2. Corio Customer Application Management Revenue: Corio to pay Commerce One [*] of all Application Management Revenue from Corio Customers for use of Commerce One Software or MarketSite.net Service Access subject to the following limitations. A. No Application Management Revenue shall be due for any Corio Customer subscriptions utilizing the initial 3000 Software User licenses granted herein, subject to a minimum limitation of 40 Authorized Software Users per Customer B. The Corio invoice amounts used to calculate the revenues subject to this revenue share shall not include Professional Service fees, or Network access fees. C. These Application Management Revenue fees shall begin accruing when the Corio Customer begins live operations. IMPLEMENTATION FEES: Time and Materials Basis Billed at [*] in accordance with The Statement of Work as agreed between the parties, not to exceed [*]. * Certain information on this page has been omitted and filed separately with the Commission. Confidential treatment has been requested with respect to the omitted portions. 16 17 PAYMENT TERMS License Fees: Due upon Software Acceptance. Maintenance and Support Fees: Net 30 of Software acceptance anniversary date, and each year thereafter. Revenue Sharing Fees: Quarterly payments shall be due to receiving party, net 30 days after quarter close. Implementation or Professional Service Fees: Net 30 days"
+    },
+    {
+      "chunk_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::chunk::4",
+      "document_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+      "source_file": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.pdf",
+      "sections": [
+        "BACKGROUND"
+      ],
+      "page_numbers": [
+        1,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        11
+      ],
+      "element_ids": [
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::3",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::4",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::5",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::6",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::7",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::8",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::9",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::10",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::11",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::12",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::13",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::14",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::15",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::16",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::17",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::18",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::19",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::20",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::21",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::22",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::23",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::24",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::25",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::26"
+      ],
+      "token_count": 242,
+      "text": "17 PAYMENT TERMS License Fees: Due upon Software Acceptance. Maintenance and Support Fees: Net 30 of Software acceptance anniversary date, and each year thereafter. Revenue Sharing Fees: Quarterly payments shall be due to receiving party, net 30 days after quarter close. Implementation or Professional Service Fees: Net 30 days from date of Commerce One invoice, which shall be issued only after successful completion of each agreed upon milestone. MarketSite.net Access Fee: Due upon Software Acceptance, and on each annual anniversary of Software Acceptance thereafter. 17 18 EXHIBIT C CUSTOMER SERVICE OUTLINE 1. CONTACTING SUPPORT: EMAIL: csc@commerceone.com FAX: (925) 941-6060 SUPPORT HOTLINE: (925) 941-5959 WWW: http://commerceone.com/solutions/osupport.htm Our web access allows you to submit new incidents and be notified in real time by the support team, who will provide suggestions and technical support to resolve your issue. Such support will include clarification of the functions and features of the Software, clarification of the documentation, guidance in the operations of the Software, and error correction analysis and verification to the extent possible remotely."
+    },
+    {
+      "chunk_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::chunk::5",
+      "document_id": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT",
+      "source_file": "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT.pdf",
+      "sections": [
+        "COMMERCE ONE RESPONSIBILITIES:",
+        "CORIO RESPONSIBILITIES:",
+        "EXHIBIT D"
+      ],
+      "page_numbers": [
+        12
+      ],
+      "element_ids": [
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::27",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::28",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::29",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::30",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::31",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::32",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::33",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::34",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::35",
+        "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT::element::36"
+      ],
+      "token_count": 117,
+      "text": "COMMERCE ONE RESPONSIBILITIES:\n\nCORIO RESPONSIBILITIES:\n\nFor resolution of incidents, we are committed to the following schedule:\n\n18\n\nUp to 5 individuals can be designated as \"Registered Customers\" to contact Commerce One for Support services. Upon written notice, customers may change their designated contacts. [Additional contacts can be purchased at additional cost as mutually agreed. Specify the 5 contacts on the Customer Profile form.\n\n19\n\nEXHIBIT D\n\nSALES AND MARKETING COOPERATION\n\nThe parties agree to the following non-binding sales and marketing cooperation efforts:\n\n20"
+    }
+  ]
+}
