@@ -1178,8 +1178,8 @@
       "page_no": 13,
       "section": "11. CONFIDENTIALITY.",
       "section_level": 1,
-      "label": "text",
-      "text": "\"Ship To\" Info",
+      "label": "list_item",
+      "text": "o Banner campaigns require 5 business days from the time all advertiser materials/instructions are received.",
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
@@ -1188,8 +1188,8 @@
       "page_no": 13,
       "section": "11. CONFIDENTIALITY.",
       "section_level": 1,
-      "label": "text",
-      "text": "All creative should be sent to ads@women.com.",
+      "label": "list_item",
+      "text": "o Creative rotation changes/refreshes require 3 business days from the time all advertiser materials/instructions are received.",
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
@@ -1199,7 +1199,7 @@
       "section": "11. CONFIDENTIALITY.",
       "section_level": 1,
       "label": "text",
-      "text": "ADVERTISING/LINKS - CATEGORIES NOT ACCEPTED",
+      "text": "\"Ship To\" Info",
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
@@ -1209,7 +1209,7 @@
       "section": "11. CONFIDENTIALITY.",
       "section_level": 1,
       "label": "text",
-      "text": "The following categories of advertising or links to such material are not accepted on Women.com:",
+      "text": "All creative should be sent to ads@women.com.",
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
@@ -1219,7 +1219,7 @@
       "section": "11. CONFIDENTIALITY.",
       "section_level": 1,
       "label": "text",
-      "text": "THIRD PARTY AD SERVING",
+      "text": "ADVERTISING/LINKS - CATEGORIES NOT ACCEPTED",
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
@@ -1229,11 +1229,101 @@
       "section": "11. CONFIDENTIALITY.",
       "section_level": 1,
       "label": "text",
-      "text": "Women.com accepts third party ad serving. However, third party serving relies on the third party's servers being fully operational. If Women.com determines that the servers are unreliable, the banners must be served from Women.com's site until such time the third party servers are fully operational. Also note that Women.com cannot track click-thrus in its NetGravity reports for rich media banners that are served remotely.",
+      "text": "The following categories of advertising or links to such material are not accepted on Women.com:",
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
       "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::123",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "o Tobacco",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::124",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "o Controlled substances",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::125",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "o Liquor",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::126",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "o Firearms",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::127",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "o Gambling",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::128",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "o Sexually explicit advertising and/or advertising that is degrading.",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::129",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "o Women.com, specifically Prevention on-line (Healthy Ideas) cannot accept advertising that promotes: 1) a product deemed defective or unsafe by the FDA, 2) a product, therapy or service whose possible harm to the consumer outweighs it benefits, and 3) a health product for which there is no good evidence of benefit and no good reason to believe there is a benefit.",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::130",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "text",
+      "text": "THIRD PARTY AD SERVING",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::131",
+      "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+      "page_no": 13,
+      "section": "11. CONFIDENTIALITY.",
+      "section_level": 1,
+      "label": "text",
+      "text": "Women.com accepts third party ad serving. However, third party serving relies on the third party's servers being fully operational. If Women.com determines that the servers are unreliable, the banners must be served from Women.com's site until such time the third party servers are fully operational. Also note that Women.com cannot track click-thrus in its NetGravity reports for rich media banners that are served remotely.",
+      "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
+    },
+    {
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::132",
       "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
       "page_no": 13,
       "section": "11. CONFIDENTIALITY.",
@@ -1243,7 +1333,7 @@
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
-      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::124",
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::133",
       "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
       "page_no": 13,
       "section": "11. CONFIDENTIALITY.",
@@ -1253,7 +1343,7 @@
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
-      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::125",
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::134",
       "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
       "page_no": 13,
       "section": "11. CONFIDENTIALITY.",
@@ -1263,7 +1353,7 @@
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
-      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::126",
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::135",
       "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
       "page_no": 13,
       "section": "11. CONFIDENTIALITY.",
@@ -1273,7 +1363,7 @@
       "source_file": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement.pdf"
     },
     {
-      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::127",
+      "element_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::element::136",
       "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
       "page_no": 13,
       "section": "11. CONFIDENTIALITY.",

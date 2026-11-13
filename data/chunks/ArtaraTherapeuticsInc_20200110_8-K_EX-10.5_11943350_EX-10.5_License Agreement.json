@@ -54,14 +54,13 @@
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
         "ARTICLE ONE",
-        "DEFINITIONS",
-        "ARTICLE TWO PROJECT"
+        "DEFINITIONS"
       ],
       "page_numbers": [
         1,
+        2,
         3,
-        4,
-        5
+        4
       ],
       "element_ids": [
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::12",
@@ -70,24 +69,57 @@
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::15",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::16",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::17",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::18"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::18",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::29",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::30",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::31",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::32",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::33",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::34",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::35",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::36",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::37",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::38",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::39",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::40",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::41",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::42"
       ],
-      "token_count": 248,
-      "text": "ARTICLE ONE\n\nDEFINITIONS\n\nNet Sales shall be determined in accordance with generally accepted accounting principles, consistently applied.\n\nARTICLE TWO PROJECT\n\n2.1 Performance of Project. The University and/or Principal Investigator together with ArTara and the CRO will conduct the Project in accordance with the Project Plan and will use all reasonable endeavors consistent with their expertise to successfully complete the Project. It is the goal of the Project to use the Program Data as clinical support for Product Regulatory Filings and to gain approval to commercialize the Product for the Indication in the Territory.\n\n2.2 Project Plan. The Project Plan as approved by each of the Parties may be modified or amended only upon mutual agreement of each of the Parties. The Project will consist of three phases:\n\n2.3 Project Management. During the term of this Agreement, the Principal Investigator and and/or his authorized representative and ArTara authorized representatives will meet as necessary to consult with one another and discuss the progress and results of the Project and any modifications to the Project Plan. Consultation by either Party shall be by means of personal visits, correspondence and telephone calls, all as appear reasonable and necessary and are mutually agreed upon by the Principal Investigator and ArTara."
+      "token_count": 512,
+      "text": "ARTICLE ONE\n\nDEFINITIONS\n\n\"Affiliates\" of a person or entity means any other entity which (directly or indirectly) is controlled by, controls or is under common control with such person or entity. For the purposes of this definition, the term \"control\" (including, with correlative meanings, the terms \"controlled by\" and \"under common control with\") as used with respect to an entity will mean (i) in the case of a corporate entity, direct or indirect ownership of voting securities entitled to cast at least fifty percent (50%) of the votes in the election of directors, or (ii) in the case of a non-corporate entity, direct or indirect ownership of at least fifty percent (50%) of the equity interests with the power to direct the management and policies of such entity, provided that if local law restricts foreign ownership, control will be established by direct or indirect ownership of the maximum ownership percentage that may, under such local law, be owned by foreign interests.\n\n\"CRO\" means a contract research organization selected by ArTara to assist in the Project as approved by the University and/or Principal Investigator, such approval not to be unreasonably delayed or withheld.\n\n\"FDA\" means the United States Food and Drug Administration.\n\n\"Field\" means all therapeutic, diagnostic and prophylactic uses of the Product(s).\n\n\"First Commercial Sale\" means the first sale for use or consumption for which revenue has been recognized of Product in a country or territory after all required Regulatory Approvals for commercial sale of Product have been obtained in such country or territory.\n\n\"ICH-GCP's\" means the International Conference on Harmonization and Good Clinical Practice Guidelines as adopted in the applicable FDA regulations.\n\n\"Indication\" means treatment of lymphangioma (also known as lymphatic malformations) in humans.\n\n\"IND\" means University filed investigational new drug application on file with the FDA (BB-IND#5266) for OK-432 for the Indication.\n\n\"Net Sales\" means, with respect to the Product, the gross invoiced sales price payable to ArTara and/or its Affiliates and their respective licensees and sublicensees for sales anywhere in the world of the Product to a third party, less:\n\n(a) discounts (including cash, quantity and patient program discounts), retroactive price reductions, charge-back payments and rebates granted to managed health care organizations or to federal, state and local governments, their agencies, and purchasers and reimbursers or to trade customers;"
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::3",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
+        "ARTICLE ONE",
+        "DEFINITIONS"
       ],
       "page_numbers": [
-        5,
-        6
+        1,
+        2,
+        3,
+        4
       ],
       "element_ids": [
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::12",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::13",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::14",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::15",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::16",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::17",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::18",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
@@ -97,24 +129,47 @@
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::29",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::30",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::31",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::32",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::33",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::34",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::35",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::36",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::37",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::38",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::39",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::40",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::41",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::42"
       ],
       "token_count": 512,
-      "text": "ARTICLE THREE\n\nFUNDING AND PAYMENT\n\n3.1 Funding. During the term of the Project in accordance with the Project Plan, ArTara will provide thirty thousand dollars (US $30,000) per year in funding for the Project, taking into consideration the time spent by University employees required for the Project. The Parties agree to discuss in good faith potential additional funding required for completion of the Project as applicable and necessary.\n\n3.2 Approval Milestone based on Data Value: Within forty-five (45) days of an approval of the TARA-002 BLA by the FDA, ArTara will pay a onetime approval milestone to University pursuant to the usefulness of the Program Data in TARA-002's BLA filing, as set forth below:\n\n{\"table_cells\": [{\"bbox\": {\"l\": 51.94375, \"t\": 276.28621250000015, \"r\": 247.63130050000012, \"b\": 283.44400193870024, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Official Feedback from FDA regarding the Program Data\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 276.28621250000015, \"r\": 442.05627525, \"b\": 283.44400193870024, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Milestone\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 51.94375, \"t\": 289.54246250000006, \"r\": 85.4, \"b\": 296.6604192821069, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \""
+      "text": "of the Product to a third party, less:\n\n(a) discounts (including cash, quantity and patient program discounts), retroactive price reductions, charge-back payments and rebates granted to managed health care organizations or to federal, state and local governments, their agencies, and purchasers and reimbursers or to trade customers;\n\n(b) credits or allowances actually, not to exceed the original invoice amount, granted upon claims, damaged goods, rejections or returns of the Product, including the Product returned in connection with recalls or withdrawals;\n\n(c) freight out, postage, shipping and insurance charges for delivery of the Product if charged separately and include in the gross receipts; and\n\n(d) taxes or duties, excluding income taxes and value-added taxes, levied on, absorbed or otherwise imposed on the sale of the Product, including governmental charges otherwise imposed upon the billed amount, as adjusted for rebates and refunds, provided that such are included in gross receipts and are paid to and/or its Affiliates and their respective licensees and sublicensees.\n\nNet Sales shall be determined in accordance with generally accepted accounting principles, consistently applied.\n\n\"OK-432\" means Picibanil (OK-432), a lyophilized mixture of group A Streptococcus pyogenes developed by Chugai and that has been approved by applicable Japanese pharmaceutical regulatory authorities for the treatment of the Indication.\n\n\"Principal Investigator\" means Richard Smith, MD\n\n\"Product\" shall mean TARA-002 and any similar products.\n\n\"Program\" means collectively, the clinical research studies investigating the efficacy and safety of OK-432 for the Indication conducted by Principal Investigator in collaboration with multiple sites in the United States and the University expanded access program performed by Principal Investigator designed to improve the diagnosis and treatment of the Indication using OK-432.\n\n\"Program Data\" means the data set forth on Exhibit A including all case reports forms, source data, and safety data in the possession of or available to University arising from the Program and any other data and information included in the IND.\n\n\"Project\" shall mean the compilation and available statistical analyses of the Program Data as described in the Project Plan, which is summarized in Section 2.2.\n\n\"Project Documentation\" shall mean the documentation created and generated by ArTara and CRO in the conduct of the Project that incorporates or is based upon Program Data.\n\n\"Project Plan\" means the plan for the Project mutually agreed upon by the Parties as summarized in Section 2.2.\n\n\"Right of Reference\" means"
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::4",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
+        "ARTICLE ONE",
+        "DEFINITIONS"
       ],
       "page_numbers": [
-        5,
-        6
+        1,
+        2,
+        3,
+        4
       ],
       "element_ids": [
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::12",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::13",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::14",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::15",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::16",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::17",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::18",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
@@ -124,91 +179,99 @@
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
         "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::29",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::30",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::31",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::32",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::33",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::34",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::35",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::36",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::37",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::38",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::39",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::40",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::41",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::42"
       ],
-      "token_count": 512,
-      "text": "\"t\": 289.54246250000006, \"r\": 85.4, \"b\": 296.6604192821069, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 289.54246250000006, \"r\": 445.212487375, \"b\": 296.6604192821069, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 51.94375, \"t\": 302.7987125000004, \"r\": 85.4, \"b\": 309.91666928210725, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 302.7987125000004, \"r\": 445.212487375, \"b\": 309.91666928210725, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$[…***…]\", \"column_header\": false, \"row_header\": false"
+      "token_count": 358,
+      "text": "\"Project Documentation\" shall mean the documentation created and generated by ArTara and CRO in the conduct of the Project that incorporates or is based upon Program Data.\n\n\"Project Plan\" means the plan for the Project mutually agreed upon by the Parties as summarized in Section 2.2.\n\n\"Right of Reference\" means the authority to rely upon, and otherwise use, an investigation for the purpose of obtaining Regulatory Approvals, including the ability to make available the underlying raw (source) data from the investigation for audit, if necessary.\n\n\"Regulatory Approvals\" means the medical, technical and scientific licenses, registrations, authorizations and approvals (including without limitation, approvals of IND's, New Drug Applications (\"NDA's\") and equivalents, supplements and amendments, pre- and postapprovals, pricing and third-party reimbursements approvals and labeling approvals) for the development and commercialization of pharmaceutical products.\n\n\"Regulatory Authorities\" means any applicable national, regional, state or local regulatory agency, department, bureau, commission, council or other governmental entity, necessary for the development, manufacture, distribution, marketing, promotion, offer for sale, use, import, export or sale of a pharmaceutical product in a regulatory jurisdiction.\n\n\"Regulatory Filings\" means collectively, IND's, Product License Applications, Drug Master Files, NDA's, Biological License Applications (\"BLAs\") including supportive and annual filings and/or any other equivalent or comparable filings as may be required by Regulatory Authorities to obtain Regulatory Approvals.\n\n\"Royalty\" means the royalty on Net Sales of Product in the Indication, as set forth in Article Three below.\n\n\"TARA-002\" means the ArTara pharmaceutical product intended to be similar to or biosimilar to OK-432.\n\n\"Territory\" means worldwide."
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::5",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
+        "ARTICLE TWO PROJECT"
       ],
       "page_numbers": [
-        5,
-        6
+        4,
+        5
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::43",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::44",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::45",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::46",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::47",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::48",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::49",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::50",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::51"
       ],
       "token_count": 512,
-      "text": "1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 51.94375, \"t\": 316.05496250000033, \"r\": 85.4, \"b\": 323.17291928210716, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 316.05496250000033, \"r\": 445.212487375, \"b\": 323.17291928210716, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 51.94375, \"t\": 329.31121250000024, \"r\": 85.4, \"b\": 336.42916928210707, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 4, \"end_row_offset_idx\": 5, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 329.31121250000024, \"r\": 441.425, \"b\":"
+      "text": "ARTICLE TWO PROJECT\n\n2.1 Performance of Project. The University and/or Principal Investigator together with ArTara and the CRO will conduct the Project in accordance with the Project Plan and will use all reasonable endeavors consistent with their expertise to successfully complete the Project. It is the goal of the Project to use the Program Data as clinical support for Product Regulatory Filings and to gain approval to commercialize the Product for the Indication in the Territory.\n\n2.2 Project Plan. The Project Plan as approved by each of the Parties may be modified or amended only upon mutual agreement of each of the Parties. The Project will consist of three phases:\n\n(a) Phase I: University and/or Principal Investigator will provide access to the Program Data to ArTara and the CRO at the University's facilities. ArTara and the CRO will be allowed to make complete copies of the original Program Data for the purposes of off-site data entry and storage, all as and only to the extent needed to support ArTara's efforts to accomplish the Project. University will provide ArTara and CRO the opportunity to examine the originals of medical records and supporting records for the Program Data at the University during normal business hours and at mutually agreeable times. University and Principal Investigator will also provide to ArTara contact information for other participating investigators and research sites that have contributed data to the Program. University will retain all Program Data for the sooner to occur of a New Drug Application (NDA) for the Product being approved or ten (10) years from the Effective Date. ArTara will bear any costs related to necessary long-term on or off-site storage of the Program Data, medical records and/or supporting records. ArTara understands that separate engagement agreements may be required by collaborating third party entities and associated principal investigators and University will assist ArTara in obtaining such agreements. It is understood that the goal of Phase I is a feasibility analysis of the Program Data to support Regulatory Filings in the United States.\n\n(b) Phase II: University recognizes that because of ArTara's unfamiliarity with the Program Data database, assistance from the Principal Investigator and other research and medical employees of the University may from time to time be needed for ArTara to query and analyze the Program Data database as needed to achieve successful presentation to applicable Regulatory Authorities and submission of Regulatory Filings. ArTara will endeavor to minimize University resources required during Phase II. The goal of Phase II will be to compile the Project Documentation.\n\n(c) Phase III: CRO will"
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::6",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
+        "ARTICLE TWO PROJECT"
       ],
       "page_numbers": [
-        5,
-        6
+        4,
+        5
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::43",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::44",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::45",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::46",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::47",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::48",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::49",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::50",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::51"
       ],
       "token_count": 512,
-      "text": "\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 329.31121250000024, \"r\": 441.425, \"b\": 336.42916928210707, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 4, \"end_row_offset_idx\": 5, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], \"num_rows\": 5, \"num_cols\": 2, \"orientation\": \"rot_0\", \"grid\": [[{\"bbox\": {\"l\": 51.94375, \"t\": 276.28621250000015, \"r\": 247.63130050000012, \"b\": 283.44400193870024, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Official Feedback from FDA regarding the Program Data\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 276.28621250000015, \"r\": 442.05627525, \"b\": 283.44400193870024, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Milestone\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 51.94375, \"t\": 289.54246250000006, \"r\": 85.4, \"b\": 296.6604192821069, \"coord_origin\":"
+      "text": "for ArTara to query and analyze the Program Data database as needed to achieve successful presentation to applicable Regulatory Authorities and submission of Regulatory Filings. ArTara will endeavor to minimize University resources required during Phase II. The goal of Phase II will be to compile the Project Documentation.\n\n(c) Phase III: CRO will convert Program Data to eCTD format for submission to Regulatory Authorities. University recognizes that ArTara may receive specific data requests from Regulatory Authorities in connection with ArTara's presentations of Program Data to support Regulatory Filings. University will assist ArTara in responding to such requests for data or access to source data from Regulatory Authorities. ArTara agrees to notify University of such requests as soon as is practicable. The goal of Phase III will be filing of a BLA based on Project Documentation and response to Regulatory Authorities.\n\n(d) Phase IV Optional: Upon mutual written agreement of University and ArTara, ArTara may sponsor, and University may conduct, new Product or Product-related clinical studies (for example, follow-up studies) to support the goal of the Project or as may be useful for gaining or maintaining Regulatory Approvals for the Product for the Indication. Any such studies will be at the sole discretion of each Party subject to terms and conditions to be mutually agreed upon in agreements separate from this Agreement. Richard Smith, MD will be given first consideration as a principal investigator for all new Product or Productrelated clinical studies, in addition to other sites provided final site selection will be based on the best interest of the Project.\n\n(e) Phase V: Publication: Collected data from the Project will be used to write a paper by the University and/or Principal Investigator (the \"Publication\") as a follow up to the publication in 2009 (Smith MC, Zimmerman MB, Burke DK, Bauman NM, Sato Y, Smith RJ; OK-432 Collaborative Study Group. Efficacy and safety of OK-432 immunotherapy of lymphatic malformations. Laryngoscope. 2009Jan;119(1):107-15. doi: 10.1002/lary.20041. PubMed PMID: 19117316). (the \"Publication\"). The Publication will be in accordance with the terms in Article 5 herein.\n\n2.3 Project Management. During the term of this Agreement, the Principal Investigator and and/or his authorized representative and ArTara authorized representatives will meet as necessary to consult with one another and discuss the progress and results of the Project and"
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::7",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
+        "ARTICLE TWO PROJECT"
       ],
       "page_numbers": [
-        5,
-        6
+        4,
+        5
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::43",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::44",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::45",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::46",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::47",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::48",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::49",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::50",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::51"
       ],
-      "token_count": 512,
-      "text": "row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 51.94375, \"t\": 289.54246250000006, \"r\": 85.4, \"b\": 296.6604192821069, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 289.54246250000006, \"r\": 445.212487375, \"b\": 296.6604192821069, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 51.94375, \"t\": 302.7987125000004, \"r\": 85.4, \"b\": 309.91666928210725, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 302.7987125000004, \"r\": 445.212487375, \"b\": 309.91666928210725, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1,"
+      "token_count": 110,
+      "text": "\"). The Publication will be in accordance with the terms in Article 5 herein.\n\n2.3 Project Management. During the term of this Agreement, the Principal Investigator and and/or his authorized representative and ArTara authorized representatives will meet as necessary to consult with one another and discuss the progress and results of the Project and any modifications to the Project Plan. Consultation by either Party shall be by means of personal visits, correspondence and telephone calls, all as appear reasonable and necessary and are mutually agreed upon by the Principal Investigator and ArTara."
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::8",
@@ -219,30 +282,22 @@
         "FUNDING AND PAYMENT"
       ],
       "page_numbers": [
-        5,
-        6
+        5
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::52",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::53",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::54",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::55"
       ],
-      "token_count": 511,
-      "text": "487375, \"b\": 309.91666928210725, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 51.94375, \"t\": 316.05496250000033, \"r\": 85.4, \"b\": 323.17291928210716, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 316.05496250000033, \"r\": 445.212487375, \"b\": 323.17291928210716, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 51.94375, \"t\": 329.31121250000024, \"r\": 85.4, \"b\": 336.42916928210707, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 4, \"end_row_offset_idx\": 5, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\":"
+      "token_count": 156,
+      "text": "ARTICLE THREE\n\nFUNDING AND PAYMENT\n\n3.1 Funding. During the term of the Project in accordance with the Project Plan, ArTara will provide thirty thousand dollars (US $30,000) per year in funding for the Project, taking into consideration the time spent by University employees required for the Project. The Parties agree to discuss in good faith potential additional funding required for completion of the Project as applicable and necessary.\n\n3.2 Approval Milestone based on Data Value: Within forty-five (45) days of an approval of the TARA-002 BLA by the FDA, ArTara will pay a onetime approval milestone to University pursuant to the usefulness of the Program Data in TARA-002's BLA filing, as set forth below:"
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::9",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE THREE",
         "FUNDING AND PAYMENT"
       ],
       "page_numbers": [
@@ -250,315 +305,55 @@
         6
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::56",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::57",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::58",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::59"
       ],
-      "token_count": 511,
-      "text": "end_row_offset_idx\": 5, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 407.96875, \"t\": 329.31121250000024, \"r\": 441.425, \"b\": 336.42916928210707, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 4, \"end_row_offset_idx\": 5, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"[…***…]\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}]]}\n\n3.3 Royalties. Royalties will be payable by ArTara on Net Sales of Product in the Indication. ArTara will, no later than […***…] following the close of each calendar quarter, pay tiered Royalties based on annual Net Sales of Product in the Indication as set forth below:\n\n{\"table_cells\": [{\"bbox\": {\"l\": 104.96875, \"t\": 93.2244625000003, \"r\": 226.80005049999994, \"b\": 110.4822519387003, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Annual Net Sales of Product for the Indication\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 377.03749999999997, \"t\": 93.2244625000003, \"r\": 490.6625631250003, \"b\": 110.4822519387003, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\":"
+      "token_count": 238,
+      "text": "Official Feedback from FDA regarding the Program Data | Milestone\n[…***…] | $[…***…]\n[…***…] | $[…***…]\n[…***…] | $[…***…]\n[…***…] | […***…]\n\n3.3 Royalties. Royalties will be payable by ArTara on Net Sales of Product in the Indication. ArTara will, no later than […***…] following the close of each calendar quarter, pay tiered Royalties based on annual Net Sales of Product in the Indication as set forth below:\n\n3.4 Royalty Reduction. In the event the Regulatory Authorities determine that the Program Data is not sufficient for Regulatory Approvals on its own and additional pediatric efficacy and safety clinical studies are required, Royalties set forth above will be reduced by […***…] percent ([… ***…]%).\n\n3.5 Sales Milestone Payments. In the event that Annual Net Sales, as detailed in Section 3.3, surpass certain thresholds, ArTara will make the following payments no later than […***…] following the close of the calendar quarter in which each milestone is reached as set forth below:"
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::10",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
+        "3.6 Payments."
       ],
       "page_numbers": [
-        5,
         6
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::60",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::61",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::62",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::63",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::64",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::65"
       ],
-      "token_count": 512,
-      "text": "110.4822519387003, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Annual Royalty Rate Percent Net Sales\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 248.89374999999998, \"t\": 124.15571249999994, \"r\": 300.6562184375001, \"b\": 131.27366928210677, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$0 - $25,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 473.61875, \"t\": 124.15571249999994, \"r\": 493.81874999999985, \"b\": 131.27366928210677, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"1.75%\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 214.17499999999998, \"t\": 144.98696250000012, \"r\": 300.65625, \"b\": 152.10491928210695, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \">$25,000,000 - $50,000,000\", \"column_header\": false"
+      "token_count": 195,
+      "text": "3.6 Payments.\n\nAll payments under Articles 3.2, 3.3 and 3.5 shall be sent to the following address:\n\nChecks will be sent to: The University of Iowa Research Foundation ATTN: Accounting 6 Gilmore Hall 112 North Capitol St. Iowa City, IA 52242-5500 Wire transfers will be sent to:\n\n[…***…]\n\nAnnual Net Sales of Product for the Indication | Annual Royalty Rate Percent Net Sales\n$0 - $25,000,000 | 1.75%\n>$25,000,000 - $50,000,000 | 2.25%\n>$50,000,000 | 2.50%\n\nAnnual Net Sales of Product for the Indication Exceeds | Milestone Payment\n$25,000,000 | $62,500\n$50,000,000 | $62,500\n$100,000,000 | $125,000"
     },
     {
       "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::11",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 512,
-      "text": "_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \">$25,000,000 - $50,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 473.61875, \"t\": 144.98696250000012, \"r\": 493.81874999999985, \"b\": 152.10491928210695, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"2.25%\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 258.36249999999995, \"t\": 165.8182125000003, \"r\": 300.6562184375001, \"b\": 172.93616928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \">$50,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 473.61875, \"t\": 165.8182125000003, \"r\": 493.81874999999985, \"b\": 172.93616928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"2.50%\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], \"num_rows\": 4, \"num_cols\": 2"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::12",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 512,
-      "text": "4, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"2.50%\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], \"num_rows\": 4, \"num_cols\": 2, \"orientation\": \"rot_0\", \"grid\": [[{\"bbox\": {\"l\": 104.96875, \"t\": 93.2244625000003, \"r\": 226.80005049999994, \"b\": 110.4822519387003, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Annual Net Sales of Product for the Indication\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 377.03749999999997, \"t\": 93.2244625000003, \"r\": 490.6625631250003, \"b\": 110.4822519387003, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Annual Royalty Rate Percent Net Sales\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 248.89374999999998, \"t\": 124.15571249999994, \"r\": 300.6562184375001, \"b\": 131.27366928210677, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$0 - $25,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\":"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::13",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 512,
-      "text": "_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$0 - $25,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 473.61875, \"t\": 124.15571249999994, \"r\": 493.81874999999985, \"b\": 131.27366928210677, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"1.75%\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 214.17499999999998, \"t\": 144.98696250000012, \"r\": 300.65625, \"b\": 152.10491928210695, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \">$25,000,000 - $50,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 473.61875, \"t\": 144.98696250000012, \"r\": 493.81874999999985, \"b\": 152.10491928210695, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"2.25%\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 258.36249999999995, \"t\": 165.8182125000003, \"r\":"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::14",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 511,
-      "text": "2, \"text\": \"2.25%\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 258.36249999999995, \"t\": 165.8182125000003, \"r\": 300.6562184375001, \"b\": 172.93616928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \">$50,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 473.61875, \"t\": 165.8182125000003, \"r\": 493.81874999999985, \"b\": 172.93616928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"2.50%\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}]]}\n\n3.4 Royalty Reduction. In the event the Regulatory Authorities determine that the Program Data is not sufficient for Regulatory Approvals on its own and additional pediatric efficacy and safety clinical studies are required, Royalties set forth above will be reduced by […***…] percent ([… ***…]%).\n\n3.5 Sales Milestone Payments. In the event that Annual Net Sales, as detailed in Section 3.3, surpass certain thresholds, ArTara will make the following payments no later than […***…] following the close of the calendar quarter in which each milestone is reached as set forth below:\n\n{\"table_cells\": [{\"bbox\": {\"l\": 139.6875, \"t\": 257.9807125000002, \"r\": 261.45119362499986, \"b\": 275.2385019387002, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \""
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::15",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 512,
-      "text": "139.6875, \"t\": 257.9807125000002, \"r\": 261.45119362499986, \"b\": 275.2385019387002, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Annual Net Sales of Product for the Indication Exceeds\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 425.0125, \"t\": 257.9807125000002, \"r\": 490.6624495000002, \"b\": 265.1385019387003, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Milestone Payment\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 262.78125, \"t\": 288.9119625000003, \"r\": 300.65625, \"b\": 296.02991928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$25,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 469.2, \"t\": 288.9119625000003, \"r\": 493.8187373750002, \"b\": 296.02991928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::16",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 512,
-      "text": "b\": 296.02991928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$62,500\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 262.78125, \"t\": 309.7432125, \"r\": 300.65625, \"b\": 316.86116928210686, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$50,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 469.2, \"t\": 309.7432125, \"r\": 493.8187373750002, \"b\": 316.86116928210686, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$62,500\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 258.99375, \"t\": 330.5744625000002, \"r\": 300.65625, \"b\": 337.69241928210704, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$100,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 465"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::17",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 512,
-      "text": "_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$100,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 465.41249999999997, \"t\": 330.5744625000002, \"r\": 493.8187689375, \"b\": 337.69241928210704, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$125,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], \"num_rows\": 4, \"num_cols\": 2, \"orientation\": \"rot_0\", \"grid\": [[{\"bbox\": {\"l\": 139.6875, \"t\": 257.9807125000002, \"r\": 261.45119362499986, \"b\": 275.2385019387002, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Annual Net Sales of Product for the Indication Exceeds\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 425.0125, \"t\": 257.9807125000002, \"r\": 490.6624495000002, \"b\": 265.1385019387003, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Milestone Payment\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 262"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::18",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 512,
-      "text": "_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Milestone Payment\", \"column_header\": true, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 262.78125, \"t\": 288.9119625000003, \"r\": 300.65625, \"b\": 296.02991928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$25,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 469.2, \"t\": 288.9119625000003, \"r\": 493.8187373750002, \"b\": 296.02991928210713, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$62,500\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 262.78125, \"t\": 309.7432125, \"r\": 300.65625, \"b\": 316.86116928210686, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$50,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 469.2, \"t\": 309.7432125, \"r\": 493.8187373750002, \"b\": 316.86116928210686, \"coord_origin\": \""
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::19",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE THREE",
-        "FUNDING AND PAYMENT"
-      ],
-      "page_numbers": [
-        5,
-        6
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::19",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::20",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::21",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::22",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::23",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::24",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::25",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::26",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::27",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::28"
-      ],
-      "token_count": 425,
-      "text": "\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 469.2, \"t\": 309.7432125, \"r\": 493.8187373750002, \"b\": 316.86116928210686, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$62,500\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 258.99375, \"t\": 330.5744625000002, \"r\": 300.65625, \"b\": 337.69241928210704, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"$100,000,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 465.41249999999997, \"t\": 330.5744625000002, \"r\": 493.8187689375, \"b\": 337.69241928210704, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"$125,000\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}]]}"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::20",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
         "3.6 Payments."
       ],
       "page_numbers": [
-        6,
         7
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::29",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::30",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::31",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::32",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::33",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::34",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::35"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::66",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68"
       ],
-      "token_count": 182,
-      "text": "3.6 Payments.\n\nAll payments under Articles 3.2, 3.3 and 3.5 shall be sent to the following address:\n\nChecks will be sent to: The University of Iowa Research Foundation ATTN: Accounting 6 Gilmore Hall 112 North Capitol St. Iowa City, IA 52242-5500 Wire transfers will be sent to:\n\n[…***…]\n\nArTara will include the University of Iowa Research Foundation agreement number 2019- 068, a reference to \"Richard Smith, MD, ArTara Sponsored Research and License Agreement dated November 28, 2018\" and purpose of payment with all payments. ArTara will add all applicable wire transfer fees to wire transfer payments.\n\nAll other payments shall be sent to the following address:\n\nThe University of Iowa c/o Grant Accounting Office 118 S. Clinton St. Iowa City, IA 52242"
+      "token_count": 103,
+      "text": "ArTara will include the University of Iowa Research Foundation agreement number 2019- 068, a reference to \"Richard Smith, MD, ArTara Sponsored Research and License Agreement dated November 28, 2018\" and purpose of payment with all payments. ArTara will add all applicable wire transfer fees to wire transfer payments.\n\nAll other payments shall be sent to the following address:\n\nThe University of Iowa c/o Grant Accounting Office 118 S. Clinton St. Iowa City, IA 52242"
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::21",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::12",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
@@ -569,16 +364,19 @@
         7
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::36",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::37",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::38",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::39"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75"
       ],
-      "token_count": 228,
-      "text": "ARTICLE FOUR DATA AND INTELLECTUAL PROPERTY\n\n4.1 Program Data and Project Documentation.\n\n(a) Program Data. Access to all original Program Data shall be provided to ArTara and the CRO at University's facilities in accordance with the Project Plan for the purposes of review and copying as and only to the extent needed to support ArTara's efforts to accomplish the Project. As between ArTara and the University, ownership of all Program Data is hereby retained by the University.\n\n(b) Project Documentation. All Project Documentation shall be owned by ArTara to the extent publishable in accordance with Section 5 herein, except that ownership of any and all Program Data incorporated into Project Documentation shall as between ArTara and the University remain with the University. University may use all Project Documentation without royalty obligation for patient care and for its own internal teaching, research, and educational purposes, for publication to the extent permitted under Section 5 herein, and for the purpose of complying with any federal, state, or local laws or regulations. All medical records that support the Program Data and Project Documentation shall remain the property of the University."
+      "token_count": 448,
+      "text": "ARTICLE FOUR DATA AND INTELLECTUAL PROPERTY\n\n4.1 Program Data and Project Documentation.\n\n(a) Program Data. Access to all original Program Data shall be provided to ArTara and the CRO at University's facilities in accordance with the Project Plan for the purposes of review and copying as and only to the extent needed to support ArTara's efforts to accomplish the Project. As between ArTara and the University, ownership of all Program Data is hereby retained by the University.\n\n(b) Project Documentation. All Project Documentation shall be owned by ArTara to the extent publishable in accordance with Section 5 herein, except that ownership of any and all Program Data incorporated into Project Documentation shall as between ArTara and the University remain with the University. University may use all Project Documentation without royalty obligation for patient care and for its own internal teaching, research, and educational purposes, for publication to the extent permitted under Section 5 herein, and for the purpose of complying with any federal, state, or local laws or regulations. All medical records that support the Program Data and Project Documentation shall remain the property of the University.\n\nLicense. University hereby grants to ArTara an exclusive license to use the Program Data solely for the Project and in Regulatory Filings in the Field in the Territory.\n\nRight of Reference and IND Assignment. University hereby grants to ArTara an exclusive Right of Reference to all Program Regulatory Filings by University in support of the Product. Upon written request of ArTara, University will assign the IND to ArTara.\n\nIntellectual Property. All intellectual property or patentable inventions arising out of or in connection with the Project which is discovered or invented solely by the University and/or Principal Investigator shall be the exclusive property of the University (\"University Intellectual Property\"). All intellectual property or patentable inventions arising out of or in connection with the Project which is discovered or invented solely by or on behalf of ArTara shall be the exclusive property of ArTara. All intellectual property or patentable inventions arising out of or in connection with the Project that are discovered or invented jointly by Principal Investigator and ArTara shall be considered Joint Intellectual Property and shall be jointly owned by the University and ArTara."
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::22",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::13",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
@@ -586,28 +384,41 @@
         "CONFIDENTIAL INFORMATION; PUBLICATION"
       ],
       "page_numbers": [
-        8
+        8,
+        9
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::40",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::41",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::42",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::43",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::44",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::45",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::46",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::47",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::48",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::49",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::50",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::51",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::52"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::90",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::91",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::92",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::93",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::94",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::95",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::96",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::97",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::98",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::99",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::100"
       ],
       "token_count": 512,
-      "text": "ARTICLE FIVE\n\nCONFIDENTIAL INFORMATION; PUBLICATION\n\n5.1 Confidentiality. During the term of this Agreement and for a period of seven (7) years after its termination or expiration each Party (the \"Receiving Party\") shall maintain in confidence and, except as authorized by this Agreement, not use any know-how, data, processes, techniques, formulas, test data and other information disclosed by the other Party (the \"Disclosing Party\") and which for any of the foregoing, if written, is marked \"Confidential\" by the Disclosing Party or, if verbal or visual, is identified in writing as \"Confidential\" at the time of disclosure and reduced to writing by the Disclosing Party within thirty (30) days of the verbal or visual disclosure (\"Confidential Information\").\n\n5.2 Exceptions. The obligations of confidentiality and non-use set forth in paragraph 5.1 shall not apply to the extent that it can be established by Receiving Party that the information:\n\n(a) was already known to Receiving Party without restriction at the time of disclosure;\n\n(b) was generally available to the public or otherwise part of the public domain at the time of its disclosure;\n\n(c) became generally available to the public or otherwise part of the public domain after its disclosure to Receiving Party through no breach of this Agreement by Receiving Party;\n\n(e) was independently developed by Receiving Party without the use of Confidential Information;\n\n(g) Disclosing Party gave prior written consent to Receiving Party to disclose such Confidential Information.\n\n5.3 Return of Confidential Information. In the event the Disclosing Party requests in writing the return of Confidential Information, the Receiving\n\nParty shall return such Confidential Information to Disclosing Party with the exception of one copy, which may be retained for archival purposes.\n\n5.4 Publication. The University and ArTara each agree to treat matters of authorship of the Publication in a proper collaborative spirit and following guidelines and policies in accordance with the University of Iowa's Operations Manual which may be found at: https://opsmanual.uiowa.edu/.\n\nIt is anticipated that employees of the University will be first and senior authors on the Publication, but it is understood that final authorship will be determined in accordance with all applicable laws and regulations in publication practice, including Section 6002 of the Affordable Care Act a/k/a Sunshine Act and with ICMJE (International Committee of Medical Journal Editors) guidelines, standard scientific practice and journal guidelines. University and/or Principal Investigator shall"
+      "text": "ARTICLE FIVE\n\nCONFIDENTIAL INFORMATION; PUBLICATION\n\n5.1 Confidentiality. During the term of this Agreement and for a period of seven (7) years after its termination or expiration each Party (the \"Receiving Party\") shall maintain in confidence and, except as authorized by this Agreement, not use any know-how, data, processes, techniques, formulas, test data and other information disclosed by the other Party (the \"Disclosing Party\") and which for any of the foregoing, if written, is marked \"Confidential\" by the Disclosing Party or, if verbal or visual, is identified in writing as \"Confidential\" at the time of disclosure and reduced to writing by the Disclosing Party within thirty (30) days of the verbal or visual disclosure (\"Confidential Information\").\n\n5.2 Exceptions. The obligations of confidentiality and non-use set forth in paragraph 5.1 shall not apply to the extent that it can be established by Receiving Party that the information:\n\n(a) was already known to Receiving Party without restriction at the time of disclosure;\n\n(b) was generally available to the public or otherwise part of the public domain at the time of its disclosure;\n\n(c) became generally available to the public or otherwise part of the public domain after its disclosure to Receiving Party through no breach of this Agreement by Receiving Party;\n\n(d) was disclosed to Receiving Party without restriction by a third party who had no known obligation to not to disclose such information;\n\n(e) was independently developed by Receiving Party without the use of Confidential Information;\n\n(f) was required to be disclosed by operation of law or court order; or\n\n(g) Disclosing Party gave prior written consent to Receiving Party to disclose such Confidential Information.\n\n5.3 Return of Confidential Information. In the event the Disclosing Party requests in writing the return of Confidential Information, the Receiving\n\nParty shall return such Confidential Information to Disclosing Party with the exception of one copy, which may be retained for archival purposes.\n\n5.4 Publication. The University and ArTara each agree to treat matters of authorship of the Publication in a proper collaborative spirit and following guidelines and policies in accordance with the University of Iowa's Operations Manual which may be found at: https://opsmanual.uiowa.edu/.\n\nIt is anticipated that employees of the University will be first and senior authors on the Publication, but it is understood that final authorship will be determined in accordance with all applicable laws and regulations in publication"
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::23",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::14",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
@@ -615,28 +426,125 @@
         "CONFIDENTIAL INFORMATION; PUBLICATION"
       ],
       "page_numbers": [
-        8
+        8,
+        9
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::40",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::41",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::42",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::43",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::44",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::45",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::46",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::47",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::48",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::49",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::50",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::51",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::52"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::90",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::91",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::92",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::93",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::94",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::95",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::96",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::97",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::98",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::99",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::100"
       ],
-      "token_count": 283,
-      "text": "understood that final authorship will be determined in accordance with all applicable laws and regulations in publication practice, including Section 6002 of the Affordable Care Act a/k/a Sunshine Act and with ICMJE (International Committee of Medical Journal Editors) guidelines, standard scientific practice and journal guidelines. University and/or Principal Investigator shall provide ArTara with a copy of any proposed Publication for review and comment at least […***…] prior to submission thereof for publication. ArTara shall have […***…], after receipt of said copy to object to such proposed Publication because there is Confidential Information which needs protection. In the event that ArTara makes such objection, University and/or Principal Investigator shall refrain from submitting such Publication for a maximum of […***…] from date of receipt of such objection in order for ArTara to file patent application(s) directed to patentable subject matter contained in the proposed Publication. If in its review, ArTara identifies information it considers to be its Confidential Information, ArTara may require redaction of that Confidential Information; provided, however, that ArTara shall not require removal of information necessary for complete and accurate presentation and interpretation of the Program Data and results. The Publication shall occur within […***…] of the date the Project is closed or terminated, or University and/or Principal Investigator shall be free to publish Program Data and results at that time."
+      "token_count": 512,
+      "text": "policies in accordance with the University of Iowa's Operations Manual which may be found at: https://opsmanual.uiowa.edu/.\n\nIt is anticipated that employees of the University will be first and senior authors on the Publication, but it is understood that final authorship will be determined in accordance with all applicable laws and regulations in publication practice, including Section 6002 of the Affordable Care Act a/k/a Sunshine Act and with ICMJE (International Committee of Medical Journal Editors) guidelines, standard scientific practice and journal guidelines. University and/or Principal Investigator shall provide ArTara with a copy of any proposed Publication for review and comment at least […***…] prior to submission thereof for publication. ArTara shall have […***…], after receipt of said copy to object to such proposed Publication because there is Confidential Information which needs protection. In the event that ArTara makes such objection, University and/or Principal Investigator shall refrain from submitting such Publication for a maximum of […***…] from date of receipt of such objection in order for ArTara to file patent application(s) directed to patentable subject matter contained in the proposed Publication. If in its review, ArTara identifies information it considers to be its Confidential Information, ArTara may require redaction of that Confidential Information; provided, however, that ArTara shall not require removal of information necessary for complete and accurate presentation and interpretation of the Program Data and results. The Publication shall occur within […***…] of the date the Project is closed or terminated, or University and/or Principal Investigator shall be free to publish Program Data and results at that time.\n\nRepresentations. University represents:\n\n(a) The Program is being, and has been, conducted in accordance with all applicable local, state and federal laws, and regulations, including, but not limited to, the Federal Food, Drug and Cosmetic Act and the regulations of the FDA, International Conference on Harmonization Good Clinical Practices as adopted in the applicable FDA regulations (\"GCP's\"), and the Form FDA 1572 Statements of Investigators.\n\n(b) The Program is being and has been conducted in accordance with all applicable medical privacy laws or regulations, including without limitation, by obtaining any required subject informed consent to allow ArTara and ArTara's authorized representatives, FDA and other Regulatory Authorities access to and use of enrolled subjects' medical information as may be necessary for ArTara to receive and use Program Data under this Agreement.\n\n(c) The clinical studies included in the Program are and have been conducted in accordance with the applicable"
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::24",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::15",
+      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
+      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+      "sections": [
+        "ARTICLE FIVE",
+        "CONFIDENTIAL INFORMATION; PUBLICATION"
+      ],
+      "page_numbers": [
+        8,
+        9
+      ],
+      "element_ids": [
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::90",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::91",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::92",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::93",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::94",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::95",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::96",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::97",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::98",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::99",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::100"
+      ],
+      "token_count": 512,
+      "text": "ArTara and ArTara's authorized representatives, FDA and other Regulatory Authorities access to and use of enrolled subjects' medical information as may be necessary for ArTara to receive and use Program Data under this Agreement.\n\n(c) The clinical studies included in the Program are and have been conducted in accordance with the applicable protocol associated with the BB-IND#5266 held by the Principal Investigator.\n\n(d) University represents that informed consent was required from all individual subjects prior to enrollment in the Program, and that the Program was approved by the Institutional Review Board of the University.\n\n(e) University represents that it is authorized to enter into this Agreement and that the terms of this Agreement are consistent with the rules, regulations, policies and/or guidelines of University.\n\n(f) University represents that to the best of its knowledge and belief there are no outstanding agreements or assignments which are inconsistent with the rights granted to ArTara pursuant to Article Four.\n\n(g) The Parties shall commence performance of the Project promptly after the date of last signature of this Agreement and shall perform the Project in accordance with the current state of the laboratory research art and in accordance with applicable state and federal laws, including export laws, and regulations.\n\n(h) University represents to the best of its knowledge, all information provided to ArTara pursuant to this Agreement is accurate in accordance with ICH-GCP's.\n\n(i) EXCEPT AS OTHERWISE EXPRESSLY SET FORTH IN THIS AGREEMENT, THE UNIVERSITY MAKES NO REPRESENTATION AND EXTENDS NO WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, WITH RESPECT TO THE SUBJECT MATTER OF THIS AGREEMENT. IN PARTICULAR, BUT WITHOUT LIMITATION, THE UNIVERSITY MAKES NO REPRESENTATION AND EXTENDS NO WARRANTY CONCERNING WHETHER THE PROGRAM DATA IS ACCURATE OR COMPLETE. THE PARTIES RECOGNIZE AND AGREE THAT ALL PROGRAM DATA, AND RELATED MATERIALS, DOCUMENTS, AND OTHER INFORMATION, THE UNIVERSITY MAKES AVAILABLE TO ARTARA AT ANY TIME IN CONNECTION WITH THIS AGREEMENT, ARE MADE AVAILABLE TO ARTARA AS AN ACCOMMODATION, AND WITHOUT REPRESENTATION OR WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED OR STATUTORY, AS TO THE ACCURACY AND COMPLETENESS OF SUCH MATERIALS, DOCUMENTS, AND OTHER INFORMATION. ARTARA EXPRESSLY AGREES THAT ANY RELIANCE UPON OR CONCLUSIONS DRAWN FROM THE PROGRAM DATA SHALL BE AT ARTARA'S OWN RISK TO THE MAXIMUM EXTENT PERMITTED BY LAW AND SHALL NOT GIVE RISE TO ANY LIABILITY"
+    },
+    {
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::16",
+      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
+      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+      "sections": [
+        "ARTICLE FIVE",
+        "CONFIDENTIAL INFORMATION; PUBLICATION"
+      ],
+      "page_numbers": [
+        8,
+        9
+      ],
+      "element_ids": [
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::90",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::91",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::92",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::93",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::94",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::95",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::96",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::97",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::98",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::99",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::100"
+      ],
+      "token_count": 118,
+      "text": "OF SUCH MATERIALS, DOCUMENTS, AND OTHER INFORMATION. ARTARA EXPRESSLY AGREES THAT ANY RELIANCE UPON OR CONCLUSIONS DRAWN FROM THE PROGRAM DATA SHALL BE AT ARTARA'S OWN RISK TO THE MAXIMUM EXTENT PERMITTED BY LAW AND SHALL NOT GIVE RISE TO ANY LIABILITY OF OR AGAINST THE UNIVERSITY. ARTARA HEREBY WAIVES AND RELEASES ANY CLAIMS ARISING UNDER THIS AGREEMENT, COMMON LAW OR ANY STATUTE ARISING OUT OF ANY PROGRAM DATA, RELATED MATERIALS, DOCUMENTS OR INFORMATION PROVIDED TO IT BY THE UNIVERSITY."
+    },
+    {
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::17",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
@@ -649,16 +557,54 @@
         11
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::53",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::54",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::55",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::56"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::101",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::102",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::103",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::104",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::105",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::106",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::107",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::108",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::109",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::110",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::111",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::112"
       ],
-      "token_count": 301,
-      "text": "ARTICLE SIX REPRESENTATIONS; INDEMNIFICATION\n\n6.2 Representations. ArTara represents and warrants:\n\n6.3 Indemnification by ArTara. To the extent permitted by law, ArTara agrees to defend, indemnify and hold the University of Iowa Research Foundation, the University, the State of Iowa, the University's Board of Regents, their respective affiliates, trustees, officers, directors, faculty, staff, students, successors, assigns, independent contractors, agents and employees including but not limited to Principal Investigator (\"University Indemnitees\"), harmless from and against any and all liability, loss, expense, reasonable adjudicated attorneys' fees, or claims for injury or damages arising out of the use of the Program Data by ArTara and its Affiliates and subcontractors including but not limited to the CRO involved in the Project, but only in proportion to and to the extent such liability, loss, expense, attorneys' fees, or claims for injury or damages are caused by or result from the negligent or acts or omissions of ArTara, its officers, agents, employees, subcontractors, the CRO or Affiliates.\n\n6.4 No Consequential Damages. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY UNDER THIS AGREEMENT IN A DIRECT ACTION BETWEEN THE PARTIES FOR SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS) SUFFERED BY THE OTHER PARTY."
+      "token_count": 512,
+      "text": "ARTICLE SIX REPRESENTATIONS; INDEMNIFICATION\n\n(j) University represents, to the best of its knowledge and belief, that neither it nor any of its officers, directors, employees involved in performing the Project is presently debarred pursuant to the Generic Drug Enforcement Act of 1992. University shall notify ArTara upon becoming aware of any inquiry or the commencement of any such investigation or proceeding.\n\n6.2 Representations. ArTara represents and warrants:\n\n(a) It is a company duly organized, existing, and in good standing under the laws of Delaware;\n\n(b) The execution, delivery, and performance of this Agreement have been authorized by all necessary corporate action on the part of ArTara and the person signing this Agreement on behalf of ArTara has the authority to do so;\n\n(c) The making, exercising of any right, or performance of any obligation under this Agreement does not violate any separate agreement it has with a third party, and in so acting, ArTara will not breach the terms and conditions of this Agreement or fail to comply with applicable laws, regulations, and court orders;\n\n(d) It is not a party to any agreement or arrangement that would prevent it from performing its duties and fulfilling its obligations to the University under this Agreement;\n\n(e) It has and will maintain at the time specified in Article 7 herein, the insurance coverage called for in Article 7;\n\n(f) It will obtain any additional licenses from any third party needed to perform and fulfill its duties and obligations under this Agreement; and\n\n(g) There is no pending litigation and no threatened claims against it that could impair its ability or capacity to perform and fulfill its duties and obligations under this Agreement.\n\n6.3 Indemnification by ArTara. To the extent permitted by law, ArTara agrees to defend, indemnify and hold the University of Iowa Research Foundation, the University, the State of Iowa, the University's Board of Regents, their respective affiliates, trustees, officers, directors, faculty, staff, students, successors, assigns, independent contractors, agents and employees including but not limited to Principal Investigator (\"University Indemnitees\"), harmless from and against any and all liability, loss, expense, reasonable adjudicated attorneys' fees, or claims for injury or damages arising out of the use of the Program Data by ArTara and its Affiliates and subcontractors including but not limited to the CRO involved in the Project, but only in proportion to and"
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::25",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::18",
+      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
+      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
+      "sections": [
+        "ARTICLE SIX REPRESENTATIONS; INDEMNIFICATION",
+        "6.2 Representations. ArTara represents and warrants:"
+      ],
+      "page_numbers": [
+        9,
+        10,
+        11
+      ],
+      "element_ids": [
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::101",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::102",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::103",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::104",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::105",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::106",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::107",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::108",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::109",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::110",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::111",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::112"
+      ],
+      "token_count": 181,
+      "text": "and against any and all liability, loss, expense, reasonable adjudicated attorneys' fees, or claims for injury or damages arising out of the use of the Program Data by ArTara and its Affiliates and subcontractors including but not limited to the CRO involved in the Project, but only in proportion to and to the extent such liability, loss, expense, attorneys' fees, or claims for injury or damages are caused by or result from the negligent or acts or omissions of ArTara, its officers, agents, employees, subcontractors, the CRO or Affiliates.\n\n6.4 No Consequential Damages. IN NO EVENT SHALL EITHER PARTY BE LIABLE TO THE OTHER PARTY UNDER THIS AGREEMENT IN A DIRECT ACTION BETWEEN THE PARTIES FOR SPECIAL, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF PROFITS) SUFFERED BY THE OTHER PARTY."
+    },
+    {
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::19",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
@@ -669,17 +615,20 @@
         11
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::57",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::58",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::59",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::60",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::61"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::113",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::114",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::115",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::116",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::117",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::118",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::119",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::120"
       ],
-      "token_count": 190,
-      "text": "ARTICLE SEVEN\n\nINSURANCE\n\n7.1 ArTara, Affiliates, and sublicensees will obtain and maintain commercial general liability insurance with a reputable and financially secure insurance carrier prior to clinical testing, making, using, importing, offering to sell, or selling any licensed Product or engaging in any other act involving any licensed Product or the patent rights, if such act could possibly create risk of a claim against University Indemnitees for personal injury or property damage.\n\n7.2 At University's request, such request to be made no more than annually, ArTara will provide University with a certificate of insurance and notices of subsequent renewals for its insurance and that of Affiliates extended rights under this Agreement and of sublicensees.\n\n7.6 The specified minimum coverages and other provisions of this Article Seven do not constitute a limitation on ArTara's obligation to indemnify the University Indemnitees under this Agreement."
+      "token_count": 432,
+      "text": "ARTICLE SEVEN\n\nINSURANCE\n\n7.1 ArTara, Affiliates, and sublicensees will obtain and maintain commercial general liability insurance with a reputable and financially secure insurance carrier prior to clinical testing, making, using, importing, offering to sell, or selling any licensed Product or engaging in any other act involving any licensed Product or the patent rights, if such act could possibly create risk of a claim against University Indemnitees for personal injury or property damage.\n\n(a) The insurance will identify University Indemnitees as additional insureds and will provide that the carrier will notify University in writing at least […***…] prior to cancellation, non-renewal, or material change in coverage. Should ArTara fail to obtain replacement insurance providing comparable coverage within such […***…] period, University will have the right to termination this Agreement effective as of the end of the […***…] period without notice or any additional cure period.\n\n(b) The insurance will include coverage for product liability with a minimum of […***…] dollars ($[…***…]) per occurrence and [… ***…] dollars ($[…***…]) annual aggregate, coverage for contractual liability, clinical trials liability if any such trial is performed, bodily injury and property damage, including completed operations, personal injury, coverage for contractual employees, blanket contractual and products, and all other coverages standard for such policies. Such insurance will additionally include errors and omissions insurance with a minimum of […***…] dollars ($[…***…]) per occurrence.\n\n(c) Insurance policies purchased to comply with this Article Seven will be kept in force for at least […***…] after the last sale of licensed Product.\n\n7.2 At University's request, such request to be made no more than annually, ArTara will provide University with a certificate of insurance and notices of subsequent renewals for its insurance and that of Affiliates extended rights under this Agreement and of sublicensees.\n\n7.6 The specified minimum coverages and other provisions of this Article Seven do not constitute a limitation on ArTara's obligation to indemnify the University Indemnitees under this Agreement."
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::26",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::20",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
@@ -690,410 +639,110 @@
         12
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::62",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::63",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::64",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::65",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::66"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::121",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::122",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::123",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::124",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::125"
       ],
       "token_count": 283,
       "text": "ARTICLE EIGHT\n\nTERM AND TERMINATION\n\n8.1 Term. This Agreement may be terminated by ArTara upon thirty (30) days prior written notice to University.\n\n8.2 Termination by Either Party. Either Party may terminate the Project and all commitments and obligations with respect thereto, subject to Section 8.3 herein, upon thirty (30) days written notice to the other Party. In the event of any termination of the Project by University, (a) University agrees to complete Phase I and II of the Project, and (b) ArTara will continue to provide annual funding until the completion of Phase II. Upon termination of the Project by ArTara this Agreement will terminate subject to Section 8.3 and ArTara will reassign to University the IND if assignment thereof previously occurred pursuant to Section 4.3.\n\n8.3 Survival. Termination of the Project for any reason shall not relieve any Party of any obligation that accrued under this Agreement prior to termination. The provisions of Article Three, Article Four, Article Five, Sections 6.3 and 6.4, and Articles Seven through Nine shall survive termination of the Project by University. The provisions of Article Five, Sections 6.3 and 6.4, Article Seven, Section 8.3 and Article Nine shall survive termination of the Project and this Agreement by ArTara."
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::27",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::21",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
         "ARTICLE NINE",
-        "MISCELLANEOUS",
-        "EXHIBIT A",
-        "PROGRAM DATA"
+        "MISCELLANEOUS"
       ],
       "page_numbers": [
         12,
         13,
-        14,
-        15
+        14
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::126",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::127",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::128",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::129",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::130",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::131",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::132",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::133",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::134",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::135",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::136",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::137",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::138",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::139",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::140",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::141",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::142",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::143",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::144"
       ],
       "token_count": 512,
       "text": "ARTICLE NINE\n\nMISCELLANEOUS\n\n9.1 Force Majeure. University will not be liable for any failure to perform as required by this Agreement, if the failure to perform is caused by circumstances reasonably beyond University's control, such as labor disturbances or labor disputes of any kind, accidents, failure of any governmental approval required for full performance, civil disorders or commotions, acts of aggression, acts of God, energy or other conservation measures, explosions, failure of utilities, mechanical breakdowns, material shortages, disease, thefts, or other such occurrences.\n\n9.2 Publicity. No Party will use directly or by implication the name of any other Party, or the name of any employee thereof without prior written notification and agreement of the named Party for promotional, marketing or advertising purposes. Notwithstanding the foregoing, nothing herein shall prevent either Party from disclosing the existence of this Agreement, the identities of the Parties, or the basic nature and scope of the purpose of this Agreement.\n\n9.3 Notices. Any Notice required to be given pursuant to this Agreement shall be made by personal delivery or, if by mail, then by registered or certified mail, return receipt requested, by one Party to the other Party at the following addresses.\n\nIn the case of ArTara, Notice should be sent to:\n\nArTara Therapeutics\n\n1 Little West 12 th Street NY, NY 10014\n\nAttention: Jesse Shefferman In the case of University, Notice should be sent to: The University of Iowa c/o Division of Sponsored Programs 2 Gilmore Hall Iowa City, IA 52242\n\nAttention: […***…]\n\n9.4 Governing Law. This Agreement shall be governed by the laws of the State of Iowa.\n\n9.5 Assignment. No Party may assign any rights under this Agreement or delegate any duties hereunder without the prior written consent of the other Party.\n\n9.6 Independent Contractors. The relationship between ArTara and the University created by this Agreement shall be one of an independent contractor and no Party shall have the authority to bind or act as agent for the other Party.\n\n9.7 Entire Agreement. This Agreement constitutes the entire agreement between the Parties with respect to the subject matter hereof and supersedes all prior agreements and understandings between the Parties (whether written or verbal) relating to said subject matter.\n\n9.8 Severability. Whenever possible each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law but should any provision of this Agreement be"
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::28",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::22",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
         "ARTICLE NINE",
-        "MISCELLANEOUS",
-        "EXHIBIT A",
-        "PROGRAM DATA"
+        "MISCELLANEOUS"
       ],
       "page_numbers": [
         12,
         13,
-        14,
-        15
+        14
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::126",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::127",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::128",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::129",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::130",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::131",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::132",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::133",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::134",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::135",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::136",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::137",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::138",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::139",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::140",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::141",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::142",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::143",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::144"
       ],
-      "token_count": 512,
-      "text": "hereof and supersedes all prior agreements and understandings between the Parties (whether written or verbal) relating to said subject matter.\n\n9.8 Severability. Whenever possible each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law but should any provision of this Agreement be held to be prohibited or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of this Agreement. However, if such provision is deemed significant and its invalidity would substantially alter the basis of this Agreement, the Parties will negotiate in good faith to amend the provisions of this Agreement to give effect to the original intent of the parties.\n\n9.9 Waiver. No provision of this Agreement shall be waived by any act or omission of the Parties or their agents or employees except by an instrument in writing expressly waiving such provision and signed by a duly authorized officer of the waiving Party.\n\n9.10 Counterparts. This Agreement may be signed in any number of counterparts, including in PDF format, each of which shall be an original, with the same effect as though the signatures hereto and thereto were on the same instrument.\n\n9.11 Section Headings. The recitals and descriptive headings of this Agreement are for convenience only and shall be of no force or effect in interpreting any of the provisions of this Agreement.\n\nIN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed by an authorized official as of the day and year first above written.\n\n{\"table_cells\": [{\"bbox\": {\"l\": 50.05, \"t\": 72.39281249999999, \"r\": 162.41252524999993, \"b\": 79.5506019387002, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"ARTARA THERAPEUTICS, INC.\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 82.49281250000001, \"r\": 118.85628787499998, \"b\": 89.61076928210673, \"coord_origin\": \""
+      "token_count": 314,
+      "text": "hereof and supersedes all prior agreements and understandings between the Parties (whether written or verbal) relating to said subject matter.\n\n9.8 Severability. Whenever possible each provision of this Agreement shall be interpreted in such a manner as to be effective and valid under applicable law but should any provision of this Agreement be held to be prohibited or invalid under applicable law, such provision shall be ineffective only to the extent of such prohibition or invalidity, without invalidating the remainder of this Agreement. However, if such provision is deemed significant and its invalidity would substantially alter the basis of this Agreement, the Parties will negotiate in good faith to amend the provisions of this Agreement to give effect to the original intent of the parties.\n\n9.9 Waiver. No provision of this Agreement shall be waived by any act or omission of the Parties or their agents or employees except by an instrument in writing expressly waiving such provision and signed by a duly authorized officer of the waiving Party.\n\n9.10 Counterparts. This Agreement may be signed in any number of counterparts, including in PDF format, each of which shall be an original, with the same effect as though the signatures hereto and thereto were on the same instrument.\n\n9.11 Section Headings. The recitals and descriptive headings of this Agreement are for convenience only and shall be of no force or effect in interpreting any of the provisions of this Agreement.\n\nIN WITNESS WHEREOF, the Parties have caused this Agreement to be duly executed by an authorized official as of the day and year first above written."
     },
     {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::29",
+      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::23",
       "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
       "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
       "sections": [
-        "ARTICLE NINE",
         "MISCELLANEOUS",
         "EXHIBIT A",
         "PROGRAM DATA"
       ],
       "page_numbers": [
-        12,
-        13,
         14,
         15
       ],
       "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::145",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::146",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::147",
+        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::148"
       ],
-      "token_count": 512,
-      "text": ", \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 82.49281250000001, \"r\": 118.85628787499998, \"b\": 89.61076928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"/s/ Jesse Shefferman\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 93.22406249999995, \"r\": 144.73758206250002, \"b\": 110.4420192821068, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By: Jesse Shefferman Title: Chief Executive Officer\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 113.42406249999999, \"r\": 148.52496212499994, \"b\": 120.58185193870008, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"THE UNIVERSITY OF IOWA\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 123.52406250000001, \"r\": 110.65003156250003, \"b\": 130.64201928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 4,"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::30",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE NINE",
-        "MISCELLANEOUS",
-        "EXHIBIT A",
-        "PROGRAM DATA"
-      ],
-      "page_numbers": [
-        12,
-        13,
-        14,
-        15
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
-      ],
-      "token_count": 511,
-      "text": "123.52406250000001, \"r\": 110.65003156250003, \"b\": 130.64201928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 4, \"end_row_offset_idx\": 5, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"/s/ Wendy Beaver\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 134.25531249999995, \"r\": 113.17500000000004, \"b\": 141.37326928210678, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 5, \"end_row_offset_idx\": 6, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By: Wendy Beaver\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 144.35531250000008, \"r\": 266.5687752500001, \"b\": 161.61310193870008, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 6, \"end_row_offset_idx\": 7, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title: Executive Director, Division of Sponsored Programs READ & ACKNOWLEDGED BY PRINCIPAL INVESTIGATOR\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 164.5553125, \"r\": 107.49375, \"b\": 171.67326928210684, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 7, \"end_row_offset_idx\": 8, \"start_col_offset_idx\": 0, \"end_col_offset_idx"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::31",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE NINE",
-        "MISCELLANEOUS",
-        "EXHIBIT A",
-        "PROGRAM DATA"
-      ],
-      "page_numbers": [
-        12,
-        13,
-        14,
-        15
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
-      ],
-      "token_count": 512,
-      "text": "\": 171.67326928210684, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 7, \"end_row_offset_idx\": 8, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"/s/ Richard Smith\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 175.28656250000006, \"r\": 111.9541056875, \"b\": 182.40451928210678, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 8, \"end_row_offset_idx\": 9, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By: Richard Smith,\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 113.81405856250001, \"t\": 175.28656250000006, \"r\": 130.850037875, \"b\": 182.40451928210678, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 9, \"end_row_offset_idx\": 10, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"M.D.\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 50.05, \"t\": 185.38656249999997, \"r\": 246.36878156249995, \"b\": 192.5045192821068, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 10, \"end_row_offset_idx\": 11, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title: Professor of Otolaryngology Head and Neck Surgery\", \"column_header\": false, \"row_header\": false, \"row_section\":"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::32",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE NINE",
-        "MISCELLANEOUS",
-        "EXHIBIT A",
-        "PROGRAM DATA"
-      ],
-      "page_numbers": [
-        12,
-        13,
-        14,
-        15
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
-      ],
-      "token_count": 511,
-      "text": "10, \"end_row_offset_idx\": 11, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title: Professor of Otolaryngology Head and Neck Surgery\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], \"num_rows\": 11, \"num_cols\": 1, \"orientation\": \"rot_0\", \"grid\": [[{\"bbox\": {\"l\": 50.05, \"t\": 72.39281249999999, \"r\": 162.41252524999993, \"b\": 79.5506019387002, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"ARTARA THERAPEUTICS, INC.\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 82.49281250000001, \"r\": 118.85628787499998, \"b\": 89.61076928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"/s/ Jesse Shefferman\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 93.22406249999995, \"r\": 144.73758206250002, \"b\": 110.4420192821068, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By: Jesse Shefferman Title: Chief Executive Officer\", \"column_header\": false, \"row_header\": false, \""
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::33",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE NINE",
-        "MISCELLANEOUS",
-        "EXHIBIT A",
-        "PROGRAM DATA"
-      ],
-      "page_numbers": [
-        12,
-        13,
-        14,
-        15
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
-      ],
-      "token_count": 512,
-      "text": "start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By: Jesse Shefferman Title: Chief Executive Officer\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 113.42406249999999, \"r\": 148.52496212499994, \"b\": 120.58185193870008, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 3, \"end_row_offset_idx\": 4, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"THE UNIVERSITY OF IOWA\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 123.52406250000001, \"r\": 110.65003156250003, \"b\": 130.64201928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 4, \"end_row_offset_idx\": 5, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"/s/ Wendy Beaver\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 134.25531249999995, \"r\": 113.17500000000004, \"b\": 141.37326928210678, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 5, \"end_row_offset_idx\": 6, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By: Wendy Beaver\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 144.35531250000008, \"r"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::34",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE NINE",
-        "MISCELLANEOUS",
-        "EXHIBIT A",
-        "PROGRAM DATA"
-      ],
-      "page_numbers": [
-        12,
-        13,
-        14,
-        15
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
-      ],
-      "token_count": 512,
-      "text": "_col_offset_idx\": 1, \"text\": \"By: Wendy Beaver\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 144.35531250000008, \"r\": 266.5687752500001, \"b\": 161.61310193870008, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 6, \"end_row_offset_idx\": 7, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title: Executive Director, Division of Sponsored Programs READ & ACKNOWLEDGED BY PRINCIPAL INVESTIGATOR\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 164.5553125, \"r\": 107.49375, \"b\": 171.67326928210684, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 7, \"end_row_offset_idx\": 8, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"/s/ Richard Smith\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 175.28656250000006, \"r\": 111.9541056875, \"b\": 182.40451928210678, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 8, \"end_row_offset_idx\": 9, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By: Richard Smith,\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 113.81405856250001, \"t\": 175.28656250000006, \"r\": 130.850037875, \"b\": 182.40451928210678,"
-    },
-    {
-      "chunk_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::chunk::35",
-      "document_id": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement",
-      "source_file": "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement.pdf",
-      "sections": [
-        "ARTICLE NINE",
-        "MISCELLANEOUS",
-        "EXHIBIT A",
-        "PROGRAM DATA"
-      ],
-      "page_numbers": [
-        12,
-        13,
-        14,
-        15
-      ],
-      "element_ids": [
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::67",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::68",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::69",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::70",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::71",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::72",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::73",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::74",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::75",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::76",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::77",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::78",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::79",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::80",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::81",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::82",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::83",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::84",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::85",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::86",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::87",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::88",
-        "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement::element::89"
-      ],
-      "token_count": 312,
-      "text": "_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 113.81405856250001, \"t\": 175.28656250000006, \"r\": 130.850037875, \"b\": 182.40451928210678, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 9, \"end_row_offset_idx\": 10, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"M.D.\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 50.05, \"t\": 185.38656249999997, \"r\": 246.36878156249995, \"b\": 192.5045192821068, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 10, \"end_row_offset_idx\": 11, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title: Professor of Otolaryngology Head and Neck Surgery\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}]]}\n\n[…***…]\n\nEXHIBIT A\n\nPROGRAM DATA"
+      "token_count": 109,
+      "text": "ARTARA THERAPEUTICS, INC.\n/s/ Jesse Shefferman\nBy: Jesse Shefferman Title: Chief Executive Officer\nTHE UNIVERSITY OF IOWA\n/s/ Wendy Beaver\nBy: Wendy Beaver\nTitle: Executive Director, Division of Sponsored Programs READ & ACKNOWLEDGED BY PRINCIPAL INVESTIGATOR\n/s/ Richard Smith\nBy: Richard Smith,\nM.D.\nTitle: Professor of Otolaryngology Head and Neck Surgery\n\n[…***…]\n\nEXHIBIT A\n\nPROGRAM DATA"
     }
   ]
 }

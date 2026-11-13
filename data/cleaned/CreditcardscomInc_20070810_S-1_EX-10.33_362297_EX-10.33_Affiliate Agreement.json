@@ -58,8 +58,8 @@
       "page_no": 1,
       "section": "CHASE AFFILIATE AGREEMENT",
       "section_level": 1,
-      "label": "text",
-      "text": "To enroll in the Affiliate Program, you must submit a complete \"Affiliate Registration Form\" via the Chase Affiliate Website:",
+      "label": "list_item",
+      "text": "Enrollment in the Affiliate Program; Restricted Content",
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
@@ -69,7 +69,7 @@
       "section": "CHASE AFFILIATE AGREEMENT",
       "section_level": 1,
       "label": "text",
-      "text": "For new affiliates: https://ssl.linksynergy.com/php-bin/reg/sregister.shtml?mid=2291",
+      "text": "To enroll in the Affiliate Program, you must submit a complete \"Affiliate Registration Form\" via the Chase Affiliate Website:",
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
@@ -79,7 +79,7 @@
       "section": "CHASE AFFILIATE AGREEMENT",
       "section_level": 1,
       "label": "text",
-      "text": "For existing affiliates: http://www.linkshare.com/joinprograms?oid=87909",
+      "text": "For new affiliates: https://ssl.linksynergy.com/php-bin/reg/sregister.shtml?mid=2291",
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
@@ -89,11 +89,91 @@
       "section": "CHASE AFFILIATE AGREEMENT",
       "section_level": 1,
       "label": "text",
-      "text": "Chase will evaluate your registration form and will notify you via e-mail of the acceptance or rejection of your registration form. Chase reserves, in its sole discretion, with or without reason, the right to accept or reject your registration into the Chase Affiliate Program, including but not limited to a determination that your site is unsuitable for or incompatible with the Affiliate Program based on the following criteria (collectively \"Restricted Content\"):",
+      "text": "For existing affiliates: http://www.linkshare.com/joinprograms?oid=87909",
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
       "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::9",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 1,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "text",
+      "text": "Chase will evaluate your registration form and will notify you via e-mail of the acceptance or rejection of your registration form. Chase reserves, in its sole discretion, with or without reason, the right to accept or reject your registration into the Chase Affiliate Program, including but not limited to a determination that your site is unsuitable for or incompatible with the Affiliate Program based on the following criteria (collectively \"Restricted Content\"):",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::10",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 1,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Incorporates images or content that is any way unlawful, offensive, profane, harmful, threatening, defamatory, obscene, harassing or racially, ethically or otherwise objectionable",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::11",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 1,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Promote illegal activities, including gambling",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::12",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 1,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Promotes or depicts sexually explicit, obscene or pornographic images",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::13",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 1,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Promotes or depicts violence or hate speech",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::14",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 1,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Promotes discrimination based on race, sex, religion, nationality, disability, sexual orientation or age",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::15",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Incorporates any materials which infringe or assist others to infringe on any copyright, trademark or other intellectual property rights",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::16",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Contains or promotes politically sensitive or controversial issues",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::17",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 2,
       "section": "CHASE AFFILIATE AGREEMENT",
@@ -103,7 +183,17 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::10",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::18",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Manipulates key word searches on portals",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::19",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 2,
       "section": "CHASE AFFILIATE AGREEMENT",
@@ -113,7 +203,797 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::11",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::20",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Engages in domain squatting",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::21",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Engages in spamming or unsolicited commercial e-mail",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::22",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Engages in unauthorized telemarketing or remarketing of Chase Credit Card offers via telephone",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::23",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Uses Chase products and services in the domain name, URL or URI, including, but not limited to, any combination of the following words:",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::24",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "JP",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::25",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "MORGAN",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::26",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "CHASE",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::27",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "MANHATTAN",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::28",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "AARP",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::29",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "AMAZON.COM",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::30",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "BALL STATE UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::31",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "BORDERS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::32",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "BRITISH AIRWAYS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::33",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "CASH PLUS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::34",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "CHASE FREEDOM",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::35",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "CENTRAL MICHIGAN UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::36",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "CONTINENTAL",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::37",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "CORNELL UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::38",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "DISNEY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::39",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "DUKE UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::40",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "FLEXIBLE REWARDS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::41",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "FREE CASH",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::42",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "HARVARD COOP",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::43",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "HESS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::44",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "HOME IMPROVEMENT",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::45",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "LEHIGH UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::46",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "LOUISIANA STATE UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::47",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "MARATHON",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::48",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "MARRIOTT",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::49",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "MIAMI UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::50",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "OHIO UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::51",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "OVERSTOCK",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::52",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "PERFECT CARD",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::53",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "PRIORITY CLUB / HOLIDAY INN",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::54",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "SONY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::55",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "SOUTHERN ILLINOIS UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::56",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 2,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "SPEEDWAY SUPER AMERICA",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::57",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "STARBUCKS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::58",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "SUBARU",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::59",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "TEMPLE UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::60",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "TOYS \"R\" US",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::61",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "TRAVEL PLUS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::62",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "TRUMP",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::63",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "ULTIMATE REWARDS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::64",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNITED",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::65",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSAL",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::66",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF ARIZONA ATHLETICS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::67",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF CHICAGO",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::68",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF FLORIDA",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::69",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF HOUSTON",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::70",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF IDAHO",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::71",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF KENTUCKY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::72",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF MARYLAND",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::73",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF MEMPHIS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::74",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF MINNESOTA ATHLETICS",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::75",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF NOTRE DAME",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::76",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF OKLAHOMA",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::77",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF OREGON",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::78",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF SOUTH CAROLINA",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::79",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF TENNESSEE",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::80",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UNIVERSITY OF VIRGINIA",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::81",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "UTAH STATE UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::82",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "VALUE MILES",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::83",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "VIRGINIA TECH APPROVED ACCOUNT",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::84",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "VOLKSWAGEN",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::85",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "WESTERN ILLINOIS UNIVERSITY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::86",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "YALE UNIVERSTIY",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::87",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Uses a proxy server or redirector server to proxy Chase web pages or web sites through your website, URL or URI",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::88",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Otherwise violates intellectual property rights, including, without limitation, \"scraping\" text or images from Chase's Website",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::89",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Does not clearly state an online privacy policy to its visitors",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::90",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Is based outside of the United States",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::91",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Is otherwise considered offensive or inappropriate, at Chase's discretion",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::92",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Affiliate Responsibilities:",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::93",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Affiliate cannot use or implement creative that is not available through the LinkShare affiliate interface.",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::94",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Affiliates may not harvest or collect personal information, or email addresses using the Chase brand without the written consent of Chase",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::95",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "If Affiliate manages a sub-affiliate network, upon Chase's request, Affiliate shall promptly provide Chase with a current, written list identifying the sub-affiliates or other third parties associated.",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::96",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Chase reserves the right to review and approve all sub-affiliate partners.",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::97",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Chase shall only use the list for the sole purpose of administering the program and monitoring proper usage, and will not poach or contact subaffiliates directly.",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::98",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 3,
+      "section": "CHASE AFFILIATE AGREEMENT",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Affiliates will not use the following product keyword search terms. (See Appendix)",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::99",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "CHASE AFFILIATE AGREEMENT",
@@ -123,7 +1003,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::12",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::100",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "CHASE AFFILIATE AGREEMENT",
@@ -133,7 +1013,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::13",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::101",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "3. Referral Fee",
@@ -143,7 +1023,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::14",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::102",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "3. Referral Fee",
@@ -153,7 +1033,17 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::15",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::103",
+      "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+      "page_no": 4,
+      "section": "3. Referral Fee",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Tiered or flat commission based on private offer terms in the network.",
+      "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
+    },
+    {
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::104",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "3. Referral Fee",
@@ -163,7 +1053,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::16",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::105",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "4. Approved Account",
@@ -173,7 +1063,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::17",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::106",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "4. Approved Account",
@@ -183,7 +1073,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::18",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::107",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "5.Term of this Agreement",
@@ -193,7 +1083,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::19",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::108",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "5.Term of this Agreement",
@@ -203,7 +1093,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::20",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::109",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "5.Term of this Agreement",
@@ -213,7 +1103,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::21",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::110",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "6. Links",
@@ -223,7 +1113,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::22",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::111",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 4,
       "section": "6. Links",
@@ -233,7 +1123,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::23",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::112",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "7. Order Processing",
@@ -243,7 +1133,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::24",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::113",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "7. Order Processing",
@@ -253,7 +1143,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::25",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::114",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "8. Tracking of Sales",
@@ -263,7 +1153,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::26",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::115",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "8. Tracking of Sales",
@@ -273,7 +1163,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::27",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::116",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "9. Terms and Conditions of Credit Cards",
@@ -283,7 +1173,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::28",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::117",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "9. Terms and Conditions of Credit Cards",
@@ -293,7 +1183,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::29",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::118",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "10. Chase Customers",
@@ -303,7 +1193,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::30",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::119",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "10. Chase Customers",
@@ -313,7 +1203,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::31",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::120",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "11. Product Descriptions",
@@ -323,7 +1213,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::32",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::121",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "11. Product Descriptions",
@@ -333,7 +1223,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::33",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::122",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "12. Copyrighted Material",
@@ -343,7 +1233,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::34",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::123",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 5,
       "section": "12. Copyrighted Material",
@@ -353,7 +1243,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::35",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::124",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "13. Commercial Use",
@@ -363,7 +1253,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::36",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::125",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "13. Commercial Use",
@@ -373,7 +1263,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::37",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::126",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "14. Trademarks",
@@ -383,7 +1273,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::38",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::127",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "14. Trademarks",
@@ -393,7 +1283,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::39",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::128",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "14. Trademarks",
@@ -403,7 +1293,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::40",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::129",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "15. Licenses and Use of the Chase Logos and Trademarks",
@@ -413,7 +1303,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::41",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::130",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "15. Licenses and Use of the Chase Logos and Trademarks",
@@ -423,7 +1313,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::42",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::131",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "15. Licenses and Use of the Chase Logos and Trademarks",
@@ -433,7 +1323,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::43",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::132",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "16. Service Interruption",
@@ -443,7 +1333,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::44",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::133",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "16. Service Interruption",
@@ -453,7 +1343,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::45",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::134",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 6,
       "section": "17. Indemnification",
@@ -463,7 +1353,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::46",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::135",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 7,
       "section": "17. Indemnification",
@@ -473,7 +1363,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::47",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::136",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 7,
       "section": "18. Confidentiality",
@@ -483,7 +1373,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::48",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::137",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 7,
       "section": "18. Confidentiality",
@@ -493,7 +1383,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::49",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::138",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 7,
       "section": "19. Modification",
@@ -503,7 +1393,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::50",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::139",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 7,
       "section": "19. Modification",
@@ -513,7 +1403,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::51",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::140",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 7,
       "section": "20. Warranty Disclaimer",
@@ -523,7 +1413,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::52",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::141",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 7,
       "section": "20. Warranty Disclaimer",
@@ -533,7 +1423,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::53",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::142",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "21. Limitation of Damages",
@@ -543,7 +1433,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::54",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::143",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "21. Limitation of Damages",
@@ -553,7 +1443,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::55",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::144",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "21. Limitation of Damages",
@@ -563,7 +1453,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::56",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::145",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "22. Independent Investigation",
@@ -573,7 +1463,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::57",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::146",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "22. Independent Investigation",
@@ -583,7 +1473,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::58",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::147",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "23. Governing Law",
@@ -593,7 +1483,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::59",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::148",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "23. Governing Law",
@@ -603,7 +1493,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::60",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::149",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "23. Governing Law",
@@ -613,7 +1503,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::61",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::150",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "23. Governing Law",
@@ -623,7 +1513,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::62",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::151",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "23. Governing Law",
@@ -633,7 +1523,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::63",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::152",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "Partner Restricted Trademark Terms",
@@ -643,7 +1533,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::64",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::153",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "Partner Restricted Trademark Terms",
@@ -653,7 +1543,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::65",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::154",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "Partner Restricted Trademark Terms",
@@ -663,7 +1553,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::66",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::155",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "Partner Restricted Trademark Terms",
@@ -673,7 +1563,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::67",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::156",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "Partner Restricted Trademark Terms",
@@ -683,7 +1573,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::68",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::157",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "Partner Restricted Trademark Terms",
@@ -693,7 +1583,7 @@
       "source_file": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement.pdf"
     },
     {
-      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::69",
+      "element_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::element::158",
       "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
       "page_no": 8,
       "section": "Partner Restricted Trademark Terms",

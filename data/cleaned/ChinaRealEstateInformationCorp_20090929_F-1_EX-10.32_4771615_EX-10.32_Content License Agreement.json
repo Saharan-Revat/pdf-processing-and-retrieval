@@ -1208,28 +1208,28 @@
       "page_no": 16,
       "section": "if to Licensee:",
       "section_level": 1,
-      "label": "table",
-      "table_text": "{\"table_cells\": [{\"bbox\": {\"l\": 279.825, \"t\": 116.64712499999996, \"r\": 346.50841937499973, \"b\": 122.66039610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By:/s/ Charles Chao\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 291.1875, \"t\": 126.7471250000001, \"r\": 312.01875, \"b\": 132.12914610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Name:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 291.1875, \"t\": 136.2158750000001, \"r\": 308.23124999999993, \"b\": 141.59789610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], \"num_rows\": 3, \"num_cols\": 1, \"orientation\": \"rot_0\", \"grid\": [[{\"bbox\": {\"l\": 279.825, \"t\": 116.64712499999996, \"r\": 346.50841937499973, \"b\": 122.66039610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By:/s/ Charles Chao\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 291.1875, \"t\": 126.7471250000001, \"r\": 312.01875, \"b\": 132.12914610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Name:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 291.1875, \"t\": 136.2158750000001, \"r\": 308.23124999999993, \"b\": 141.59789610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}]]}",
+      "label": "text",
+      "text": "Beijing Yisheng Leju Information Services Co., Ltd.",
       "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
     },
     {
       "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::121",
       "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
       "page_no": 16,
-      "section": "if to Licensee:",
-      "section_level": 1,
-      "label": "text",
-      "text": "Beijing Yisheng Leju Information Services Co., Ltd.",
+      "section": null,
+      "section_level": null,
+      "label": "table",
+      "table_text": "By:/s/ Charles Chao\nName:\nTitle:",
       "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
     },
     {
       "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::122",
       "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
       "page_no": 16,
-      "section": "if to Licensee:",
-      "section_level": 1,
+      "section": null,
+      "section_level": null,
       "label": "table",
-      "table_text": "{\"table_cells\": [{\"bbox\": {\"l\": 279.825, \"t\": 182.92837499999996, \"r\": 326.9875181249998, \"b\": 188.94164610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By:/s/ Fei Cao\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 291.1875, \"t\": 193.0283750000001, \"r\": 312.01875, \"b\": 198.41039610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Name:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 291.1875, \"t\": 202.4971250000001, \"r\": 308.23124999999993, \"b\": 207.87914610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], \"num_rows\": 3, \"num_cols\": 1, \"orientation\": \"rot_0\", \"grid\": [[{\"bbox\": {\"l\": 279.825, \"t\": 182.92837499999996, \"r\": 326.9875181249998, \"b\": 188.94164610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"By:/s/ Fei Cao\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 291.1875, \"t\": 193.0283750000001, \"r\": 312.01875, \"b\": 198.41039610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Name:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 291.1875, \"t\": 202.4971250000001, \"r\": 308.23124999999993, \"b\": 207.87914610389612, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"Title:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}]]}",
+      "table_text": "By:/s/ Fei Cao\nName:\nTitle:",
       "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
     },
     {
@@ -1410,6 +1410,96 @@
       "section_level": 1,
       "label": "text",
       "text": "[SIGNATURES ON NEXT PAGE]",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::141",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "IN WITNESS WHEREOF, the undersigned have executed this Termination Agreement as of the date first set forth above.",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::142",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "Beijing SINA Internet Information Service Co., Ltd.",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::143",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "By:",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::144",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "Name:",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::145",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "Title:",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::146",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "Shanghai SINA Leju Information Technology Co. Ltd.",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::147",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "By:",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::148",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "Name:",
+      "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
+    },
+    {
+      "element_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement::element::149",
+      "document_id": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement",
+      "page_no": 19,
+      "section": "WITNESSETH:",
+      "section_level": 1,
+      "label": "text",
+      "text": "Title:",
       "source_file": "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement.pdf"
     }
   ]

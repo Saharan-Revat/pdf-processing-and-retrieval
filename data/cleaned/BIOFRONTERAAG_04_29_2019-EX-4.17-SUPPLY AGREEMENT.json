@@ -288,8 +288,8 @@
       "page_no": 4,
       "section": "1.7 Manufacture",
       "section_level": 1,
-      "label": "text",
-      "text": "\"Product(s)\" means product(s) as listed from time to time in Schedule A Manufactured by the Supplier (directly or through a third person) to meet the Specifications (as hereinafter defined); except as otherwise set forth on Schedule A, the Product will be ready for re-sale by CUTANEA to its customers in finished, final packaged form bearing CUTANEA's labels, it being understood that, after generic competition of the Product enters the market in the United States of America including Puerto Rico and the U.S. Virgin Islands, CUTANEA will be permitted to place orders for Product under a generic label. The term \"Generic\" shall be interpreted as defined under Section 1.17 of the LSA.",
+      "label": "list_item",
+      "text": "Product(s)",
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
@@ -299,7 +299,7 @@
       "section": "1.7 Manufacture",
       "section_level": 1,
       "label": "text",
-      "text": "\"Specifications\" means, with respect to the Products, the critical quality standards that include test attributes, analytical procedures, and appropriate acceptance criteria and Manufacturing procedures for which such Product should conform to be considered acceptable for its intended use and conform to quality standards approved by Governmental and Regulatory Authorities and as provided in the NDA for the Products, and required for the Manufacture and supply of such Product(s).",
+      "text": "\"Product(s)\" means product(s) as listed from time to time in Schedule A Manufactured by the Supplier (directly or through a third person) to meet the Specifications (as hereinafter defined); except as otherwise set forth on Schedule A, the Product will be ready for re-sale by CUTANEA to its customers in finished, final packaged form bearing CUTANEA's labels, it being understood that, after generic competition of the Product enters the market in the United States of America including Puerto Rico and the U.S. Virgin Islands, CUTANEA will be permitted to place orders for Product under a generic label. The term \"Generic\" shall be interpreted as defined under Section 1.17 of the LSA.",
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
@@ -308,8 +308,8 @@
       "page_no": 4,
       "section": "1.7 Manufacture",
       "section_level": 1,
-      "label": "text",
-      "text": "\"Supply Price\" means the price to be charged to CUTANEA from time to time by Supplier for Products Manufactured and supplied hereunder, as set forth in Schedule A.",
+      "label": "list_item",
+      "text": "Specifications",
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
@@ -319,7 +319,7 @@
       "section": "1.7 Manufacture",
       "section_level": 1,
       "label": "text",
-      "text": "Subject to the terms and conditions of this Agreement, Supplier agrees that it will, on a non-exclusive basis (but exclusive for supply of the Product in the United States of America including Puerto Rico and the U.S. Virgin Islands), Manufacture (directly or through a designee) for and provide and supply to CUTANEA, and CUTANEA agrees that it will purchase exclusively from Supplier, all of its requirements of the Products as follows: Supplier shall supply Products in accordance with the Specifications and in sufficient quantity to meet CUTANEA's Forecasted Needs for the length of this Agreement. All deviations from the Specifications must be approved by CUTANEA, in writing, prior to Supplier Manufacturing the Product.",
+      "text": "\"Specifications\" means, with respect to the Products, the critical quality standards that include test attributes, analytical procedures, and appropriate acceptance criteria and Manufacturing procedures for which such Product should conform to be considered acceptable for its intended use and conform to quality standards approved by Governmental and Regulatory Authorities and as provided in the NDA for the Products, and required for the Manufacture and supply of such Product(s).",
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
@@ -328,8 +328,8 @@
       "page_no": 4,
       "section": "1.7 Manufacture",
       "section_level": 1,
-      "label": "text",
-      "text": "As between Supplier and CUTANEA, Supplier shall be responsible for the supply of all raw materials and components necessary for the Manufacture of Products at no additional cost to CUTANEA. Supplier (or its designee) shall order the initial components for each Product as soon as CUTANEA provides Supplier (or its designee) with the relevant artwork for the Product.",
+      "label": "list_item",
+      "text": "Supply Price",
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
@@ -339,11 +339,71 @@
       "section": "1.7 Manufacture",
       "section_level": 1,
       "label": "text",
-      "text": "4",
+      "text": "\"Supply Price\" means the price to be charged to CUTANEA from time to time by Supplier for Products Manufactured and supplied hereunder, as set forth in Schedule A.",
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
       "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::34",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 4,
+      "section": "1.7 Manufacture",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "PRODUCT MANUFACTURE AND SUPPLY",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::35",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 4,
+      "section": "1.7 Manufacture",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Manufacture and Purchase.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::36",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 4,
+      "section": "1.7 Manufacture",
+      "section_level": 1,
+      "label": "text",
+      "text": "Subject to the terms and conditions of this Agreement, Supplier agrees that it will, on a non-exclusive basis (but exclusive for supply of the Product in the United States of America including Puerto Rico and the U.S. Virgin Islands), Manufacture (directly or through a designee) for and provide and supply to CUTANEA, and CUTANEA agrees that it will purchase exclusively from Supplier, all of its requirements of the Products as follows: Supplier shall supply Products in accordance with the Specifications and in sufficient quantity to meet CUTANEA's Forecasted Needs for the length of this Agreement. All deviations from the Specifications must be approved by CUTANEA, in writing, prior to Supplier Manufacturing the Product.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::37",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 4,
+      "section": "1.7 Manufacture",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Raw Materials and Components.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::38",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 4,
+      "section": "1.7 Manufacture",
+      "section_level": 1,
+      "label": "text",
+      "text": "As between Supplier and CUTANEA, Supplier shall be responsible for the supply of all raw materials and components necessary for the Manufacture of Products at no additional cost to CUTANEA. Supplier (or its designee) shall order the initial components for each Product as soon as CUTANEA provides Supplier (or its designee) with the relevant artwork for the Product.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::39",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 4,
+      "section": "1.7 Manufacture",
+      "section_level": 1,
+      "label": "text",
+      "text": "4",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::40",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 4,
       "section": "1.7 Manufacture",
@@ -353,7 +413,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::35",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::41",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.3 Quality Tests and Checks.",
@@ -363,7 +423,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::36",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::42",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.3 Quality Tests and Checks.",
@@ -373,7 +433,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::37",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::43",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.4 Forecasting and Other Obligations.",
@@ -383,7 +443,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::38",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::44",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.4 Forecasting and Other Obligations.",
@@ -393,7 +453,27 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::39",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::45",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 5,
+      "section": "2.4 Forecasting and Other Obligations.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "With regards to the FDA Fees, CUTANEA shall maintain the NDA for the Products and pay, from time to time, all required FDA filing and related Product fees.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::46",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 5,
+      "section": "2.4 Forecasting and Other Obligations.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "CUTANEA shall notify Supplier within one Business Day, after it receives any materially adverse contact or communication from any Governmental or Regulatory Authority that relates to any Product. Supplier shall notify CUTANEA as soon as reasonably possible after it receives any materially adverse contact or communication from any Governmental or Regulatory Authority that relates to any Product and may reasonably be expected to affect patient safety. For matters that would not reasonably be expected to affect patient safety, Supplier shall notify CUTANEA of such communications in its discretion.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::47",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.4 Forecasting and Other Obligations.",
@@ -403,7 +483,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::40",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::48",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.5 Purchase Orders.",
@@ -413,7 +493,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::41",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::49",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.5 Purchase Orders.",
@@ -423,7 +503,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::42",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::50",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.5 Purchase Orders.",
@@ -433,7 +513,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::43",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::51",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 5,
       "section": "2.5 Purchase Orders.",
@@ -443,7 +523,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::44",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::52",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 6,
       "section": "2.5 Purchase Orders.",
@@ -453,7 +533,17 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::45",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::53",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 6,
+      "section": "2.5 Purchase Orders.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Within ten (10) Business Days following this Agreement becoming effective and thereafter on or before the last day of each calendar quarter, CUTANEA shall provide Supplier with specific data as to its Forecasted Needs for such Product (including in trade/sample form) for the following rolling [***]. Supplier will use commercially reasonable efforts to deliver Product to CUTANEA with minimum expiry dating remaining of [***]% of the approved shelf-life.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::54",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 6,
       "section": "2.5 Purchase Orders.",
@@ -463,7 +553,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::46",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::55",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 6,
       "section": "2.6 Acceptance / Rejection of Products.",
@@ -473,7 +563,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::47",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::56",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 6,
       "section": "2.6 Acceptance / Rejection of Products.",
@@ -483,7 +573,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::48",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::57",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 6,
       "section": "2.6 Acceptance / Rejection of Products.",
@@ -493,7 +583,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::49",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::58",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 6,
       "section": "2.6 Acceptance / Rejection of Products.",
@@ -503,7 +593,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::50",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::59",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.6 Acceptance / Rejection of Products.",
@@ -513,7 +603,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::51",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::60",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.7 Supply Price.",
@@ -523,7 +613,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::52",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::61",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.7 Supply Price.",
@@ -533,7 +623,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::53",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::62",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.8 Quality Agreement.",
@@ -543,7 +633,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::54",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::63",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.8 Quality Agreement.",
@@ -553,7 +643,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::55",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::64",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.9 Pharmacovigilance Agreement.",
@@ -563,7 +653,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::56",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::65",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.9 Pharmacovigilance Agreement.",
@@ -573,7 +663,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::57",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::66",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.9 Pharmacovigilance Agreement.",
@@ -583,7 +673,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::58",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::67",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 7,
       "section": "2.9 Pharmacovigilance Agreement.",
@@ -593,7 +683,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::59",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::68",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "2.10 Failure to Supply.",
@@ -603,7 +693,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::60",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::69",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "2.10 Failure to Supply.",
@@ -613,7 +703,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::61",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::70",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "2.10 Failure to Supply.",
@@ -623,7 +713,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::62",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::71",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "3. SHIPMENT AND RISK OF LOSS",
@@ -633,7 +723,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::63",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::72",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "3. SHIPMENT AND RISK OF LOSS",
@@ -643,7 +733,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::64",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::73",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "4. TERM AND TERMINATION",
@@ -653,7 +743,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::65",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::74",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "4.1 Term.",
@@ -663,7 +753,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::66",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::75",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "4.1 Term.",
@@ -673,7 +763,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::67",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::76",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "4.2 Termination.",
@@ -683,7 +773,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::68",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::77",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "4.2 Termination.",
@@ -693,7 +783,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::69",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::78",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "4.2 Termination.",
@@ -703,7 +793,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::70",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::79",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "4.2 Termination.",
@@ -713,7 +803,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::71",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::80",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 8,
       "section": "4.2 Termination.",
@@ -723,7 +813,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::72",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::81",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "4.2 Termination.",
@@ -733,7 +823,17 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::73",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::82",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 9,
+      "section": "4.2 Termination.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "The LSA is terminated or expires for any reason.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::83",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "4.3 Additional Rights and Remedies.",
@@ -743,7 +843,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::74",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::84",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "4.3 Additional Rights and Remedies.",
@@ -753,7 +853,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::75",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::85",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "4.4 Return of Materials.",
@@ -763,7 +863,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::76",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::86",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "4.4 Return of Materials.",
@@ -773,7 +873,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::77",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::87",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "4.4 Return of Materials.",
@@ -783,7 +883,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::78",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::88",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "4.5 Survival.",
@@ -793,7 +893,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::79",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::89",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "4.5 Survival.",
@@ -803,7 +903,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::80",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::90",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "5. WARRANTIES",
@@ -813,7 +913,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::81",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::91",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "5.1 Conformity with Specifications.",
@@ -823,7 +923,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::82",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::92",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "5.1 Conformity with Specifications.",
@@ -833,7 +933,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::83",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::93",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "5.1 Conformity with Specifications.",
@@ -843,7 +943,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::84",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::94",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 9,
       "section": "5.1 Conformity with Specifications.",
@@ -853,7 +953,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::85",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::95",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.2 Compliance with the Act.",
@@ -863,7 +963,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::86",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::96",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.2 Compliance with the Act.",
@@ -873,7 +973,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::87",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::97",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.3 Conformity with FDA Regulations and cGMPs.",
@@ -883,7 +983,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::88",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::98",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.3 Conformity with FDA Regulations and cGMPs.",
@@ -893,7 +993,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::89",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::99",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.4 Compliance of Packaging and Labeling with Laws and Regulations.",
@@ -903,7 +1003,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::90",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::100",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.4 Compliance of Packaging and Labeling with Laws and Regulations.",
@@ -913,7 +1013,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::91",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::101",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.5 Access to Supplier's Facilities.",
@@ -923,7 +1023,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::92",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::102",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.5 Access to Supplier's Facilities.",
@@ -933,7 +1033,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::93",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::103",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.5 Access to Supplier's Facilities.",
@@ -943,7 +1043,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::94",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::104",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 10,
       "section": "5.5 Access to Supplier's Facilities.",
@@ -953,7 +1053,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::95",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::105",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.5 Access to Supplier's Facilities.",
@@ -963,7 +1063,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::96",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::106",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.6 Patent and Other Intellectual Property Rights.",
@@ -973,7 +1073,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::97",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::107",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.6 Patent and Other Intellectual Property Rights.",
@@ -983,7 +1083,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::98",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::108",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.7 Disclaimer.",
@@ -993,7 +1093,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::99",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::109",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.7 Disclaimer.",
@@ -1003,7 +1103,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::100",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::110",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.8 Debarment.",
@@ -1013,7 +1113,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::101",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::111",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.8 Debarment.",
@@ -1023,7 +1123,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::102",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::112",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.8 Debarment.",
@@ -1033,7 +1133,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::103",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::113",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 11,
       "section": "5.8 Debarment.",
@@ -1043,7 +1143,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::104",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::114",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 12,
       "section": "5.8 Debarment.",
@@ -1053,7 +1153,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::105",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::115",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 12,
       "section": "6. PRODUCT RECALLS",
@@ -1063,7 +1163,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::106",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::116",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 12,
       "section": "6.1 Initiating and Effecting Recall.",
@@ -1073,7 +1173,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::107",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::117",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 12,
       "section": "6.1 Initiating and Effecting Recall.",
@@ -1083,7 +1183,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::108",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::118",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 12,
       "section": "6.2 Implementation of Recall.",
@@ -1093,7 +1193,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::109",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::119",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 12,
       "section": "6.2 Implementation of Recall.",
@@ -1103,7 +1203,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::110",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::120",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 12,
       "section": "6.2 Implementation of Recall.",
@@ -1113,7 +1213,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::111",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::121",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 12,
       "section": "6.2 Implementation of Recall.",
@@ -1123,7 +1223,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::112",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::122",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "7. FORCE MAJEURE",
@@ -1133,7 +1233,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::113",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::123",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "7. FORCE MAJEURE",
@@ -1143,7 +1243,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::114",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::124",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8. CHANGES",
@@ -1153,7 +1253,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::115",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::125",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.1 Changes by CUTANEA.",
@@ -1163,7 +1263,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::116",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::126",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.1 Changes by CUTANEA.",
@@ -1173,7 +1273,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::117",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::127",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.2 Changes by Supplier.",
@@ -1183,7 +1283,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::118",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::128",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.2 Changes by Supplier.",
@@ -1193,7 +1293,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::119",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::129",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.3 Changes by Governmental or Regulatory Authorities.",
@@ -1203,7 +1303,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::120",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::130",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.3 Changes by Governmental or Regulatory Authorities.",
@@ -1213,7 +1313,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::121",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::131",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.4 Obsolete Inventory.",
@@ -1223,7 +1323,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::122",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::132",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.4 Obsolete Inventory.",
@@ -1233,7 +1333,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::123",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::133",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.4 Obsolete Inventory.",
@@ -1243,7 +1343,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::124",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::134",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 13,
       "section": "8.4 Obsolete Inventory.",
@@ -1253,7 +1353,17 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::125",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::135",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 14,
+      "section": "8.4 Obsolete Inventory.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Confidential Information.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::136",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 14,
       "section": "8.4 Obsolete Inventory.",
@@ -1263,7 +1373,67 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::126",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::137",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 14,
+      "section": "8.4 Obsolete Inventory.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Any other provisions hereof to the contrary notwithstanding, it is expressly understood and agreed by the Parties hereto that the obligations of confidence and nonuse herein assumed shall not apply to any information which may be demonstrated by documented means of sufficient evidence that:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::138",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 14,
+      "section": "8.4 Obsolete Inventory.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "is at the time of disclosure or thereafter becomes a part of the public domain through no fault, omission or other act of the Receiving Party or any individual or entity receiving such information, directly or indirectly, from the Receiving Party; or",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::139",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 14,
+      "section": "8.4 Obsolete Inventory.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "was otherwise in the Receiving Party's lawful possession with no obligation or duty to maintain the confidentiality thereof prior to disclosure as shown by its written record; or",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::140",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 14,
+      "section": "8.4 Obsolete Inventory.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "is hereafter disclosed to the Receiving Party by a third party lawfully entitled to possession of such Confidential Information and under no obligation or duty of confidentiality; or",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::141",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 14,
+      "section": "8.4 Obsolete Inventory.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "is released from a confidential status by Disclosing Party as evidence by an instrument or agreement duly executed by Disclosing Party; or",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::142",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 14,
+      "section": "8.4 Obsolete Inventory.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "is required to be disclosed pursuant to regulatory or legal requirements, provided that the Receiving Party provides reasonable advance notice to the Disclosing Party and the Receiving Party reasonably cooperates with the Disclosing Party to obtain confidentiality protection of such information.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::143",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 14,
       "section": "8.4 Obsolete Inventory.",
@@ -1273,7 +1443,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::127",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::144",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 14,
       "section": "8.4 Obsolete Inventory.",
@@ -1283,7 +1453,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::128",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::145",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 14,
       "section": "9. CONFIDENTIAL INFORMATION: INTELLECTUAL PROPERTY RIGHTS",
@@ -1293,7 +1463,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::129",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::146",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "9. CONFIDENTIAL INFORMATION: INTELLECTUAL PROPERTY RIGHTS",
@@ -1303,7 +1473,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::130",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::147",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "9.2 Intellectual Property.",
@@ -1313,7 +1483,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::131",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::148",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "9.2 Intellectual Property.",
@@ -1323,7 +1493,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::132",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::149",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "9.3 Publicity and SEC Filings.",
@@ -1333,7 +1503,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::133",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::150",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "9.3 Publicity and SEC Filings.",
@@ -1343,7 +1513,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::134",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::151",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "10. INDEMNIFICATION",
@@ -1353,7 +1523,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::135",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::152",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "10.1 Indemnification by Supplier.",
@@ -1363,7 +1533,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::136",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::153",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "10.1 Indemnification by Supplier.",
@@ -1373,7 +1543,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::137",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::154",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "10.1 Indemnification by Supplier.",
@@ -1383,7 +1553,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::138",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::155",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 15,
       "section": "10.1 Indemnification by Supplier.",
@@ -1393,7 +1563,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::139",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::156",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 16,
       "section": "10.2 Indemnification by CUTANEA.",
@@ -1403,7 +1573,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::140",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::157",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 16,
       "section": "10.2 Indemnification by CUTANEA.",
@@ -1413,7 +1583,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::141",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::158",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 16,
       "section": "10.3 Assertion of Claim.",
@@ -1423,7 +1593,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::142",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::159",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 16,
       "section": "10.3 Assertion of Claim.",
@@ -1433,7 +1603,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::143",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::160",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 16,
       "section": "10.3 Assertion of Claim.",
@@ -1443,7 +1613,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::144",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::161",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 16,
       "section": "10.3 Assertion of Claim.",
@@ -1453,7 +1623,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::145",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::162",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 17,
       "section": "10.4 Insurance.",
@@ -1463,7 +1633,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::146",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::163",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 17,
       "section": "10.4 Insurance.",
@@ -1473,7 +1643,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::147",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::164",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 17,
       "section": "10.4 Insurance.",
@@ -1483,7 +1653,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::148",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::165",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 17,
       "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
@@ -1493,7 +1663,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::149",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::166",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 17,
       "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
@@ -1503,7 +1673,37 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::150",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::167",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 17,
+      "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Organization of Supplier. Supplier is a Spanish corporation, duly organized, validly existing and in good standing under the laws of its jurisdiction of organization.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::168",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 17,
+      "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Enforceability of this Agreement. The execution and delivery of this Agreement has been authorized by all requisite corporate action on the part of Supplier. This Agreement is and will remain a valid and binding obligation of Supplier, enforceable in accordance with its terms, subject to laws of general application relating to bankruptcy, insolvency and the relief of debtors.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::169",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 17,
+      "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Absence of Other Contractual Restrictions. Supplier is under no contractual or other obligation or restriction that is inconsistent with Supplier's execution or performance of this Agreement. Supplier will not enter into any agreement, either written or oral, that would conflict with Supplier's responsibilities under this Agreement.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::170",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 17,
       "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
@@ -1513,7 +1713,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::151",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::171",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 17,
       "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
@@ -1523,7 +1723,27 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::152",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::172",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 18,
+      "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Qualifications of Supplier Personnel. Supplier has, and will engage, employees, subcontractors and/or consultants (\"Supplier Personnel\") with the proper skill, training and experience to provide the services under this Agreement. Supplier will be solely responsible for paying Supplier Personnel and providing any employee or other benefits that they are owed.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::173",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 18,
+      "section": "11. REPRESENTATIONS AND WARRANTIES 11.1 REPRESENTATIONS BY SUPPLIER.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Legal Compliance. Supplier will comply, in all material respects, with all laws, regulations and orders applicable to its operations. Supplier has and at all times during the term of this Agreement shall maintain all permits, licenses and similar authorizations required for it to perform its obligations under this Agreement.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::174",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 18,
       "section": "11.2 Representations by CUTANEA.",
@@ -1533,7 +1753,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::153",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::175",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 18,
       "section": "11.2 Representations by CUTANEA.",
@@ -1543,7 +1763,47 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::154",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::176",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 18,
+      "section": "11.2 Representations by CUTANEA.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Organization of CUTANEA. CUTANEA is a Delaware corporation, duly organized, validly existing and in good standing under the laws of Delaware.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::177",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 18,
+      "section": "11.2 Representations by CUTANEA.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Enforceability of this Agreement. The execution and delivery of this Agreement has been authorized by all requisite corporate action on the part of CUTANEA. This Agreement is and will remain a valid and binding obligation of CUTANEA, enforceable in accordance with its terms, subject to laws of general application relating to bankruptcy, insolvency and the relief of debtors.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::178",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 18,
+      "section": "11.2 Representations by CUTANEA.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Absence of Other Contractual Restrictions. CUTANEA is under no contractual or other obligation or restriction that is inconsistent with CUTANEA's execution or performance of this Agreement. CUTANEA will not enter into any agreement, either written or oral, that would conflict with CUTANEA's responsibilities under this Agreement.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::179",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 18,
+      "section": "11.2 Representations by CUTANEA.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Legal Compliance. CUTANEA will comply, in all material respects, with all laws, regulations and orders applicable to its operations. CUTANEA has and at all times during the term of this Agreement shall maintain all permits, licenses and similar authorizations required for it to perform its obligations under this Agreement.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::180",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 18,
       "section": "11.2 Representations by CUTANEA.",
@@ -1553,7 +1813,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::155",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::181",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 18,
       "section": "11.2 Representations by CUTANEA.",
@@ -1563,7 +1823,17 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::156",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::182",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 19,
+      "section": "11.2 Representations by CUTANEA.",
+      "section_level": 1,
+      "label": "list_item",
+      "text": "Anti-Corruption Undertaking",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::183",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 19,
       "section": "11.2 Representations by CUTANEA.",
@@ -1573,7 +1843,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::157",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::184",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 19,
       "section": "11.2 Representations by CUTANEA.",
@@ -1583,7 +1853,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::158",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::185",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 19,
       "section": "11.2 Representations by CUTANEA.",
@@ -1593,7 +1863,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::159",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::186",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 20,
       "section": "12.1 Notices.",
@@ -1603,7 +1873,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::160",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::187",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 20,
       "section": "12.1 Notices.",
@@ -1613,17 +1883,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::161",
-      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
-      "page_no": 20,
-      "section": "12.1 Notices.",
-      "section_level": 1,
-      "label": "table",
-      "table_text": "{\"table_cells\": [{\"bbox\": {\"l\": 80.35, \"t\": 117.84271250000006, \"r\": 125.8000189375, \"b\": 124.96066928210666, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"If to Supplier:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 303.18125, \"t\": 117.84271250000006, \"r\": 399.1312184375003, \"b\": 157.7856692821067, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Ferrer Internacional, S.A. Attention: Legal Department Av. Diagonal, 549, 5 th Floor 08029 Barcelona, Spain\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 80.35, \"t\": 160.76771250000002, \"r\": 135.89999999999995, \"b\": 167.88566928210685, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"If to CUTANEA:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 303.18125, \"t\": 160.76771250000002, \"r\": 402.91872475, \"b\": 208.2856692821067, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Cutanea Life Sciences, Inc. Attention: President and CEO 1500 Liberty Ridge Drive Suite 3000 Wayne, PA 19087\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 80.35, \"t\": 211.26771250000002, \"r\": 235.6373863750001, \"b\": 218.38566928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"With a copy (which shall constitute notice) to:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 303.18125, \"t\": 211.26771250000002, \"r\": 394.71252524999994, \"b\": 268.88566928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Cutanea Life Sciences, Inc. Attention: General Counsel 1500 Liberty Ridge Drive Suite 3000 Wayne, PA 19087 Fax: +1 484.652.0223\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], \"num_rows\": 3, \"num_cols\": 2, \"orientation\": \"rot_0\", \"grid\": [[{\"bbox\": {\"l\": 80.35, \"t\": 117.84271250000006, \"r\": 125.8000189375, \"b\": 124.96066928210666, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"If to Supplier:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 303.18125, \"t\": 117.84271250000006, \"r\": 399.1312184375003, \"b\": 157.7856692821067, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 0, \"end_row_offset_idx\": 1, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Ferrer Internacional, S.A. Attention: Legal Department Av. Diagonal, 549, 5 th Floor 08029 Barcelona, Spain\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 80.35, \"t\": 160.76771250000002, \"r\": 135.89999999999995, \"b\": 167.88566928210685, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"If to CUTANEA:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 303.18125, \"t\": 160.76771250000002, \"r\": 402.91872475, \"b\": 208.2856692821067, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 1, \"end_row_offset_idx\": 2, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Cutanea Life Sciences, Inc. Attention: President and CEO 1500 Liberty Ridge Drive Suite 3000 Wayne, PA 19087\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}], [{\"bbox\": {\"l\": 80.35, \"t\": 211.26771250000002, \"r\": 235.6373863750001, \"b\": 218.38566928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 0, \"end_col_offset_idx\": 1, \"text\": \"With a copy (which shall constitute notice) to:\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}, {\"bbox\": {\"l\": 303.18125, \"t\": 211.26771250000002, \"r\": 394.71252524999994, \"b\": 268.88566928210673, \"coord_origin\": \"TOPLEFT\"}, \"row_span\": 1, \"col_span\": 1, \"start_row_offset_idx\": 2, \"end_row_offset_idx\": 3, \"start_col_offset_idx\": 1, \"end_col_offset_idx\": 2, \"text\": \"Cutanea Life Sciences, Inc. Attention: General Counsel 1500 Liberty Ridge Drive Suite 3000 Wayne, PA 19087 Fax: +1 484.652.0223\", \"column_header\": false, \"row_header\": false, \"row_section\": false, \"fillable\": false}]]}",
-      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
-    },
-    {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::162",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::188",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 20,
       "section": "12.2 Entire Agreement; Amendment.",
@@ -1633,7 +1893,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::163",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::189",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 20,
       "section": "12.2 Entire Agreement; Amendment.",
@@ -1643,7 +1903,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::164",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::190",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 20,
       "section": "12.2 Entire Agreement; Amendment.",
@@ -1653,7 +1913,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::165",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::191",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 20,
       "section": "12.2 Entire Agreement; Amendment.",
@@ -1663,7 +1923,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::166",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::192",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 20,
       "section": "12. GENERAL PROVISIONS",
@@ -1673,7 +1933,17 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::167",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::193",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 20,
+      "section": null,
+      "section_level": null,
+      "label": "table",
+      "table_text": "If to Supplier: | Ferrer Internacional, S.A. Attention: Legal Department Av. Diagonal, 549, 5 th Floor 08029 Barcelona, Spain\nIf to CUTANEA: | Cutanea Life Sciences, Inc. Attention: President and CEO 1500 Liberty Ridge Drive Suite 3000 Wayne, PA 19087\nWith a copy (which shall constitute notice) to: | Cutanea Life Sciences, Inc. Attention: General Counsel 1500 Liberty Ridge Drive Suite 3000 Wayne, PA 19087 Fax: +1 484.652.0223",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::194",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 21,
       "section": "12.3 Waiver.",
@@ -1683,7 +1953,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::168",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::195",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 21,
       "section": "12.3 Waiver.",
@@ -1693,7 +1963,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::169",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::196",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 21,
       "section": "12.4 Assignment.",
@@ -1703,7 +1973,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::170",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::197",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 21,
       "section": "12.4 Assignment.",
@@ -1713,7 +1983,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::171",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::198",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 21,
       "section": "12.5 Governing Law.",
@@ -1723,7 +1993,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::172",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::199",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 21,
       "section": "12.5 Governing Law.",
@@ -1733,7 +2003,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::173",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::200",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 21,
       "section": "12.5 Governing Law.",
@@ -1743,7 +2013,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::174",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::201",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 21,
       "section": "12.5 Governing Law.",
@@ -1753,7 +2023,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::175",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::202",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.6 Severability.",
@@ -1763,7 +2033,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::176",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::203",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.6 Severability.",
@@ -1773,7 +2043,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::177",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::204",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.7 Headings, Interpretation.",
@@ -1783,7 +2053,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::178",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::205",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.7 Headings, Interpretation.",
@@ -1793,7 +2063,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::179",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::206",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.8 Counterparts.",
@@ -1803,7 +2073,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::180",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::207",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.8 Counterparts.",
@@ -1813,7 +2083,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::181",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::208",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.9 Independent Contractor.",
@@ -1823,7 +2093,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::182",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::209",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.9 Independent Contractor.",
@@ -1833,7 +2103,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::183",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::210",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.9 Independent Contractor.",
@@ -1843,7 +2113,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::184",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::211",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 22,
       "section": "12.9 Independent Contractor.",
@@ -1853,7 +2123,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::185",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::212",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 23,
       "section": "12.9 Independent Contractor.",
@@ -1863,7 +2133,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::186",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::213",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 23,
       "section": "CUTANEA LIFE SCIENCES, INC.",
@@ -1873,7 +2143,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::187",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::214",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 23,
       "section": "FERRER INTERNACIONAL, S.A.",
@@ -1883,7 +2153,177 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::188",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::215",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "By:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::216",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "/s/ [***]",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::217",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "By:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::218",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "/s/ [***]",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::219",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "Its:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::220",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "[***]",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::221",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "Its:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::222",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "[***]",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::223",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "Date:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::224",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "Date:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::225",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "section_header",
+      "text": "FERRER INTERNACIONAL, S.A.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::226",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "By:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::227",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "/s/ [***]",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::228",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "Its:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::229",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "[***]",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::230",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "Date:",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::231",
+      "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+      "page_no": 23,
+      "section": "FERRER INTERNACIONAL, S.A.",
+      "section_level": 1,
+      "label": "text",
+      "text": "[***] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE THE INFORMATION (I) IS NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.",
+      "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
+    },
+    {
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::232",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 24,
       "section": "FERRER INTERNACIONAL, S.A.",
@@ -1893,7 +2333,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::189",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::233",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 24,
       "section": "FERRER INTERNACIONAL, S.A.",
@@ -1903,7 +2343,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::190",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::234",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 24,
       "section": "FERRER INTERNACIONAL, S.A.",
@@ -1913,7 +2353,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::191",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::235",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 24,
       "section": "FERRER INTERNACIONAL, S.A.",
@@ -1923,7 +2363,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::192",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::236",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 24,
       "section": "FERRER INTERNACIONAL, S.A.",
@@ -1933,7 +2373,7 @@
       "source_file": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT.pdf"
     },
     {
-      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::193",
+      "element_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::element::237",
       "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
       "page_no": 24,
       "section": "Schedule A",
