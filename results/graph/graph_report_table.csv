@@ -1,0 +1,11 @@
+Retriever,Reasoning Depth,Precision@10,Recall@10,MRR,Full Evidence Recovery@10
+Graph,2,0.124,0.48,0.464,0.16
+Graph,3,0.204,0.593,0.601,0.32
+Graph,4,0.228,0.603,0.548,0.12
+Graph,5,0.24,0.51,0.522,0.08
+Graph+BM25,2,0.176,0.68,0.574,0.36
+Graph+BM25,3,0.232,0.673,0.865,0.24
+Graph+BM25,4,0.232,0.604,0.675,0.24
+Graph+BM25,5,0.284,0.595,0.729,0.2
+Graph,Overall,0.199,0.547,0.534,0.17
+Graph+BM25,Overall,0.231,0.638,0.711,0.26

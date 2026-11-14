@@ -1,0 +1,3720 @@
+{
+ "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+ "extractor": "rules",
+ "llm_model": null,
+ "extraction_time_seconds": 0.08197595199999341,
+ "chunks": [
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::0",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    1,
+    2
+   ],
+   "entities": [
+    {
+     "key": "diet center",
+     "name": "Diet Center",
+     "type": "Party"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com networks",
+     "name": "WOMEN.COM NETWORKS, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ediets.com",
+     "name": "EDIETS.COM, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "may 22, 2000",
+     "name": "May 22, 2000",
+     "type": "Date"
+    },
+    {
+     "key": "delaware",
+     "name": "Delaware",
+     "type": "Location"
+    },
+    {
+     "key": "women.com sites",
+     "name": "Women.com Sites",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Diet Center",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "Diet Center (\"Gateway Page\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DATE",
+     "object": "May 22, 2000",
+     "object_type": "Date",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "WOMEN.COM NETWORKS, INC",
+     "subject_type": "Organization",
+     "predicate": "INCORPORATED_IN",
+     "object": "Delaware",
+     "object_type": "Location",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "EDIETS.COM, INC",
+     "subject_type": "Organization",
+     "predicate": "INCORPORATED_IN",
+     "object": "Delaware",
+     "object_type": "Location",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "WOMEN.COM NETWORKS, INC",
+     "object_type": "Organization",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "EDIETS.COM, INC",
+     "object_type": "Organization",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "WOMEN.COM NETWORKS, INC",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "WOMEN.COM NETWORKS, INC",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "EDIETS.COM, INC",
+     "object_type": "Organization",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "EDIETS.COM, INC",
+     "object_type": "Organization",
+     "evidence": "THIS CO-BRANDING AGREEMENT (the \"Agreement\") is made as of May 22, 2000 (the \"Effective Date\"), by and between WOMEN.COM NETWORKS, INC., a Delaware corporation having a place of business at 1820 Gateway Drive Suite 150, San Mateo, CA 94404 (\"Women.com\"), and EDIETS.COM, INC., a Delaware corporation, having its principal place of business at 3467 West Hillsboro Boulevard, Suite 2, Deerfield Beach, ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "WHEREAS, Women.com maintains sites on the Internet, currently located at http://www.women.com (the \"Women.com Sites\"), that provides an on-line portal for women, blending content, community, commerce and services;",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "WHEREAS, eDiets and Women.com wish to establish and maintain a custom, category-exclusive, co-branded center containing repackaged content from the eDiets Site, including a free personal diet profile, which will be a part of the Women.com Sites, in order to promote the eDiets brand and drive traffic to the eDiets Site.",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "have the look and feel of the Women",
+     "object_type": "Obligation",
+     "evidence": "The first page of the Diet Center (the \"Gateway Page\") will have the look and feel of the Women.com Sites as specified in Exhibit A hereto.",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "The first page of the Diet Center (the \"Gateway Page\") will have the look and feel of the Women.com Sites as specified in Exhibit A hereto.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "There will be no Women.com or eDiets registration required to enter and use the Gateway Page of the Diet Center.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "mutually agree upon the content and logo of the",
+     "object_type": "Obligation",
+     "evidence": "Women.com and eDiets will mutually agree upon the content and logo of the",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "1.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "1": "The Diet"
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::1",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    1,
+    2
+   ],
+   "entities": [
+    {
+     "key": "diet center",
+     "name": "Diet Center",
+     "type": "Party"
+    },
+    {
+     "key": "launch date",
+     "name": "Launch Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "negative effect",
+     "name": "Negative Effect",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "one week",
+     "name": "one week",
+     "type": "Duration"
+    },
+    {
+     "key": "term",
+     "name": "Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "one (1) month",
+     "name": "one (1) month",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Diet Center",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Launch Date",
+     "object_type": "DefinedTerm",
+     "evidence": "Diet Center (\"Launch Date\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Diet Center",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Negative Effect",
+     "object_type": "DefinedTerm",
+     "evidence": "Diet Center (\"Negative Effect\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "There will be no Women.com or eDiets registration required to enter and use the Gateway Page of the Diet Center.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com and eDiets will mutually agree upon the content and logo of the Gateway Page, including the display, appearance and placement of the Diet Center's logo, in accordance with the terms of this Agreement, including the specifications set forth on Exhibit A hereto, prior to the launch date of the Diet Center (the \"Launch Date\"). eDiets and Women.com shall work together in good faith in order ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Launch Date",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com and eDiets will mutually agree upon the content and logo of the Gateway Page, including the display, appearance and placement of the Diet Center's logo, in accordance with the terms of this Agreement, including the specifications set forth on Exhibit A hereto, prior to the launch date of the Diet Center (the \"Launch Date\"). eDiets and Women.com shall work together in good faith in order ",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Launch Date",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com and eDiets will mutually agree upon the content and logo of the Gateway Page, including the display, appearance and placement of the Diet Center's logo, in accordance with the terms of this Agreement, including the specifications set forth on Exhibit A hereto, prior to the launch date of the Diet Center (the \"Launch Date\"). eDiets and Women.com shall work together in good faith in order ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "store and maintain the Gateway Page on",
+     "object_type": "Obligation",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "store and maintain the Diet Center beneath the Gateway Page",
+     "object_type": "Obligation",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "1.2 Women.com shall store and maintain the Gateway Page on, and serve the Gateway Page from, server(s) located on Women.com's premises or the premises of Women.com's third party web host. eDiets shall store and maintain the Diet Center beneath the Gateway Page, and serve the Diet Center beneath the Gateway Page from, server(s) located on eDiets' premises or the premises of eDiets' third party web ",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "include a back button to the Women",
+     "object_type": "Obligation",
+     "evidence": "Launch Date, eDiets shall include a back button to the Women.com Site on all pages of the Diet Center beneath the Gateway Page.",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "Launch Date, eDiets shall include a back button to the Women.com Site on all pages of the Diet Center beneath the Gateway Page.",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "Launch Date, eDiets shall include a back button to the Women.com Site on all pages of the Diet Center beneath the Gateway Page.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "Launch Date, eDiets shall include a back button to the Women.com Site on all pages of the Diet Center beneath the Gateway Page.",
+     "source": "rules"
+    },
+    {
+     "subject": "Negative Effect",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "one (1) month",
+     "object_type": "Duration",
+     "evidence": "If at any time during the Term of this Agreement, eDiets reasonably believes that the inclusion of such back buttons has a material negative effect upon the rate at which users of the Diet Center register to become members of eDiets or convert into registered participants of the services offered by eDiets on the Diet Center (the \"Negative Effect\"), eDiets may conduct a one (1) month test of the ef",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Negative Effect",
+     "object_type": "DefinedTerm",
+     "evidence": "If at any time during the Term of this Agreement, eDiets reasonably believes that the inclusion of such back buttons has a material negative effect upon the rate at which users of the Diet Center register to become members of eDiets or convert into registered participants of the services offered by eDiets on the Diet Center (the \"Negative Effect\"), eDiets may conduct a one (1) month test of the ef",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "remove any such back buttons",
+     "object_type": "Obligation",
+     "evidence": "If such test verifies the Negative Effect of the back button(s) to the Women.com Site, eDiets may remove any such back buttons.",
+     "source": "rules"
+    },
+    {
+     "subject": "Negative Effect",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "If such test verifies the Negative Effect of the back button(s) to the Women.com Site, eDiets may remove any such back buttons.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "work together regarding the on-going design and maintenance of the Diet Center",
+     "object_type": "Obligation",
+     "evidence": "1.3 Except as set forth in Section 1.2 [Women], eDiets will have sole responsibility for providing and maintaining at its own expense the Diet Center beneath the Gateway Page. eDiets and Women.com will work together regarding the on-going design and maintenance of the Diet Center.",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "1.3 Except as set forth in Section 1.2 [Women], eDiets will have sole responsibility for providing and maintaining at its own expense the Diet Center beneath the Gateway Page. eDiets and Women.com will work together regarding the on-going design and maintenance of the Diet Center.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1.2",
+    "1.3",
+    "1.4",
+    "2",
+    "2.1"
+   ],
+   "sections_referenced": [
+    "1",
+    "1.2"
+   ],
+   "section_titles": {
+    "2": "Ediets"
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::2",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    1,
+    2
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com sites",
+     "name": "Women.com Sites",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fifteen (15) days",
+     "name": "fifteen (15) days",
+     "type": "Duration"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "2.1 Content License. eDiets hereby grants to Women.com, subject to the terms and conditions of this Agreement, a non-exclusive, nontransferable, worldwide, royalty-free license to use, copy, reproduce and display the editorial content and other data, branding and other identification provided by eDiets to Women.com in connection with this Agreement (the \"eDiets Content\") on the Women.com Sites:",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "fifteen (15) days",
+     "object_type": "Duration",
+     "evidence": "2.2 Delivery of Content. eDiets agrees to deliver to Women.com, by no later than fifteen (15) days after the Effective Date, in a format specified by Women.com, the initial eDiets Content required by this Agreement, including any photos, text, data, illustrations, graphical elements, animation or banner ads.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "2.2 Delivery of Content. eDiets agrees to deliver to Women.com, by no later than fifteen (15) days after the Effective Date, in a format specified by Women.com, the initial eDiets Content required by this Agreement, including any photos, text, data, illustrations, graphical elements, animation or banner ads.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "All eDiets Content delivered under this Agreement shall be consistent with the specifications for such eDiets Content (including specifications as to manner and media), and otherwise in accordance with, the terms of this Agreement, including Exhibit D hereto, and any production schedules developed by the parties from time to time. eDiets agrees that it will respond in a timely manner to be agreed ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "provide eDiets with specific editorial guidelines for eDiets Content",
+     "object_type": "Obligation",
+     "evidence": "Women.com will provide eDiets with specific editorial guidelines for eDiets Content.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "then be required to edit such",
+     "object_type": "Obligation",
+     "evidence": "Women.com reserves the right to reject any and all content that does not meet Women.com's editorial guidelines. eDiets will then be required to edit such",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1.4",
+    "2",
+    "2.1",
+    "2.2",
+    "2.3",
+    "2.4"
+   ],
+   "sections_referenced": [
+    "1"
+   ],
+   "section_titles": {
+    "2": "Ediets"
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::3",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    1,
+    2
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com competitive",
+     "name": "Women.com Competitive Company",
+     "type": "Organization"
+    },
+    {
+     "key": "facts",
+     "name": "Facts",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "then be required to edit such",
+     "object_type": "Obligation",
+     "evidence": "any and all content that does not meet Women.com's editorial guidelines. eDiets will then be required to edit such",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "five (5) days",
+     "object_type": "Duration",
+     "evidence": "In the event that eDiets fails, within five (5) days after submission by Women.com, to provide Women.com with necessary revisions thereto, such failure shall be deemed to be approval of Women.com's edits.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be deemed to be approval of Women",
+     "object_type": "Obligation",
+     "evidence": "In the event that eDiets fails, within five (5) days after submission by Women.com, to provide Women.com with necessary revisions thereto, such failure shall be deemed to be approval of Women.com's edits.",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Competitive Company",
+     "object_type": "Organization",
+     "evidence": "In addition to the foregoing and the content guidelines set forth in Section 5.2 [EXCLUSIVITY] hereof, eDiets may not directly link from the Gateway Page to any Women.com Competitive Company (as defined in Section 5.2 [EXCLUSIVITY]).",
+     "source": "rules"
+    },
+    {
+     "subject": "Facts",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be solely responsible for ensuring the timeliness, accuracy",
+     "object_type": "Obligation",
+     "evidence": "2.5 Facts. eDiets shall be solely responsible for ensuring the timeliness, accuracy, and correctness of all facts, data and information (\"Facts\") contained within the eDiet Content. eDiets shall indemnify, defend and hold harmless Women.com, its officers, directors, employees and agents from and against all damages, awards, costs, fees (including reasonable attorneys' fees), and expenses that such",
+     "source": "rules"
+    },
+    {
+     "subject": "Facts",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "indemnify, defend and hold harmless Women",
+     "object_type": "Obligation",
+     "evidence": "2.5 Facts. eDiets shall be solely responsible for ensuring the timeliness, accuracy, and correctness of all facts, data and information (\"Facts\") contained within the eDiet Content. eDiets shall indemnify, defend and hold harmless Women.com, its officers, directors, employees and agents from and against all damages, awards, costs, fees (including reasonable attorneys' fees), and expenses that such",
+     "source": "rules"
+    },
+    {
+     "subject": "Facts",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "2.5 Facts. eDiets shall be solely responsible for ensuring the timeliness, accuracy, and correctness of all facts, data and information (\"Facts\") contained within the eDiet Content. eDiets shall indemnify, defend and hold harmless Women.com, its officers, directors, employees and agents from and against all damages, awards, costs, fees (including reasonable attorneys' fees), and expenses that such",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Facts",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com retains the right, but not the obligation, to independently corroborate, or have corroborated, the timeliness, accuracy, and correctness of all Facts.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "2.5"
+   ],
+   "sections_referenced": [
+    "5.2"
+   ],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::4",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    2
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "launch date",
+     "name": "Launch Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "80%",
+     "name": "80%",
+     "type": "Percentage"
+    },
+    {
+     "key": "and 80%",
+     "name": "and 80%",
+     "type": "Percentage"
+    },
+    {
+     "key": "sixty (60) days",
+     "name": "sixty (60) days",
+     "type": "Duration"
+    },
+    {
+     "key": "make good period",
+     "name": "Make Good Period",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "make available to eDiets and eDiets shall purchase from Women",
+     "object_type": "Obligation",
+     "evidence": "Women.com shall make available to eDiets and eDiets shall purchase from Women.com advertising and promotional inventory in the amounts and at the rates specified in Exhibit B hereto and in accordance with the terms specified in Exhibit D hereto.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "80%",
+     "object_type": "Percentage",
+     "evidence": "If Women.com does not deliver at least 80% of the Quarterly Impression Guarantee for Advertsing Promotions as set forth on Exhibit B (11,250,000 per quarter; 45,000,000 per year); 80% of the Quarterly Impression Guarantee for the Diet Center Logo as set forth on Exhibit B (3,250,000 per quarter; 13,000,000 per year); and 80% of the Quarterly Impression Guarantee for Other Campaigns as set forth on",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "80%",
+     "object_type": "Percentage",
+     "evidence": "If Women.com does not deliver at least 80% of the Quarterly Impression Guarantee for Advertsing Promotions as set forth on Exhibit B (11,250,000 per quarter; 45,000,000 per year); 80% of the Quarterly Impression Guarantee for the Diet Center Logo as set forth on Exhibit B (3,250,000 per quarter; 13,000,000 per year); and 80% of the Quarterly Impression Guarantee for Other Campaigns as set forth on",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "and 80%",
+     "object_type": "Percentage",
+     "evidence": "If Women.com does not deliver at least 80% of the Quarterly Impression Guarantee for Advertsing Promotions as set forth on Exhibit B (11,250,000 per quarter; 45,000,000 per year); 80% of the Quarterly Impression Guarantee for the Diet Center Logo as set forth on Exhibit B (3,250,000 per quarter; 13,000,000 per year); and 80% of the Quarterly Impression Guarantee for Other Campaigns as set forth on",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "If Women.com does not deliver at least 80% of the Quarterly Impression Guarantee for Advertsing Promotions as set forth on Exhibit B (11,250,000 per quarter; 45,000,000 per year); 80% of the Quarterly Impression Guarantee for the Diet Center Logo as set forth on Exhibit B (3,250,000 per quarter; 13,000,000 per year); and 80% of the Quarterly Impression Guarantee for Other Campaigns as set forth on",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Launch Date",
+     "object_type": "DefinedTerm",
+     "evidence": "If Women.com does not deliver at least 80% of the Quarterly Impression Guarantee for Advertsing Promotions as set forth on Exhibit B (11,250,000 per quarter; 45,000,000 per year); 80% of the Quarterly Impression Guarantee for the Diet Center Logo as set forth on Exhibit B (3,250,000 per quarter; 13,000,000 per year); and 80% of the Quarterly Impression Guarantee for Other Campaigns as set forth on",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "If Women.com does not deliver the shortfall within sixty (60) days of the end of the applicable quarter, eDiets may terminate this Agreement in its entirety immediately or authorize Women.com to deliver the shortfall within an extended number of days to be mutually agreed upon by the parties (the \"Make Good Period\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Make Good Period",
+     "object_type": "DefinedTerm",
+     "evidence": "If Women.com does not deliver the shortfall within sixty (60) days of the end of the applicable quarter, eDiets may terminate this Agreement in its entirety immediately or authorize Women.com to deliver the shortfall within an extended number of days to be mutually agreed upon by the parties (the \"Make Good Period\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "thirty (30) days",
+     "object_type": "Duration",
+     "evidence": "Should eDiets elect to terminate this Agreement, Women.com shall reimburse eDiets within thirty (30) days of the date of such termination for all pre-paid impressions or other promotions not delivered as of the date of termination.",
+     "source": "rules"
+    },
+    {
+     "subject": "Make Good Period",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be recalculated and reduced to reflect the changes in the revised delivery schedule",
+     "object_type": "Obligation",
+     "evidence": "Women.com agrees that if eDiets elects to extend the Agreement the monthly fee due and payable during the Make Good Period will be recalculated and reduced to reflect the changes in the revised delivery schedule.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Make Good Period",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com agrees that if eDiets elects to extend the Agreement the monthly fee due and payable during the Make Good Period will be recalculated and reduced to reflect the changes in the revised delivery schedule.",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be allocated to Women",
+     "object_type": "Obligation",
+     "evidence": "3.2 Women.com and eDiets agree that all media metrics (e.g. pageviews and impressions) with respect to the Gateway Page of the Diet Center shall be allocated to Women.com.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "3.2 Women.com and eDiets agree that all media metrics (e.g. pageviews and impressions) with respect to the Gateway Page of the Diet Center shall be allocated to Women.com.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "3",
+    "3.1",
+    "3.2",
+    "4"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "3": "Advertising."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::5",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    2
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "3",
+    "4"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "3": "Advertising."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::6",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    2,
+    3
+   ],
+   "entities": [
+    {
+     "key": "competitive",
+     "name": "Competitive Company",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "term",
+     "name": "Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com sites",
+     "name": "Women.com Sites",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "anchor sponsorship",
+     "name": "Anchor Sponsorship",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "diet promos",
+     "name": "Diet Promos",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fifteen (15) days",
+     "name": "fifteen (15) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Competitive Company",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "any company that eDiets reasonably presents as, and Women.com reasonably agrees is, a direct competitor to eDiets by distributing on-line content principally relating to diets and diet counseling, including, but not limited to, Weight Watchers, Jenny Craig, NutriSystem, Nutrio, Asimba",
+     "object_type": "Definition",
+     "evidence": "\"Competitive Company\" means any company that eDiets reasonably presents as, and Women.com reasonably agrees is, a direct competitor to eDiets by distributing on-line content principally relating to diets and diet counseling, including, but not limited to, Weight Watchers, Jenny Craig, NutriSystem, Nutrio, Asimba",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "5.1 During the Term, (a) Women.com will not buy, sell, display, distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote a Competitive Company on any page of the Diet Center; (b) eDiets will be the exclusive third party provider of content and interactive tools for diets and diet counseling to Women.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Competitive Company",
+     "object_type": "Organization",
+     "evidence": "5.1 During the Term, (a) Women.com will not buy, sell, display, distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote a Competitive Company on any page of the Diet Center; (b) eDiets will be the exclusive third party provider of content and interactive tools for diets and diet counseling to Women.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "5.1 During the Term, (a) Women.com will not buy, sell, display, distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote a Competitive Company on any page of the Diet Center; (b) eDiets will be the exclusive third party provider of content and interactive tools for diets and diet counseling to Women.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Competitive Company",
+     "object_type": "Organization",
+     "evidence": "5.1 During the Term, (a) Women.com will not buy, sell, display, distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote a Competitive Company on any page of the Diet Center; (b) eDiets will be the exclusive third party provider of content and interactive tools for diets and diet counseling to Women.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "5.1 During the Term, (a) Women.com will not buy, sell, display, distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote a Competitive Company on any page of the Diet Center; (b) eDiets will be the exclusive third party provider of content and interactive tools for diets and diet counseling to Women.",
+     "source": "rules"
+    },
+    {
+     "subject": "Competitive Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "5.1 During the Term, (a) Women.com will not buy, sell, display, distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote a Competitive Company on any page of the Diet Center; (b) eDiets will be the exclusive third party provider of content and interactive tools for diets and diet counseling to Women.",
+     "source": "rules"
+    },
+    {
+     "subject": "Anchor Sponsorship",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "\"Brought to you by....\") or fixed placement of 468x60 (top) and 125x365 (side) banners within eight (8) of the Content Features selected by eDiets; and (v) anchor sponsorship in any multi-sponsor Women.com promotion.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be entitled to (aa) provide mini and micro web sites and Women",
+     "object_type": "Obligation",
+     "evidence": "Notwithstanding the foregoing, Women.com shall be entitled to (aa) provide mini and micro web sites and Women.com promotions and sponsorships to Jenny Craig; (bb) sell, display, or distribute advertisements, including banner advertisements, newsletter placements, internet radio, commerce placements and market research, or otherwise promote Competitive Companies on pages other than the Gateway Page",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "Notwithstanding the foregoing, Women.com shall be entitled to (aa) provide mini and micro web sites and Women.com promotions and sponsorships to Jenny Craig; (bb) sell, display, or distribute advertisements, including banner advertisements, newsletter placements, internet radio, commerce placements and market research, or otherwise promote Competitive Companies on pages other than the Gateway Page",
+     "source": "rules"
+    },
+    {
+     "subject": "Competitive Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "For purposes of this Agreement, \"Competitive Company\" means any company that eDiets reasonably presents as, and Women.com reasonably agrees is, a direct competitor to eDiets by distributing on-line content principally relating to diets and diet counseling, including, but not limited to, Weight Watchers, Jenny Craig, NutriSystem, Nutrio, Asimba, DietSmart and uMagic.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, Women.com agrees to give eDiets the right of first refusal to participate in all diet and diet-counseling related promotion opportunities created or otherwise made available by Women.com on channels or sub-channels created after the Effective Date of this Agreement, including sponsorships, anchor placements and any other content integration opportunities (\"Diet Promos\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, Women.com agrees to give eDiets the right of first refusal to participate in all diet and diet-counseling related promotion opportunities created or otherwise made available by Women.com on channels or sub-channels created after the Effective Date of this Agreement, including sponsorships, anchor placements and any other content integration opportunities (\"Diet Promos\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Diet Promos",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, Women.com agrees to give eDiets the right of first refusal to participate in all diet and diet-counseling related promotion opportunities created or otherwise made available by Women.com on channels or sub-channels created after the Effective Date of this Agreement, including sponsorships, anchor placements and any other content integration opportunities (\"Diet Promos\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, Women.com agrees to give eDiets the right of first refusal to participate in all diet and diet-counseling related promotion opportunities created or otherwise made available by Women.com on channels or sub-channels created after the Effective Date of this Agreement, including sponsorships, anchor placements and any other content integration opportunities (\"Diet Promos\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Diet Promos",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, Women.com agrees to give eDiets the right of first refusal to participate in all diet and diet-counseling related promotion opportunities created or otherwise made available by Women.com on channels or sub-channels created after the Effective Date of this Agreement, including sponsorships, anchor placements and any other content integration opportunities (\"Diet Promos\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Diet Promos",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, Women.com agrees to give eDiets the right of first refusal to participate in all diet and diet-counseling related promotion opportunities created or otherwise made available by Women.com on channels or sub-channels created after the Effective Date of this Agreement, including sponsorships, anchor placements and any other content integration opportunities (\"Diet Promos\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Diet Promos",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "fifteen (15) days",
+     "object_type": "Duration",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the",
+     "source": "rules"
+    },
+    {
+     "subject": "Diet Promos",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "have fifteen (15) days from the",
+     "object_type": "Obligation",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Diet Promos",
+     "object_type": "DefinedTerm",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the",
+     "source": "rules"
+    },
+    {
+     "subject": "Diet Promos",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5",
+    "5.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "5": "Exclusivity."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::7",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    2,
+    3
+   ],
+   "entities": [
+    {
+     "key": "women.com competitive",
+     "name": "Women.com Competitive Company",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "diet promos",
+     "name": "Diet Promos",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fifteen (15) days",
+     "name": "fifteen (15) days",
+     "type": "Duration"
+    },
+    {
+     "key": "term",
+     "name": "Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com compettive",
+     "name": "Women.com Compettive Company",
+     "type": "Organization"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "initial term",
+     "name": "Initial Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "sixty (60) days",
+     "name": "sixty (60) days",
+     "type": "Duration"
+    },
+    {
+     "key": "(20%",
+     "name": "(20%)",
+     "type": "Percentage"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com Competitive Company",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "any company that Women.com reasonably presents as, and eDiets reasonably agrees is, a direct competitor to Women.com by providing an on-line portal for women, including, but not limited to, Oxygen Media and iVillage, 6",
+     "object_type": "Definition",
+     "evidence": "\"Women.com Competitive Company\" means any company that Women.com reasonably presents as, and eDiets reasonably agrees is, a direct competitor to Women.com by providing an on-line portal for women, including, but not limited to, Oxygen Media and iVillage, 6",
+     "source": "rules"
+    },
+    {
+     "subject": "Diet Promos",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "fifteen (15) days",
+     "object_type": "Duration",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the giving of such notice to agree to participate in the applicable Diet Promo upon the terms and conditions specified in the notice by giving ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Diet Promos",
+     "object_type": "DefinedTerm",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the giving of such notice to agree to participate in the applicable Diet Promo upon the terms and conditions specified in the notice by giving ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the giving of such notice to agree to participate in the applicable Diet Promo upon the terms and conditions specified in the notice by giving ",
+     "source": "rules"
+    },
+    {
+     "subject": "Diet Promos",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "If Women.com proposes to create and make available Diet Promos after the Effective Date, it shall give eDiets written notice of its intention, describing the terms and conditions of participation in the Diet Promos. eDiets shall have fifteen (15) days from the giving of such notice to agree to participate in the applicable Diet Promo upon the terms and conditions specified in the notice by giving ",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Compettive Company",
+     "object_type": "Organization",
+     "evidence": "5.2 During the Term, eDiets will not buy, sell, display or distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote any Women.com Compettive Company on any page of the eDiets Site that is within two clicks from the Gateway Page of the Diet Center.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "5.2 During the Term, eDiets will not buy, sell, display or distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote any Women.com Compettive Company on any page of the eDiets Site that is within two clicks from the Gateway Page of the Diet Center.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Compettive Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "5.2 During the Term, eDiets will not buy, sell, display or distribute advertising from (including, but not limited to, banner ads, buttons, badges, text links, hyperlinks or editorial mentions) or otherwise promote any Women.com Compettive Company on any page of the eDiets Site that is within two clicks from the Gateway Page of the Diet Center.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Competitive Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "For purposes of this Agreement, \"Women.com Competitive Company\" means any company that Women.com reasonably presents as, and eDiets reasonably agrees is, a direct competitor to Women.com by providing an on-line portal for women, including, but not limited to, Oxygen Media and iVillage,",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "Following the Initial Term, Women.com shall have the right, upon no fewer than sixty (60) days prior written notice to eDiets, to",
+     "source": "rules"
+    },
+    {
+     "subject": "Initial Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "Following the Initial Term, Women.com shall have the right, upon no fewer than sixty (60) days prior written notice to eDiets, to",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(20%)",
+     "object_type": "Percentage",
+     "evidence": "In consideration of Women.com's developing, maintaining and promoting the Diet Center pursuant to this Agreement, beginning on the tenth (10th) day after the execution of this Agreement and thereafter on the last day of each month during the Term of this Agreement, eDiets shall pay to Women.com a monthly fee in the amount set forth on Exhibit C unless adjusted increase the amount of the Payment Sc",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "pay to Women",
+     "object_type": "Obligation",
+     "evidence": "In consideration of Women.com's developing, maintaining and promoting the Diet Center pursuant to this Agreement, beginning on the tenth (10th) day after the execution of this Agreement and thereafter on the last day of each month during the Term of this Agreement, eDiets shall pay to Women.com a monthly fee in the amount set forth on Exhibit C unless adjusted increase the amount of the Payment Sc",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Term",
+     "object_type": "DefinedTerm",
+     "evidence": "In consideration of Women.com's developing, maintaining and promoting the Diet Center pursuant to this Agreement, beginning on the tenth (10th) day after the execution of this Agreement and thereafter on the last day of each month during the Term of this Agreement, eDiets shall pay to Women.com a monthly fee in the amount set forth on Exhibit C unless adjusted increase the amount of the Payment Sc",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5",
+    "5.2",
+    "7",
+    "7.1"
+   ],
+   "sections_referenced": [
+    "3.1"
+   ],
+   "section_titles": {
+    "5": "Exclusivity."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::8",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    2,
+    3
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "25%",
+     "name": "25%",
+     "type": "Percentage"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "25%",
+     "object_type": "Percentage",
+     "evidence": "Such reports shall contain the number of impressions and other metrics attributable to each general category of advertising specified in Exhibit B hereto, as well as such other information as eDiets may reasonably request, to the extent reasonable commercial efforts and current technology permit. eDiets agrees to accept such advertising reports provided by Women.com as the official basis for measu",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5"
+   ],
+   "sections_referenced": [
+    "3.1"
+   ],
+   "section_titles": {
+    "5": "Exclusivity."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::9",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    3,
+    4
+   ],
+   "entities": [
+    {
+     "key": "diets newsletter",
+     "name": "Diets Newsletter",
+     "type": "Party"
+    },
+    {
+     "key": "mention",
+     "name": "Mention",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com content",
+     "name": "Women.com Content",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com sites",
+     "name": "Women.com Sites",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Diets Newsletter",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Mention",
+     "object_type": "DefinedTerm",
+     "evidence": "Diets Newsletter (\"Mention\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Mention",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "determine in its sole discretion the placement, frequency and timing of such Mention",
+     "object_type": "Obligation",
+     "evidence": "Women.com acknowledges that eDiets owns all right, title and interest in and to the eDiets Content, and Women.com shall not now or in the future contest the validity of the eDiets' ownership rights in and to the eDiets Content. eDiets agrees to periodically include mention of Women.com, including a link to the Women.com Site if desired by eDiets, within the eDiets Newsletter (the \"Mention\"). eDiet",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Mention",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com acknowledges that eDiets owns all right, title and interest in and to the eDiets Content, and Women.com shall not now or in the future contest the validity of the eDiets' ownership rights in and to the eDiets Content. eDiets agrees to periodically include mention of Women.com, including a link to the Women.com Site if desired by eDiets, within the eDiets Newsletter (the \"Mention\"). eDiet",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Content",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "remain the sole and exclusive property of Women",
+     "object_type": "Obligation",
+     "evidence": "All content, including but not limited to all photos, text, data, illustrations, graphical elements, animation and tools, appearing on the Women.com Sites (with the exception of the eDiets Content) or provided to eDiets pursuant to this Agreement by Women.com, including all software, methods of operation, interfaces, specifications and documentation in respect of the foregoing contained therein (c",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "All content, including but not limited to all photos, text, data, illustrations, graphical elements, animation and tools, appearing on the Women.com Sites (with the exception of the eDiets Content) or provided to eDiets pursuant to this Agreement by Women.com, including all software, methods of operation, interfaces, specifications and documentation in respect of the foregoing contained therein (c",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Content",
+     "object_type": "DefinedTerm",
+     "evidence": "All content, including but not limited to all photos, text, data, illustrations, graphical elements, animation and tools, appearing on the Women.com Sites (with the exception of the eDiets Content) or provided to eDiets pursuant to this Agreement by Women.com, including all software, methods of operation, interfaces, specifications and documentation in respect of the foregoing contained therein (c",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Content",
+     "object_type": "DefinedTerm",
+     "evidence": "All content, including but not limited to all photos, text, data, illustrations, graphical elements, animation and tools, appearing on the Women.com Sites (with the exception of the eDiets Content) or provided to eDiets pursuant to this Agreement by Women.com, including all software, methods of operation, interfaces, specifications and documentation in respect of the foregoing contained therein (c",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com routinely collects data from Women.com visitors to the Women.com Sites.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "retain all ownership, right, title and interest in and to any data provided to Women",
+     "object_type": "Obligation",
+     "evidence": "Women.com shall retain all ownership, right, title and interest in and to any data provided to Women.com by Women.com users while directly on the Women.com Site. eDiets shall retain all ownership, right, title and interest in and to any data collected within the eDiets Site including, but not limited to demographic information and email addresses submitted to eDiets by users of the eDiets Site.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "8",
+    "8.2",
+    "8.3",
+    "8.4"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "8": "Ownership."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::10",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    3,
+    4
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com data",
+     "name": "Women.com Data",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "tools",
+     "name": "Tools",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Data",
+     "object_type": "DefinedTerm",
+     "evidence": "8.4 Privacy. eDiets agrees to treat all consumer data collected from Women.com users on the Women.com Site in accordance with Women.com's privacy and security policies (the \"Women.com Data\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Data",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "In no event shall eDiets disclose or otherwise transfer to any person or entity any Women.com Data that individually or in the aggregate identifies the identity, habits or transactions of the Women.com users.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "8",
+    "8.4",
+    "8.5"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "8": "Ownership."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::11",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    4,
+    5
+   ],
+   "entities": [
+    {
+     "key": "women.com marks",
+     "name": "Women.com Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "term",
+     "name": "Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "seventy-two (72) hours",
+     "name": "seventy-two (72) hours",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "all trademarks, service marks and corporate and brand identification and indicia, including without limitation word marks, logos and other picture marks, phrases, jingles, composite marks, corporate, commercial and institutional images, product designations and identifications of Women.com, whether registered or not",
+     "object_type": "Definition",
+     "evidence": "\"Women.com Marks\" means all trademarks, service marks and corporate and brand identification and indicia, including without limitation word marks, logos and other picture marks, phrases, jingles, composite marks, corporate, commercial and institutional images, product designations and identifications of Women.com, whether registered or not",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "have the right to review and approve or disapprove eDiets' use of the Women",
+     "object_type": "Obligation",
+     "evidence": "Women.com hereby grants eDiets a non-exclusive, non-transferable, royalty-free worldwide right and license without the right to sublicense to use the Women.com Marks during the Term solely in connection with (i) the fulfillment of eDiets' obligations under this Agreement, and (ii) in advertising and marketing collateral related to this Agreement. eDiets acknowledges and agrees that Women.com owns ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com hereby grants eDiets a non-exclusive, non-transferable, royalty-free worldwide right and license without the right to sublicense to use the Women.com Marks during the Term solely in connection with (i) the fulfillment of eDiets' obligations under this Agreement, and (ii) in advertising and marketing collateral related to this Agreement. eDiets acknowledges and agrees that Women.com owns ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Term",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com hereby grants eDiets a non-exclusive, non-transferable, royalty-free worldwide right and license without the right to sublicense to use the Women.com Marks during the Term solely in connection with (i) the fulfillment of eDiets' obligations under this Agreement, and (ii) in advertising and marketing collateral related to this Agreement. eDiets acknowledges and agrees that Women.com owns ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Term",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com hereby grants eDiets a non-exclusive, non-transferable, royalty-free worldwide right and license without the right to sublicense to use the Women.com Marks during the Term solely in connection with (i) the fulfillment of eDiets' obligations under this Agreement, and (ii) in advertising and marketing collateral related to this Agreement. eDiets acknowledges and agrees that Women.com owns ",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "inure solely to the benefit of Women",
+     "object_type": "Obligation",
+     "evidence": "Women.com Marks by eDiets, including all goodwill arising therefrom shall inure solely to the benefit of Women.com.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com Marks by eDiets, including all goodwill arising therefrom shall inure solely to the benefit of Women.com.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com retains all rights with respect to Women.com Marks that are not specifically granted to eDiets herein.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "seventy-two (72) hours",
+     "object_type": "Duration",
+     "evidence": "Women.com, in its sole discretion, may withdraw specific or general permission to use the Women.com Marks upon seventy-two (72) hours written notice to eDiets.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "withdraw specific or general permission to use the Women",
+     "object_type": "Obligation",
+     "evidence": "Women.com, in its sole discretion, may withdraw specific or general permission to use the Women.com Marks upon seventy-two (72) hours written notice to eDiets.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com, in its sole discretion, may withdraw specific or general permission to use the Women.com Marks upon seventy-two (72) hours written notice to eDiets.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "As used herein, \"Women.com Marks\" means all trademarks, service marks and corporate and brand identification and indicia, including without limitation word marks, logos and other picture marks, phrases, jingles, composite marks, corporate, commercial and institutional images, product designations and identifications of Women.com, whether registered or not.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Term",
+     "object_type": "DefinedTerm",
+     "evidence": "9.2 eDiets Marks. eDiets hereby grants Women.com a non-exclusive, non-transferable, royalty-free worldwide right and license without the right to sublicense to use the eDiets Marks during the Term solely in connection with (i) the fulfillment of Women.com's obligations under this Agreement, and (ii) in advertising and marketing collateral related to this Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "inure solely to the benefit of eDiets",
+     "object_type": "Obligation",
+     "evidence": "All uses of eDiets Marks by Women.com, including all goodwill arising therefrom shall inure solely to the benefit of eDiets. eDiets retains all rights with respect to eDiets Marks",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "9",
+    "9.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "9": "Trademark Ownership And"
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::12",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    4,
+    5
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "seventy-two (72) hours",
+     "name": "seventy-two (72) hours",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "seventy-two (72) hours",
+     "object_type": "Duration",
+     "evidence": "All uses of eDiets Marks by Women.com, including all goodwill arising therefrom shall inure solely to the benefit of eDiets. eDiets retains all rights with respect to eDiets Marks that are not specifically granted to Women.com herein. eDiets, in its sole discretion, may withdraw specific or general permission to use the eDiets Marks upon seventy-two (72) hours written notice to Women.com.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "inure solely to the benefit of eDiets",
+     "object_type": "Obligation",
+     "evidence": "All uses of eDiets Marks by Women.com, including all goodwill arising therefrom shall inure solely to the benefit of eDiets. eDiets retains all rights with respect to eDiets Marks that are not specifically granted to Women.com herein. eDiets, in its sole discretion, may withdraw specific or general permission to use the eDiets Marks upon seventy-two (72) hours written notice to Women.com.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "immediately discontinue use of the applicable eDiets Marks",
+     "object_type": "Obligation",
+     "evidence": "Upon expiration of such notice period, Women.com shall immediately discontinue use of the applicable eDiets Marks.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "9",
+    "9.3",
+    "9.4"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "9": "Trademark Ownership And License."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::13",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5
+   ],
+   "entities": [
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "initial term",
+     "name": "Initial Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "renewal terms",
+     "name": "Renewal Terms",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "term",
+     "name": "Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "two (2) years",
+     "name": "two (2) years",
+     "type": "Duration"
+    },
+    {
+     "key": "twelve (12) months",
+     "name": "twelve (12) months",
+     "type": "Duration"
+    },
+    {
+     "key": "sixty (60) days",
+     "name": "sixty (60) days",
+     "type": "Duration"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "termination date",
+     "name": "Termination Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com marks",
+     "name": "Women.com Marks",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Initial Term",
+     "object_type": "DefinedTerm",
+     "evidence": "Effective Date (\"Initial Term\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Initial Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Renewal Terms",
+     "object_type": "DefinedTerm",
+     "evidence": "Initial Term (\"Renewal Terms\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "the Initial Term and the Renewal Terms, if any",
+     "object_type": "Definition",
+     "evidence": "\"Term\" means the Initial Term and the Renewal Terms, if any",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "two (2) years",
+     "object_type": "Duration",
+     "evidence": "This Agreement will become effective as of the Effective Date and, unless sooner terminated pursuant to Sections 3.1 [Advertising and Promotion] or 10.2 [Termination for Breach], shall remain effective for two (2) years from and after the Effective Date (the \"Initial Term\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Initial Term",
+     "object_type": "DefinedTerm",
+     "evidence": "This Agreement will become effective as of the Effective Date and, unless sooner terminated pursuant to Sections 3.1 [Advertising and Promotion] or 10.2 [Termination for Breach], shall remain effective for two (2) years from and after the Effective Date (the \"Initial Term\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Initial Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "twelve (12) months",
+     "object_type": "Duration",
+     "evidence": "This agreement shall automatically renew for additional successive terms of twelve (12) months each at the end of the Initial Term (\"Renewal Terms\"), unless either party notifies the other in writing at least sixty (60) days prior to the end of the Initial Term.",
+     "source": "rules"
+    },
+    {
+     "subject": "Initial Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "This agreement shall automatically renew for additional successive terms of twelve (12) months each at the end of the Initial Term (\"Renewal Terms\"), unless either party notifies the other in writing at least sixty (60) days prior to the end of the Initial Term.",
+     "source": "rules"
+    },
+    {
+     "subject": "Initial Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Renewal Terms",
+     "object_type": "DefinedTerm",
+     "evidence": "This agreement shall automatically renew for additional successive terms of twelve (12) months each at the end of the Initial Term (\"Renewal Terms\"), unless either party notifies the other in writing at least sixty (60) days prior to the end of the Initial Term.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "mean the Initial Term and the Renewal Terms, if any",
+     "object_type": "Obligation",
+     "evidence": "As used in this agreement, \"Term\" shall mean the Initial Term and the Renewal Terms, if any.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Initial Term",
+     "object_type": "DefinedTerm",
+     "evidence": "As used in this agreement, \"Term\" shall mean the Initial Term and the Renewal Terms, if any.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Renewal Terms",
+     "object_type": "DefinedTerm",
+     "evidence": "As used in this agreement, \"Term\" shall mean the Initial Term and the Renewal Terms, if any.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Initial Term",
+     "object_type": "DefinedTerm",
+     "evidence": "As used in this agreement, \"Term\" shall mean the Initial Term and the Renewal Terms, if any.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Renewal Terms",
+     "object_type": "DefinedTerm",
+     "evidence": "As used in this agreement, \"Term\" shall mean the Initial Term and the Renewal Terms, if any.",
+     "source": "rules"
+    },
+    {
+     "subject": "Initial Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Renewal Terms",
+     "object_type": "DefinedTerm",
+     "evidence": "As used in this agreement, \"Term\" shall mean the Initial Term and the Renewal Terms, if any.",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "thirty (30) days",
+     "object_type": "Duration",
+     "evidence": "(b) where applicable, each party shall return to the other party, within thirty (30) days from such Termination Date, all intellectual property, technology or other property in its possession used in connection with this Agreement that is proprietary to the other party;",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "(d) within sixty (60) days after such Termination Date, Women.com shall remove and cease to use all eDiets Content provided or made available for use or display on the Gateway Page pursuant to or in connection with this Agreement;",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "(d) within sixty (60) days after such Termination Date, Women.com shall remove and cease to use all eDiets Content provided or made available for use or display on the Gateway Page pursuant to or in connection with this Agreement;",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "(d) within sixty (60) days after such Termination Date, Women.com shall remove and cease to use all eDiets Content provided or made available for use or display on the Gateway Page pursuant to or in connection with this Agreement;",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "(d) within sixty (60) days after such Termination Date, Women.com shall remove and cease to use all eDiets Content provided or made available for use or display on the Gateway Page pursuant to or in connection with this Agreement;",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "(e) within sixty (60) days after such Termination Date, each party shall eliminate from their respective web sites and/or respective web pages any marks or branding related to the other party (i.e., the eDiets Marks and the Women.com Marks, respectively) used in connection with this Agreement;",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "(e) within sixty (60) days after such Termination Date, each party shall eliminate from their respective web sites and/or respective web pages any marks or branding related to the other party (i.e., the eDiets Marks and the Women.com Marks, respectively) used in connection with this Agreement;",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "(f) within sixty (60) days after such Termination Date, Women.com shall purge from its servers and systems all e",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "purge from its servers and systems all e",
+     "object_type": "Obligation",
+     "evidence": "(f) within sixty (60) days after such Termination Date, Women.com shall purge from its servers and systems all e",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "(f) within sixty (60) days after such Termination Date, Women.com shall purge from its servers and systems all e",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "10",
+    "10.1",
+    "10.2",
+    "10.3"
+   ],
+   "sections_referenced": [
+    "3.1",
+    "11"
+   ],
+   "section_titles": {
+    "10": "Term And"
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::14",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5
+   ],
+   "entities": [
+    {
+     "key": "women.com marks",
+     "name": "Women.com Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "termination date",
+     "name": "Termination Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "sixty (60) days",
+     "name": "sixty (60) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "(f) within sixty (60) days after such Termination Date, Women.com shall purge from its servers and systems all eDiets Content;",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "(f) within sixty (60) days after such Termination Date, Women.com shall purge from its servers and systems all eDiets Content;",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "(g) within sixty (60) days after such Termination Date, Women.com shall make-good to eDiets any and all payments made to Women.com under this Agreement for advertising inventory not yet delivered or run, provided that eDiets has paid for such inventory; and",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "make-good to eDiets any and all payments made to Women",
+     "object_type": "Obligation",
+     "evidence": "(g) within sixty (60) days after such Termination Date, Women.com shall make-good to eDiets any and all payments made to Women.com under this Agreement for advertising inventory not yet delivered or run, provided that eDiets has paid for such inventory; and",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "(g) within sixty (60) days after such Termination Date, Women.com shall make-good to eDiets any and all payments made to Women.com under this Agreement for advertising inventory not yet delivered or run, provided that eDiets has paid for such inventory; and",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "(h) within sixty (60) days after such Termination Date, eDiets shall pay to Woman.com any and all payment due under this Agreement for delivered advertising and promotions inventory in accordance with Sections 3.1 [Advertising and Promotion] and 6.1.",
+     "source": "rules"
+    },
+    {
+     "subject": "Termination Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "pay to Woman",
+     "object_type": "Obligation",
+     "evidence": "(h) within sixty (60) days after such Termination Date, eDiets shall pay to Woman.com any and all payment due under this Agreement for delivered advertising and promotions inventory in accordance with Sections 3.1 [Advertising and Promotion] and 6.1.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "10",
+    "10.4"
+   ],
+   "sections_referenced": [
+    "3.1",
+    "4",
+    "8",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15"
+   ],
+   "section_titles": {
+    "10": "Term And Termination."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::15",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "any and all technical and non-technical information provided by the Disclosing Party to the Receiving Party and shall include, but not be limited to, all information regarding (a) patent and patent applications, (b) trade secrets, and (c) proprietary information, ideas",
+     "object_type": "Definition",
+     "evidence": "\"Confidential Information\" means any and all technical and non-technical information provided by the Disclosing Party to the Receiving Party and shall include, but not be limited to, all information regarding (a) patent and patent applications, (b) trade secrets, and (c) proprietary information, ideas",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "disclose such information to either party in the course of such party's business",
+     "object_type": "Obligation",
+     "evidence": "Confidential Information also includes proprietary or confidential information of any third party that may disclose such information to either party in the course of such party's business.",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "be disclosed in writing, in other tangible form, orally or visually",
+     "object_type": "Obligation",
+     "evidence": "Confidential Information may be disclosed in writing, in other tangible form, orally or visually.",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be governed by the terms of this Section 11",
+     "object_type": "Obligation",
+     "evidence": "Such Confidential Information shall be governed by the terms of this Section 11.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11",
+    "11.1",
+    "11.2",
+    "11.3"
+   ],
+   "sections_referenced": [
+    "11"
+   ],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::16",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fifteen (15) days",
+     "name": "fifteen (15) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be governed by the terms of this Section 11",
+     "object_type": "Obligation",
+     "evidence": "Such Confidential Information shall be governed by the terms of this Section 11.",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "fifteen (15) days",
+     "object_type": "Duration",
+     "evidence": "11.6 Within fifteen (15) days of receipt by Receiving Party of a written request from the Disclosing Party for the return of Confidential Information, all Disclosing Party's Confidential Information and all copies thereof in Receiving Party's possession or control shall be returned to Disclosing Party or destroyed by Receiving Party at Disclosing Party's instruction.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11",
+    "11.4",
+    "11.5",
+    "11.6",
+    "11.7",
+    "11.8"
+   ],
+   "sections_referenced": [
+    "11"
+   ],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::17",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "affiliate",
+     "name": "Affiliate",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "term",
+     "name": "Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Affiliate",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "another entity that controls, is controlled by or is under common control with such party; provided, however, that such entity is not a human being",
+     "object_type": "Definition",
+     "evidence": "\"Affiliate\" means another entity that controls, is controlled by or is under common control with such party; provided, however, that such entity is not a human being",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST_NOT",
+     "object": "be disclosed without the written consent of the other party",
+     "object_type": "Obligation",
+     "evidence": "11.8 The terms and conditions of this Agreement will be deemed to be the Confidential Information of each party and will not be disclosed without the written consent of the other party.",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "operate in accordance with the specifications set forth on Exhibit D",
+     "object_type": "Obligation",
+     "evidence": "(d) during the Term of this Agreement, the pages of the eDiets Site to which the Gateway Page provides links shall operate in accordance with the specifications set forth on Exhibit D.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Gateway Page",
+     "object_type": "DefinedTerm",
+     "evidence": "(d) during the Term of this Agreement, the pages of the eDiets Site to which the Gateway Page provides links shall operate in accordance with the specifications set forth on Exhibit D.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11",
+    "11.8",
+    "12",
+    "12.1"
+   ],
+   "sections_referenced": [
+    "11"
+   ],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::18",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "affiliate",
+     "name": "Affiliate",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com content",
+     "name": "Women.com Content",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com marks",
+     "name": "Women.com Marks",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Affiliate",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "another entity that controls, is controlled by or is under common control with such party; provided, however, that such entity is not a human being",
+     "object_type": "Definition",
+     "evidence": "\"Affiliate\" means another entity that controls, is controlled by or is under common control with such party; provided, however, that such entity is not a human being",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11",
+    "12.3",
+    "12.4",
+    "12.5",
+    "13",
+    "13.1"
+   ],
+   "sections_referenced": [
+    "12",
+    "13",
+    "13.3"
+   ],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::19",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "indemnitees",
+     "name": "Indemnitees",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "indemnifiable sums",
+     "name": "Indemnifiable Sums",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com sites",
+     "name": "Women.com Sites",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com content",
+     "name": "Women.com Content",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnitees",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to Section 13.3 [Indemnification Requirements and Procedures], eDiets and Women.com each agree to indemnify, defend and forever hold the other party, its present and former Affiliates, officers, members, stockholders, directors, employees, and agents, and successors and assigns (collectively, the \"Indemnitees\") harmless from and against any and all losses, liabilities, claims, costs, damag",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifiable Sums",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to Section 13.3 [Indemnification Requirements and Procedures], eDiets and Women.com each agree to indemnify, defend and forever hold the other party, its present and former Affiliates, officers, members, stockholders, directors, employees, and agents, and successors and assigns (collectively, the \"Indemnitees\") harmless from and against any and all losses, liabilities, claims, costs, damag",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnitees",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifiable Sums",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to Section 13.3 [Indemnification Requirements and Procedures], eDiets and Women.com each agree to indemnify, defend and forever hold the other party, its present and former Affiliates, officers, members, stockholders, directors, employees, and agents, and successors and assigns (collectively, the \"Indemnitees\") harmless from and against any and all losses, liabilities, claims, costs, damag",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnitees",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to Section 13.3 [Indemnification Requirements and Procedures], Women.com agrees to indemnify, defend and forever hold harmless the eDiets Indemnitees from and against all Indemnifiable Sums arising out of third party claims to the extent such claims are based upon:",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifiable Sums",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to Section 13.3 [Indemnification Requirements and Procedures], Women.com agrees to indemnify, defend and forever hold harmless the eDiets Indemnitees from and against all Indemnifiable Sums arising out of third party claims to the extent such claims are based upon:",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnitees",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifiable Sums",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to Section 13.3 [Indemnification Requirements and Procedures], Women.com agrees to indemnify, defend and forever hold harmless the eDiets Indemnitees from and against all Indemnifiable Sums arising out of third party claims to the extent such claims are based upon:",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) content published on the Women.com Sites, other than eDiets Content; (b) the operation of the Women.com membership program; or (c) any product or service, other than a product or service provided by eDiets, sold, licensed or otherwise made available on the Women.com Sites.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnitees",
+     "object_type": "DefinedTerm",
+     "evidence": "indemnify, defend and forever hold harmless the Women.com Indemnitees from and against all Indemnifiable Sums arising out of third party claims to the extent such claims are based upon:",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifiable Sums",
+     "object_type": "DefinedTerm",
+     "evidence": "indemnify, defend and forever hold harmless the Women.com Indemnitees from and against all Indemnifiable Sums arising out of third party claims to the extent such claims are based upon:",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnitees",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifiable Sums",
+     "object_type": "DefinedTerm",
+     "evidence": "indemnify, defend and forever hold harmless the Women.com Indemnitees from and against all Indemnifiable Sums arising out of third party claims to the extent such claims are based upon:",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11",
+    "13.2",
+    "13.3"
+   ],
+   "sections_referenced": [
+    "12",
+    "13.3"
+   ],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::20",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "11",
+    "13.3",
+    "13.4",
+    "14"
+   ],
+   "sections_referenced": [
+    "11",
+    "13",
+    "13.1"
+   ],
+   "section_titles": {
+    "14": "Limitation Of",
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::21",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "change in control",
+     "name": "Change in Control",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "(50%",
+     "name": "(50%)",
+     "type": "Percentage"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Change in Control",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "a merger or consolidation of the party with, or any sale of all or substantially all of the assets of such party to, any other person, corporation or entity, unless as a result of such merger, consolidation or sale of",
+     "object_type": "Definition",
+     "evidence": "\"Change in Control\" means a merger or consolidation of the party with, or any sale of all or substantially all of the assets of such party to, any other person, corporation or entity, unless as a result of such merger, consolidation or sale of",
+     "source": "rules"
+    },
+    {
+     "subject": "Change in Control",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(50%)",
+     "object_type": "Percentage",
+     "evidence": "For purposes of this Agreement, \"Change in Control\" means a merger or consolidation of the party with, or any sale of all or substantially all of the assets of such party to, any other person, corporation or entity, unless as a result of such merger, consolidation or sale of assets the holders of such party's voting securities prior thereto hold at least fifty percent (50%) of the total voting pow",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "2.6",
+    "11",
+    "14",
+    "15",
+    "15.1",
+    "15.2"
+   ],
+   "sections_referenced": [
+    "2.6",
+    "11",
+    "13"
+   ],
+   "section_titles": {
+    "14": "Limitation Of",
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::22",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "(50%",
+     "name": "(50%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "one (1) day",
+     "name": "one (1) day",
+     "type": "Duration"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    },
+    {
+     "key": "april 3, 2000",
+     "name": "April 3, 2000",
+     "type": "Date"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "11",
+    "15.2",
+    "15.3",
+    "15.4",
+    "15.5",
+    "15.6",
+    "15.7",
+    "15.8"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::23",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "april 3, 2000",
+     "name": "April 3, 2000",
+     "type": "Date"
+    },
+    {
+     "key": "women.com networks",
+     "name": "WOMEN.COM NETWORKS, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "ediets.com",
+     "name": "EDIETS.COM, INC",
+     "type": "Organization"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "11",
+    "15",
+    "15.8"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "15": "Exhibit A",
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::24",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "women.com sites",
+     "name": "Women.com Sites",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "PROMOTION OF DIET CENTER ON WOMEN.COM SITES Relevant Feature Content Sponsorships Women.com will provide eDiets with a fixed top and 125x365 side banner on eight (8) of the content features set forth below. eDiets may select up to eight (8) of the content features set forth below:",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::25",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "one year",
+     "name": "one Year",
+     "type": "Duration"
+    },
+    {
+     "key": "6/30/01",
+     "name": "6/30/01",
+     "type": "Date"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "11"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::26",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "6/30/01",
+     "name": "6/30/01",
+     "type": "Date"
+    },
+    {
+     "key": "women.com sites",
+     "name": "Women.com Sites",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "gateway page",
+     "name": "Gateway Page",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "60%",
+     "name": "60%",
+     "type": "Percentage"
+    },
+    {
+     "key": "and 40%",
+     "name": "and 40%",
+     "type": "Percentage"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "20%",
+     "name": "20%",
+     "type": "Percentage"
+    },
+    {
+     "key": "one month",
+     "name": "one month",
+     "type": "Duration"
+    },
+    {
+     "key": "term",
+     "name": "Term",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DATE",
+     "object": "6/30/01",
+     "object_type": "Date",
+     "evidence": "Getting Started (Available 6/30/01) (Estimated Impressions per Month- 7,000) www.prevention.com/weight/getstart.html ROS advertisement rotation on Women.com Sites The Following Advertising Impressions will include these campaign elements: -All Sponsorships -Targeted Banner Rotations (Targeted rotation includes Fitness, Entertainment, Wedding, Health, Fashion & Beauty, Food Channels, Redbook, Cosmo",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "include these campaign elements",
+     "object_type": "Obligation",
+     "evidence": "Getting Started (Available 6/30/01) (Estimated Impressions per Month- 7,000) www.prevention.com/weight/getstart.html ROS advertisement rotation on Women.com Sites The Following Advertising Impressions will include these campaign elements: -All Sponsorships -Targeted Banner Rotations (Targeted rotation includes Fitness, Entertainment, Wedding, Health, Fashion & Beauty, Food Channels, Redbook, Cosmo",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "60%",
+     "object_type": "Percentage",
+     "evidence": "45,000,000 (of which shall not include the top 468x60 nor the 120x240 banner located on the Gateway page of the Diet Center) 60% ROS and 40% Targeted and Sponsorship elements B-3 o Ad banners on the Diet Center will be co-branded with the Women.com and eDiets logos Women.com Special Membership Integration Opportunities:",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "and 40%",
+     "object_type": "Percentage",
+     "evidence": "45,000,000 (of which shall not include the top 468x60 nor the 120x240 banner located on the Gateway page of the Diet Center) 60% ROS and 40% Targeted and Sponsorship elements B-3 o Ad banners on the Diet Center will be co-branded with the Women.com and eDiets logos Women.com Special Membership Integration Opportunities:",
+     "source": "rules"
+    },
+    {
+     "subject": "Gateway Page",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "45,000,000 (of which shall not include the top 468x60 nor the 120x240 banner located on the Gateway page of the Diet Center) 60% ROS and 40% Targeted and Sponsorship elements B-3 o Ad banners on the Diet Center will be co-branded with the Women.com and eDiets logos Women.com Special Membership Integration Opportunities:",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "provide eDiets with one (1) membership offer opportunity to Women",
+     "object_type": "Obligation",
+     "evidence": "Women.com will provide eDiets with one (1) membership offer opportunity to Women.com users who have registered for membership on the Women.com Sites per",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "Women.com will provide eDiets with one (1) membership offer opportunity to Women.com users who have registered for membership on the Women.com Sites per",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "20%",
+     "object_type": "Percentage",
+     "evidence": "The member offer provided by eDiets can not run anywhere other than Women.com for one month prior to or one month after the member promotion period without Women.com's written consent eDiets shall offer in any membership offer provided pursuant to this Agreement a minimum discount of 20% on the fair market value of any products or services.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "one month",
+     "object_type": "Duration",
+     "evidence": "The member offer provided by eDiets can not run anywhere other than Women.com for one month prior to or one month after the member promotion period without Women.com's written consent eDiets shall offer in any membership offer provided pursuant to this Agreement a minimum discount of 20% on the fair market value of any products or services.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "one month",
+     "object_type": "Duration",
+     "evidence": "The member offer provided by eDiets can not run anywhere other than Women.com for one month prior to or one month after the member promotion period without Women.com's written consent eDiets shall offer in any membership offer provided pursuant to this Agreement a minimum discount of 20% on the fair market value of any products or services.",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be guaranteed 12 million circulation per year from and after the Effective Date via newsletters",
+     "object_type": "Obligation",
+     "evidence": "During the Term, eDiets.com will be guaranteed 12 million circulation per year from and after the Effective Date via newsletters",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, eDiets.com will be guaranteed 12 million circulation per year from and after the Effective Date via newsletters",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, eDiets.com will be guaranteed 12 million circulation per year from and after the Effective Date via newsletters",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::27",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "anchor sponsorship",
+     "name": "Anchor Sponsorship",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "term",
+     "name": "Term",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Anchor Sponsorship",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "the following elements: o Grand prize sweepstakes opportunity o Exclusive sponsorship of an editorial feature showcased within the promotion o Availability to ask two (2) demographic or brand research questions o Full database of names collected from the sweepstakes (estimated",
+     "object_type": "Definition",
+     "evidence": "\"Anchor Sponsorship\" means the following elements: o Grand prize sweepstakes opportunity o Exclusive sponsorship of an editorial feature showcased within the promotion o Availability to ask two (2) demographic or brand research questions o Full database of names collected from the sweepstakes (estimated",
+     "source": "rules"
+    },
+    {
+     "subject": "Term",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Effective Date",
+     "object_type": "DefinedTerm",
+     "evidence": "During the Term, eDiets.com will be guaranteed 12 million circulation per year from and after the Effective Date via newsletters, including but not limited to: >> Fashion & Beauty Newsletter:",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "provide eDiets",
+     "object_type": "Obligation",
+     "evidence": "Women.com will provide eDiets.com with three (3) Anchor Sponsorships and two (2) Premier Sponsorships of the following Women.com promotions.",
+     "source": "rules"
+    },
+    {
+     "subject": "Anchor Sponsorship",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "The \"Anchor Sponsorship\" includes the following elements: o Grand prize sweepstakes opportunity o Exclusive sponsorship of an editorial feature showcased within the promotion o Availability to ask two (2) demographic or brand research questions o Full database of names collected from the sweepstakes (estimated 30,000 to 60,000 names), the use of which is subject to all applicable Women.com privacy",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::28",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "affiliate",
+     "name": "Affiliate",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "3 weeks",
+     "name": "3 weeks",
+     "type": "Duration"
+    },
+    {
+     "key": "$37.00",
+     "name": "$37.00",
+     "type": "Amount"
+    },
+    {
+     "key": "$28.57",
+     "name": "$28.57",
+     "type": "Amount"
+    },
+    {
+     "key": "$2,000,000",
+     "name": "$2,000,000",
+     "type": "Amount"
+    },
+    {
+     "key": "$4,000,000",
+     "name": "$4,000,000",
+     "type": "Amount"
+    },
+    {
+     "key": "2 year",
+     "name": "2 Year",
+     "type": "Duration"
+    },
+    {
+     "key": "two years",
+     "name": "Two Years",
+     "type": "Duration"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "launch date",
+     "name": "Launch Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$250,000",
+     "name": "$250,000",
+     "type": "Amount"
+    },
+    {
+     "key": "$145,833",
+     "name": "$145,833",
+     "type": "Amount"
+    },
+    {
+     "key": "$138,750",
+     "name": "$138,750",
+     "type": "Amount"
+    },
+    {
+     "key": "$7,083",
+     "name": "$7,083",
+     "type": "Amount"
+    },
+    {
+     "key": "10 days",
+     "name": "10 days",
+     "type": "Duration"
+    },
+    {
+     "key": "083 year",
+     "name": "083 YEAR",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Affiliate",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "3 weeks",
+     "object_type": "Duration",
+     "evidence": "Sports/Fitness Diet Center Homepage: http://www.women.com/shopping/webstoreguide/sports/ o Rotating \"Featured Partner\" Ad Button on the side of the page All Sub Categories: o Rotating \"Featured Partner\" Ad Button on the side of the page o Affiliate text link placement within all sub-sub categories - New category creation at a minimum of 3 weeks from receipt of all coded links, descriptions and ima",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$250,000",
+     "object_type": "Amount",
+     "evidence": "70,000,000 (Per Year)/140,000,000 (TwoYears) YEAR 1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$145,833",
+     "object_type": "Amount",
+     "evidence": "70,000,000 (Per Year)/140,000,000 (TwoYears) YEAR 1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$138,750",
+     "object_type": "Amount",
+     "evidence": "70,000,000 (Per Year)/140,000,000 (TwoYears) YEAR 1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$7,083",
+     "object_type": "Amount",
+     "evidence": "70,000,000 (Per Year)/140,000,000 (TwoYears) YEAR 1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "10 days",
+     "object_type": "Duration",
+     "evidence": "70,000,000 (Per Year)/140,000,000 (TwoYears) YEAR 1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "083 YEAR",
+     "object_type": "Duration",
+     "evidence": "70,000,000 (Per Year)/140,000,000 (TwoYears) YEAR 1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Launch Date",
+     "object_type": "DefinedTerm",
+     "evidence": "70,000,000 (Per Year)/140,000,000 (TwoYears) YEAR 1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::29",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "launch date",
+     "name": "Launch Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$250,000",
+     "name": "$250,000",
+     "type": "Amount"
+    },
+    {
+     "key": "$145,833",
+     "name": "$145,833",
+     "type": "Amount"
+    },
+    {
+     "key": "$138,750",
+     "name": "$138,750",
+     "type": "Amount"
+    },
+    {
+     "key": "$7,083",
+     "name": "$7,083",
+     "type": "Amount"
+    },
+    {
+     "key": "$166,666",
+     "name": "$166,666",
+     "type": "Amount"
+    },
+    {
+     "key": "$27,916.66",
+     "name": "$27,916.66",
+     "type": "Amount"
+    },
+    {
+     "key": "$4,000,000",
+     "name": "$4,000,000",
+     "type": "Amount"
+    },
+    {
+     "key": "10 days",
+     "name": "10 days",
+     "type": "Duration"
+    },
+    {
+     "key": "083 year",
+     "name": "083 YEAR",
+     "type": "Duration"
+    },
+    {
+     "key": "5 business days",
+     "name": "5 business days",
+     "type": "Duration"
+    },
+    {
+     "key": "3 business days",
+     "name": "3 business days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$250,000",
+     "object_type": "Amount",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$145,833",
+     "object_type": "Amount",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$138,750",
+     "object_type": "Amount",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$7,083",
+     "object_type": "Amount",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$166,666",
+     "object_type": "Amount",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$138,750",
+     "object_type": "Amount",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$27,916.66",
+     "object_type": "Amount",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$4,000,000",
+     "object_type": "Amount",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "10 days",
+     "object_type": "Duration",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "083 YEAR",
+     "object_type": "Duration",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Launch Date",
+     "object_type": "DefinedTerm",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    },
+    {
+     "subject": "Launch Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Women.com",
+     "object_type": "DefinedTerm",
+     "evidence": "1 10 days after Effective Date-Production $250,000 Last day of each of the 1st through 12/th/ months after the Launch Date $145,833 Media Component $138,750 Other (Promotions, production, etc) $7,083 YEAR 2 Last day of each of 13/th/ through 24/th/ months after the Launch Date $166,666 Media Component $138,750 Other (Promotions, production) $27,916.66 Total Payment to Women.com $4,000,000 [GRAPHIC",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "2",
+    "3",
+    "11"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "1": "Accepted Banner Sizes",
+    "2": "Banner Creative Formats Accepted",
+    "11": "Confidentiality."
+   }
+  },
+  {
+   "chunk_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement::chunk::30",
+   "document_id": "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement",
+   "page_numbers": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ],
+   "entities": [
+    {
+     "key": "5 business days",
+     "name": "5 business days",
+     "type": "Duration"
+    },
+    {
+     "key": "3 business days",
+     "name": "3 business days",
+     "type": "Duration"
+    },
+    {
+     "key": "women.com",
+     "name": "Women.com",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be served from Women",
+     "object_type": "Obligation",
+     "evidence": "If Women.com determines that the servers are unreliable, the banners must be served from Women.com's site until such time the third party servers are fully operational.",
+     "source": "rules"
+    },
+    {
+     "subject": "Women.com",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "notify its advertisers of any changes that significantly impacts ad placements",
+     "object_type": "Obligation",
+     "evidence": "Women.com shall notify its advertisers of any changes that significantly impacts ad placements.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Confidentiality."
+   }
+  }
+ ]
+}

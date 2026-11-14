@@ -1,0 +1,9 @@
+{
+  "extractor": "rules",
+  "llm_model": null,
+  "llm_base_url": null,
+  "chunks": 651,
+  "entities": 3883,
+  "triples": 8497,
+  "extraction_time_seconds": 1.7281292260000214
+}

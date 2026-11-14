@@ -1,0 +1,153 @@
+{
+  "extractor": "rules",
+  "documents": 17,
+  "nodes": 3286,
+  "edges": 11944,
+  "node_labels": {
+    "Statement": 947,
+    "Entity": 945,
+    "Section": 726,
+    "Chunk": 651,
+    "Document": 17
+  },
+  "entity_types": {
+    "DefinedTerm": 443,
+    "Duration": 243,
+    "Amount": 83,
+    "Percentage": 52,
+    "Date": 50,
+    "Organization": 47,
+    "Location": 14,
+    "Party": 13
+  },
+  "relations": {
+    "MENTIONED_IN": 3632,
+    "CO_OCCURS_WITH": 2188,
+    "STATED_IN": 1014,
+    "CONTAINS_SECTION": 979,
+    "HAS_CHUNK": 651,
+    "NEXT": 634,
+    "REFERS_TO": 618,
+    "MUST": 515,
+    "PART_OF": 419,
+    "DEFINED_IN": 307,
+    "DEFINED_AS": 292,
+    "HAS_DURATION": 213,
+    "OBLIGATION_INVOLVES": 168,
+    "MAY": 77,
+    "HAS_AMOUNT": 69,
+    "MUST_NOT": 49,
+    "HAS_PERCENTAGE": 43,
+    "HAS_DATE": 38,
+    "INCORPORATED_IN": 24,
+    "WARRANTS": 8,
+    "MAY_NOT": 5,
+    "RESPONSIBLE_FOR": 1
+  },
+  "graph_build_time_seconds": 0.16071823499999027,
+  "graph_file_bytes": 5934444,
+  "per_document": {
+    "ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement": {
+      "nodes": 171,
+      "edges": 708,
+      "entities": 52,
+      "sections": 41
+    },
+    "BEYONDCOMCORP_08_03_2000-EX-10.2-CO-HOSTING AGREEMENT": {
+      "nodes": 143,
+      "edges": 456,
+      "entities": 53,
+      "sections": 14
+    },
+    "BIOAMBERINC_04_10_2013-EX-10.34-DEVELOPMENT AGREEMENT (1)": {
+      "nodes": 137,
+      "edges": 463,
+      "entities": 35,
+      "sections": 23
+    },
+    "BIOCEPTINC_08_19_2013-EX-10-COLLABORATION AGREEMENT": {
+      "nodes": 261,
+      "edges": 936,
+      "entities": 59,
+      "sections": 86
+    },
+    "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT": {
+      "nodes": 211,
+      "edges": 546,
+      "entities": 50,
+      "sections": 86
+    },
+    "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT": {
+      "nodes": 192,
+      "edges": 612,
+      "entities": 62,
+      "sections": 15
+    },
+    "CHANGEPOINTCORP_03_08_2000-EX-10.6-LICENSE AND HOSTING AGREEMENT": {
+      "nodes": 380,
+      "edges": 1711,
+      "entities": 102,
+      "sections": 68
+    },
+    "CORIOINC_07_20_2000-EX-10.5-LICENSE AND HOSTING AGREEMENT": {
+      "nodes": 169,
+      "edges": 626,
+      "entities": 56,
+      "sections": 25
+    },
+    "CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual Property Agreement": {
+      "nodes": 215,
+      "edges": 1008,
+      "entities": 50,
+      "sections": 73
+    },
+    "ChinaRealEstateInformationCorp_20090929_F-1_EX-10.32_4771615_EX-10.32_Content License Agreement": {
+      "nodes": 190,
+      "edges": 748,
+      "entities": 54,
+      "sections": 36
+    },
+    "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement": {
+      "nodes": 57,
+      "edges": 110,
+      "entities": 14,
+      "sections": 20
+    },
+    "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT": {
+      "nodes": 94,
+      "edges": 219,
+      "entities": 38,
+      "sections": 21
+    },
+    "ELFBEAUTY,INC_07_02_2020-EX-10.1-COOPERATION AGREEMENT": {
+      "nodes": 87,
+      "edges": 298,
+      "entities": 39,
+      "sections": 11
+    },
+    "ENTERPRISEPRODUCTSPARTNERSLP_07_08_1998-EX-10.3-TRANSPORTATION CONTRACT": {
+      "nodes": 207,
+      "edges": 624,
+      "entities": 73,
+      "sections": 18
+    },
+    "EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding Agreement": {
+      "nodes": 211,
+      "edges": 598,
+      "entities": 66,
+      "sections": 64
+    },
+    "EhaveInc_20190515_20-F_EX-4.44_11678816_EX-4.44_License Agreement_ Reseller Agreement": {
+      "nodes": 253,
+      "edges": 1140,
+      "entities": 67,
+      "sections": 23
+    },
+    "EtonPharmaceuticalsInc_20191114_10-Q_EX-10.1_11893941_EX-10.1_Development Agreement": {
+      "nodes": 308,
+      "edges": 1141,
+      "entities": 75,
+      "sections": 102
+    }
+  }
+}

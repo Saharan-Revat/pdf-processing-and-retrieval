@@ -1,0 +1,5098 @@
+{
+ "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+ "extractor": "rules",
+ "llm_model": null,
+ "extraction_time_seconds": 0.1580628830000137,
+ "chunks": [
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::0",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    1
+   ],
+   "entities": [
+    {
+     "key": "bw-3 franchise systems",
+     "name": "BW-3 FRANCHISE SYSTEMS, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::1",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    1
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::2",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    1
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::3",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    1
+   ],
+   "entities": [
+    {
+     "key": "bw-3 franchise systems",
+     "name": "BW-3 FRANCHISE SYSTEMS, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ohio",
+     "name": "Ohio",
+     "type": "Location"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "BW-3 FRANCHISE SYSTEMS, INC",
+     "subject_type": "Organization",
+     "predicate": "INCORPORATED_IN",
+     "object": "Ohio",
+     "object_type": "Location",
+     "evidence": "This Franchise Agreement (\"Agreement\") made this _____ day of ________, 19____, by and between bw-3 FRANCHISE SYSTEMS, INC. an Ohio corporation which has its principal place of business at 1919 Interchange Tower, 600 South Highway 169, Minneapolis, Minnesota 55426 (\"we\" or \"us\"), and __________________________ ________________________________________________________________________________ _______",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "BW-3 FRANCHISE SYSTEMS, INC",
+     "object_type": "Organization",
+     "evidence": "This Franchise Agreement (\"Agreement\") made this _____ day of ________, 19____, by and between bw-3 FRANCHISE SYSTEMS, INC. an Ohio corporation which has its principal place of business at 1919 Interchange Tower, 600 South Highway 169, Minneapolis, Minnesota 55426 (\"we\" or \"us\"), and __________________________ ________________________________________________________________________________ _______",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::4",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    1,
+    2
+   ],
+   "entities": [
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "trade secret food products",
+     "name": "Trade Secret Food Products",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "System (\"Marks\")",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "Our parent company has developed a unique system (\"System\") for establishing and operating restaurants which use the service mark \"BUFFALO WILD WINGS\" and which feature chicken wings, sandwiches, and other products and beverages, which are all prepared according to specified recipes and procedures (\"Menu Items\"), some of which use proprietary mixes (\"Trade Secret Food Products\"), and has granted t",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Trade Secret Food Products",
+     "object_type": "DefinedTerm",
+     "evidence": "Our parent company has developed a unique system (\"System\") for establishing and operating restaurants which use the service mark \"BUFFALO WILD WINGS\" and which feature chicken wings, sandwiches, and other products and beverages, which are all prepared according to specified recipes and procedures (\"Menu Items\"), some of which use proprietary mixes (\"Trade Secret Food Products\"), and has granted t",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Trade Secret Food Products",
+     "object_type": "DefinedTerm",
+     "evidence": "Our parent company has developed a unique system (\"System\") for establishing and operating restaurants which use the service mark \"BUFFALO WILD WINGS\" and which feature chicken wings, sandwiches, and other products and beverages, which are all prepared according to specified recipes and procedures (\"Menu Items\"), some of which use proprietary mixes (\"Trade Secret Food Products\"), and has granted t",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Trade Secret Food Products",
+     "object_type": "DefinedTerm",
+     "evidence": "The distinguishing characteristics of the System include, without limitation, distinctive exterior and interior layout, design and color scheme, signage, decorations, furnishings and materials, special recipes, formulae, menus and food and beverage designations, Confidential Manuals, food and beverage storage, preparation service and delivery procedures and techniques, operating procedures for san",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "Our parent company is the owner of the trade names, service marks and trademarks \"BUFFALO WILD WINGS\", \"bw-3\" and other logos and commercial symbols, and such other trade names, service marks, and trademarks as are now designated (and may later be designated by us in writing) as part of the System (\"Marks\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "We grant franchises to qualified candidates for the operation of \"Buffalo Wild Wings\" Restaurants offering the Menu Items and utilizing the System and Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "We grant franchises to qualified candidates for the operation of \"Buffalo Wild Wings\" Restaurants offering the Menu Items and utilizing the System and Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "We grant franchises to qualified candidates for the operation of \"Buffalo Wild Wings\" Restaurants offering the Menu Items and utilizing the System and Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "We grant franchises to qualified candidates for the operation of \"Buffalo Wild Wings\" Restaurants offering the Menu Items and utilizing the System and Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "We grant franchises to qualified candidates for the operation of \"Buffalo Wild Wings\" Restaurants offering the Menu Items and utilizing the System and Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "We grant franchises to qualified candidates for the operation of \"Buffalo Wild Wings\" Restaurants offering the Menu Items and utilizing the System and Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You desire to operate a Buffalo Wild Wings Restaurant using the System and Marks and have applied for a franchise, which application has been approved by us in reliance upon all of the representations you have made.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::5",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    2,
+    3
+   ],
+   "entities": [
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "special sites",
+     "name": "Special Sites",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to the provisions stated below, we hereby grant you a license to use the \"Buffalo Wild Wings\" Marks and System, and you undertake the obligation to operate a Buffalo Wild Wings restaurant facility featuring the Menu Items and providing sit-down, carry-out and other restaurant services (\"Franchised",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to the provisions stated below, we hereby grant you a license to use the \"Buffalo Wild Wings\" Marks and System, and you undertake the obligation to operate a Buffalo Wild Wings restaurant facility featuring the Menu Items and providing sit-down, carry-out and other restaurant services (\"Franchised",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to the provisions stated below, we hereby grant you a license to use the \"Buffalo Wild Wings\" Marks and System, and you undertake the obligation to operate a Buffalo Wild Wings restaurant facility featuring the Menu Items and providing sit-down, carry-out and other restaurant services (\"Franchised",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Restaurant\"), and to use the Marks solely in connection with the System, as it is currently established, and as it may be changed, improved and further developed from time to time, at one (1) location only, such location to be:",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "be resold at retail to the general public by such entities",
+     "object_type": "Obligation",
+     "evidence": "Although we will not operate a Buffalo Wild Wings or bw-3 business within the Designated Area, we reserve the right, both within and outside of the Designated Area, to offer and sell at special events (at our option, if you elect not to participate in such events) or at wholesale, through channels of distribution distinct from those of a Franchised Restaurant, products and services which comprise,",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Although we will not operate a Buffalo Wild Wings or bw-3 business within the Designated Area, we reserve the right, both within and outside of the Designated Area, to offer and sell at special events (at our option, if you elect not to participate in such events) or at wholesale, through channels of distribution distinct from those of a Franchised Restaurant, products and services which comprise,",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::6",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    2,
+    3
+   ],
+   "entities": [
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "special sites",
+     "name": "Special Sites",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "trade secret food products",
+     "name": "Trade Secret Food Products",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Special Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "have the right to develop (by direct ownership or franchising) such locations",
+     "object_type": "Obligation",
+     "evidence": "As a result, you agree that the following locations (\"Special Sites\") are excluded from the Designated Area and we shall have the right to develop (by direct ownership or franchising) such locations:",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be deemed third party beneficiaries of such",
+     "object_type": "Obligation",
+     "evidence": "Other System franchisees shall be deemed third party beneficiaries of such.",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Trade Secret Food Products",
+     "object_type": "DefinedTerm",
+     "evidence": "We reserve the right to market and sell Menu Items and Trade Secret Food Products on the Internet/World Wide Web.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::7",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    2,
+    3
+   ],
+   "entities": [
+    {
+     "key": "ten (10) years",
+     "name": "ten (10) years",
+     "type": "Duration"
+    },
+    {
+     "key": "five (5) years",
+     "name": "five (5) years",
+     "type": "Duration"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "six (6) months",
+     "name": "six (6) months",
+     "type": "Duration"
+    },
+    {
+     "key": "twelve (12) months",
+     "name": "twelve (12) months",
+     "type": "Duration"
+    },
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "(7%",
+     "name": "(7%)",
+     "type": "Percentage"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(7%)",
+     "object_type": "Percentage",
+     "evidence": "You have executed for the renewal term our then-current form of Franchise Agreement (with appropriate modifications to reflect the fact that the agreement relates to the grant of a renewal franchise), which shall supersede in all respects this Agreement, and the terms of which may differ from the terms of this Agreement, including, without limitation, a different percentage Continuing Fee and adve",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::8",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    2,
+    3
+   ],
+   "entities": [
+    {
+     "key": "(7%",
+     "name": "(7%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "ninety (90) days",
+     "name": "ninety (90) days",
+     "type": "Duration"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "three (3) months",
+     "name": "three (3) months",
+     "type": "Duration"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "6"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::9",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    3,
+    4,
+    5
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fifteen (15) business days",
+     "name": "fifteen (15) business days",
+     "type": "Duration"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "contain an Addendum in the form of EXHIBIT C attached hereto",
+     "object_type": "Obligation",
+     "evidence": "All leases pertaining to the Franchised Restaurant premises must contain an Addendum in the form of EXHIBIT C attached hereto, or contain terms and conditions substantially similar to those contained in EXHIBIT C that we approve.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "five (5) days",
+     "object_type": "Duration",
+     "evidence": "You shall provide us with a copy of the executed lease for the Franchised Restaurant within five (5) days of its execution, and prior to its execution, provide us with a copy for our approval.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::10",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    3,
+    4,
+    5
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$100,000.00",
+     "name": "$100,000.00",
+     "type": "Amount"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "reflect the then-image intended to be portrayed by Buffalo Wild Wings businesses",
+     "object_type": "Obligation",
+     "evidence": "You shall be required to periodically make reasonable capital expenditures to remodel, modernize and redecorate the premises of the Franchised Restaurant so that the Franchised Restaurant will reflect the then-image intended to be portrayed by Buffalo Wild Wings businesses.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$100,000.00",
+     "object_type": "Amount",
+     "evidence": "Your total expenditures during the term of the Franchise Agreement for such remodeling, modernizing and redecorating will not exceed ONE HUNDRED THOUSAND Dollars ($100,000.00) adjusted for inflation from the date of this Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "exceed this amount",
+     "object_type": "Obligation",
+     "evidence": "Maintenance of the premises of the Franchised Restaurant and modifying or replacing equipment may exceed this amount, and maintenance costs and equipment costs may not be credited to remodeling, modernization or redecoration expenditures.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::11",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    3,
+    4,
+    5
+   ],
+   "entities": [
+    {
+     "key": "$100,000.00",
+     "name": "$100,000.00",
+     "type": "Amount"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "three (3) weeks",
+     "name": "three (3) weeks",
+     "type": "Duration"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "1) week",
+     "name": "1) week",
+     "type": "Duration"
+    },
+    {
+     "key": "and one (1) week",
+     "name": "and one (1) week",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "exceed this amount",
+     "object_type": "Obligation",
+     "evidence": "Maintenance of the premises of the Franchised Restaurant and modifying or replacing equipment may exceed this amount, and maintenance costs and equipment costs may not be credited to remodeling, modernization or redecoration expenditures.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "furnish to you, at your",
+     "object_type": "Obligation",
+     "evidence": "For one operations of the Franchised Restaurant, we will furnish to you, at your",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::12",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    3,
+    4,
+    5
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "successfully complete the training program",
+     "object_type": "Obligation",
+     "evidence": "At least three (3) persons actively involved in the management and operation of the Franchised Restaurant must successfully complete the training program.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::13",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ten (10) days",
+     "name": "ten (10) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "inure to the exclusive benefit of us and our affiliate",
+     "object_type": "Obligation",
+     "evidence": "You acknowledge that your usage of the Marks and any goodwill established by your use of the Marks shall inure to the exclusive benefit of us and our affiliate, and that this Agreement does not confer any goodwill or other interests in the Marks upon you.",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be our sole property",
+     "object_type": "Obligation",
+     "evidence": "Any developments and improvements by you relating to the Marks or the System shall be our sole property.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Any developments and improvements by you relating to the Marks or the System shall be our sole property.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ten (10) days",
+     "object_type": "Duration",
+     "evidence": "You shall also notify us of any action, claim or demand against you relating to the Marks within ten (10) days",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::14",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ten (10) days",
+     "name": "ten (10) days",
+     "type": "Duration"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ten (10) days",
+     "object_type": "Duration",
+     "evidence": "You shall also notify us of any action, claim or demand against you relating to the Marks within ten (10) days after you receive notice of said action, claim or demand.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "have the sole right and duty to defend any such action",
+     "object_type": "Obligation",
+     "evidence": "Upon receipt of timely notice of an action, claim or demand against you relating to the Marks, we and our affiliate shall have the sole right and duty to defend any such action.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "exercise such right in our and our affiliate's sole discretion",
+     "object_type": "Obligation",
+     "evidence": "We and our affiliate will have the exclusive right to contest or bring action against any third party regarding the third party's use of any of the Marks and will exercise such right in our and our affiliate's sole discretion.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "In any defense or prosecution of any litigation relating to the Marks or components of the System undertaken by us, you shall cooperate in all respects with us and our affiliate and execute any and all documents and take all actions as may be desirable or necessary in the opinion of our counsel, to carry out such defense or prosecution.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Both parties shall make every effort consistent with the foregoing to protect, maintain, and promote the Marks as identifying the System and only the System.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::15",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::16",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6
+   ],
+   "entities": [
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::17",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6
+   ],
+   "entities": [
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::18",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "entities": [
+    {
+     "key": "development fund",
+     "name": "Development Fund",
+     "type": "Party"
+    },
+    {
+     "key": "fund",
+     "name": "Fund",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "twenty (20) days",
+     "name": "twenty (20) days",
+     "type": "Duration"
+    },
+    {
+     "key": "(3%",
+     "name": "(3%)",
+     "type": "Percentage"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Development Fund",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Fund",
+     "object_type": "DefinedTerm",
+     "evidence": "Development Fund (\"Fund\")",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You acknowledge that from time to time we may change or modify the System presently identified by the Marks, including, without limitation, the adoption and use of new or modified trade names, trademarks, service marks or copyrighted materials, new Menu Items, new products, new equipment or new techniques.",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "You acknowledge that from time to time we may change or modify the System presently identified by the Marks, including, without limitation, the adoption and use of new or modified trade names, trademarks, service marks or copyrighted materials, new Menu Items, new products, new equipment or new techniques.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "You acknowledge that from time to time we may change or modify the System presently identified by the Marks, including, without limitation, the adoption and use of new or modified trade names, trademarks, service marks or copyrighted materials, new Menu Items, new products, new equipment or new techniques.",
+     "source": "rules"
+    },
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(3%)",
+     "object_type": "Percentage",
+     "evidence": "You will contribute to the Buffalo Wild Wings Advertising and Development Fund (\"Fund\") (which may be one of several regional Funds, if we elect to establish separate Funds to serve various regions in which multiple franchisees are located) an amount equal to three percent (3%) of your Gross Sales, as defined in Paragraph X.",
+     "source": "rules"
+    },
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be made on or before the fifteenth day of the month for the preceding month",
+     "object_type": "Obligation",
+     "evidence": "Your required payments to the Fund will be made on or before the fifteenth day of the month for the preceding month.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::19",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "entities": [
+    {
+     "key": "fund",
+     "name": "Fund",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "special sites",
+     "name": "Special Sites",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be made on or before the fifteenth day of the month for the preceding month",
+     "object_type": "Obligation",
+     "evidence": "payments to the Fund will be made on or before the fifteenth day of the month for the preceding month.",
+     "source": "rules"
+    },
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be maintained and administered by us or our designee, as follows",
+     "object_type": "Obligation",
+     "evidence": "The Fund shall be maintained and administered by us or our designee, as follows:",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Special Sites",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Fund",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Special Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Special Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Fund",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Special Sites",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Fund",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "For each of our company-owned and affiliate-owned Restaurants (except Special Sites identified in Paragraph I.C.) offering products and services similar to the Franchised Restaurant we will make contributions to the Fund or to regional Funds equivalent to the contributions required of Franchised Restaurants within the System or, if applicable, region in which the company-owned or affiliate-owned s",
+     "source": "rules"
+    },
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be spent",
+     "object_type": "Obligation",
+     "evidence": "We will administer and control the Fund and we will have the absolute and unilateral right to determine how, when and where the monies in the Fund will be spent.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "2",
+    "3"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::20",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "entities": [
+    {
+     "key": "fund",
+     "name": "Fund",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "(2%",
+     "name": "(2%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "special sites",
+     "name": "Special Sites",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be prepared annually and will be made available to you upon request",
+     "object_type": "Obligation",
+     "evidence": "An unaudited accounting of Fund contributions and expenditures will be prepared annually and will be made available to you upon request.",
+     "source": "rules"
+    },
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be used as required by this Paragraph IX and will not be returned to you",
+     "object_type": "Obligation",
+     "evidence": "Once you make contributions to the Fund, all such monies will be used as required by this Paragraph IX and will not be returned to you.",
+     "source": "rules"
+    },
+    {
+     "subject": "Fund",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(2%)",
+     "object_type": "Percentage",
+     "evidence": "In addition to your contributions to the Fund, you may be required to spend up to two percent (2%) of your Gross Sales on approved local advertising.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "4",
+    "5"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::21",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "entities": [
+    {
+     "key": "special sites",
+     "name": "Special Sites",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "(2%",
+     "name": "(2%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "fund",
+     "name": "Fund",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$5,000",
+     "name": "$5,000",
+     "type": "Amount"
+    },
+    {
+     "key": "ninety (90) days",
+     "name": "ninety (90) days",
+     "type": "Duration"
+    },
+    {
+     "key": "(50%",
+     "name": "(50%)",
+     "type": "Percentage"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$5,000",
+     "object_type": "Amount",
+     "evidence": "We may require you to expend up to FIVE THOUSAND Dollars ($5,000) on newspaper, direct mail or advertising through other media prior to your opening and during your initial ninety (90) days of operation of the Franchised Restaurant.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ninety (90) days",
+     "object_type": "Duration",
+     "evidence": "We may require you to expend up to FIVE THOUSAND Dollars ($5,000) on newspaper, direct mail or advertising through other media prior to your opening and during your initial ninety (90) days of operation of the Franchised Restaurant.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::22",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "(5%",
+     "name": "(5%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(5%)",
+     "object_type": "Percentage",
+     "evidence": "You will pay us without offset, credit or deduction of any nature, so long as this Agreement is in effect, a monthly Continuing Fee equal to five percent (5%) of the Gross Sales derived from the Franchised Restaurant.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::23",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "entities": [
+    {
+     "key": "payment methods",
+     "name": "Payment Methods",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "one business day",
+     "name": "one business day",
+     "type": "Duration"
+    },
+    {
+     "key": "twenty (20) days",
+     "name": "twenty (20) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::24",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9
+   ],
+   "entities": [
+    {
+     "key": "(1.5%",
+     "name": "(1.5%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::25",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "three (3) years",
+     "name": "three (3) years",
+     "type": "Duration"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ninety (90) days",
+     "name": "ninety (90) days",
+     "type": "Duration"
+    },
+    {
+     "key": "one hundred eighty (180) days",
+     "name": "one hundred eighty (180) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "three (3) years",
+     "object_type": "Duration",
+     "evidence": "You will retain for a period of three (3) years all books and records related to the Franchised Restaurant, including without limitation, sales checks, purchase orders, invoices, payroll records, customer lists, check stubs, sales tax records and returns, cash receipts and disbursement journals and general ledgers.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::26",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "180) days",
+     "name": "180) days",
+     "type": "Duration"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "6"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::27",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "(1.5%",
+     "name": "(1.5%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "(2%",
+     "name": "(2%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "nine (9) months",
+     "name": "nine (9) months",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be maintained in the quality, type and standard of Franchised Restaurant",
+     "object_type": "Obligation",
+     "evidence": "In order to promote and protect the value of the Marks and the System, and to insure optimum quality control as to products and services provided and sold in Franchised Restaurants, you acknowledge and agree that substantial uniformity must be maintained in the quality, type and standard of Franchised Restaurant, and in their facilities, products, services and operations.",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to promote and protect the value of the Marks and the System, and to insure optimum quality control as to products and services provided and sold in Franchised Restaurants, you acknowledge and agree that substantial uniformity must be maintained in the quality, type and standard of Franchised Restaurant, and in their facilities, products, services and operations.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to promote and protect the value of the Marks and the System, and to insure optimum quality control as to products and services provided and sold in Franchised Restaurants, you acknowledge and agree that substantial uniformity must be maintained in the quality, type and standard of Franchised Restaurant, and in their facilities, products, services and operations.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to promote and protect the value of the Marks and the System, and to insure optimum quality control as to products and services provided and sold in Franchised Restaurants, you acknowledge and agree that substantial uniformity must be maintained in the quality, type and standard of Franchised Restaurant, and in their facilities, products, services and operations.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to promote and protect the value of the Marks and the System, and to insure optimum quality control as to products and services provided and sold in Franchised Restaurants, you acknowledge and agree that substantial uniformity must be maintained in the quality, type and standard of Franchised Restaurant, and in their facilities, products, services and operations.",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to promote and protect the value of the Marks and the System, and to insure optimum quality control as to products and services provided and sold in Franchised Restaurants, you acknowledge and agree that substantial uniformity must be maintained in the quality, type and standard of Franchised Restaurant, and in their facilities, products, services and operations.",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to promote and protect the value of the Marks and the System, and to insure optimum quality control as to products and services provided and sold in Franchised Restaurants, you acknowledge and agree that substantial uniformity must be maintained in the quality, type and standard of Franchised Restaurant, and in their facilities, products, services and operations.",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to promote and protect the value of the Marks and the System, and to insure optimum quality control as to products and services provided and sold in Franchised Restaurants, you acknowledge and agree that substantial uniformity must be maintained in the quality, type and standard of Franchised Restaurant, and in their facilities, products, services and operations.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "nine (9) months",
+     "object_type": "Duration",
+     "evidence": "You will commence operation of your Franchised Restaurant within nine (9) months of the execution of this Agreement or as otherwise required or approved in writing by us.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::28",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "nine (9) months",
+     "name": "nine (9) months",
+     "type": "Duration"
+    },
+    {
+     "key": "$50,000",
+     "name": "$50,000",
+     "type": "Amount"
+    },
+    {
+     "key": "nine (9) month",
+     "name": "nine (9) month",
+     "type": "Duration"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "nine (9) months",
+     "object_type": "Duration",
+     "evidence": "You will commence operation of your Franchised Restaurant within nine (9) months of the execution of this Agreement or as otherwise required or approved in writing by us.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "thirty (30) days",
+     "object_type": "Duration",
+     "evidence": "If you fail or refuse to initiate a bona fide program to complete any required maintenance, within thirty (30) days after receipt of such notice, we will have the right, but not the obligation, in addition to all other remedies, to enter upon the premises of the Franchised Restaurant and effect such repairs, painting, maintenance or replacements of equipment, fixtures or signs on your behalf and y",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "be used solely for the purpose of conducting a Buffalo Wild Wings Franchised Restaurant",
+     "object_type": "Obligation",
+     "evidence": "The Franchised Restaurant may be used solely for the purpose of conducting a Buffalo Wild Wings Franchised Restaurant.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::29",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "trade secret food products",
+     "name": "Trade Secret Food Products",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "be used solely for the purpose of conducting a Buffalo Wild Wings Franchised Restaurant",
+     "object_type": "Obligation",
+     "evidence": "The Franchised Restaurant may be used solely for the purpose of conducting a Buffalo Wild Wings Franchised Restaurant.",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Trade Secret Food Products",
+     "object_type": "DefinedTerm",
+     "evidence": "We have developed and own proprietary sauces for use in preparing chicken wings, the weck kaiser roll and other menu items and specially prepared pocket pizza mix and \"Buffalo Breath Chili\" mix (\"Trade Secret Food Products\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Trade Secret Food Products",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "(i) manufacture, supply",
+     "object_type": "Obligation",
+     "evidence": "In order to protect our trade secrets and to monitor the manufacture, packaging, processing and sale of Trade Secret Food Products, we will (i) manufacture, supply, and sell Trade Secret Food Products to our franchisees; (ii) disclose the formulae for and methods for preparation of the Trade Secret Food Products to a limited number of suppliers who may be authorized by us to manufacture Trade Secr",
+     "source": "rules"
+    },
+    {
+     "subject": "Trade Secret Food Products",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to protect our trade secrets and to monitor the manufacture, packaging, processing and sale of Trade Secret Food Products, we will (i) manufacture, supply, and sell Trade Secret Food Products to our franchisees; (ii) disclose the formulae for and methods for preparation of the Trade Secret Food Products to a limited number of suppliers who may be authorized by us to manufacture Trade Secr",
+     "source": "rules"
+    },
+    {
+     "subject": "Trade Secret Food Products",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "You acknowledge that you may be required to purchase Trade Secret Food Products (and other products whose consistency and quality is key to the success of the System) from us or a limited number of suppliers so authorized by us and will be required to use Trade Secret Food Products as designated by us.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "You will offer for sale and sell at the Franchised Restaurant all Menu Items, other food and beverage products and other products that we from time to time require and shall not offer for sale or sell at the Franchised Restaurant or the premises which you occupy any unapproved products or menu items or use such premises for any purpose other than the operation of a Franchised Restaurant in full co",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to ensure that all Menu Items produced by you meet our high standards of taste, texture, appearance and freshness, and in order to protect our goodwill and Marks, all Menu Items and other",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::30",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "approved supplies list",
+     "name": "Approved Supplies List",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "approved suppliers list",
+     "name": "Approved Suppliers List",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Approved Supplies List",
+     "object_type": "DefinedTerm",
+     "evidence": "Franchised Restaurant (\"Approved Supplies List\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "In order to ensure that all Menu Items produced by you meet our high standards of taste, texture, appearance and freshness, and in order to protect our goodwill and Marks, all Menu Items and other food products shall be prepared only by properly trained personnel strictly in accordance with our recipes, cooking techniques and processes, and the Manuals, and shall be sold only at retail to customer",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You acknowledge that such recipes, cooking techniques and processes are integral to the System and failure to adhere to such recipes, cooking techniques and processes shall be detrimental to the System and Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "Approved Suppliers List",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "From time to time, we will provide you with a list of approved manufacturers, suppliers and distributors (\"Approved Suppliers List\") and approved inventory products, fixtures, furniture, equipment, signs, stationery, supplies, and other items or services necessary to operate the Franchised Restaurant (\"Approved Supplies List\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Approved Suppliers List",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Approved Supplies List",
+     "object_type": "DefinedTerm",
+     "evidence": "From time to time, we will provide you with a list of approved manufacturers, suppliers and distributors (\"Approved Suppliers List\") and approved inventory products, fixtures, furniture, equipment, signs, stationery, supplies, and other items or services necessary to operate the Franchised Restaurant (\"Approved Supplies List\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Approved Supplies List",
+     "object_type": "DefinedTerm",
+     "evidence": "From time to time, we will provide you with a list of approved manufacturers, suppliers and distributors (\"Approved Suppliers List\") and approved inventory products, fixtures, furniture, equipment, signs, stationery, supplies, and other items or services necessary to operate the Franchised Restaurant (\"Approved Supplies List\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Approved Supplies List",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be submitted to you as we deem advisable",
+     "object_type": "Obligation",
+     "evidence": "We may revise the Approved Suppliers List and Approved Supplies List from time to time in our sole discretion and such lists shall be submitted to you as we deem advisable.",
+     "source": "rules"
+    },
+    {
+     "subject": "Approved Suppliers List",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Approved Supplies List",
+     "object_type": "DefinedTerm",
+     "evidence": "We may revise the Approved Suppliers List and Approved Supplies List from time to time in our sole discretion and such lists shall be submitted to you as we deem advisable.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::31",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "approved supplies list",
+     "name": "Approved Supplies List",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "approved suppliers list",
+     "name": "Approved Suppliers List",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Approved Suppliers List",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "conform to the specifications and quality standards established by us from time to time",
+     "object_type": "Obligation",
+     "evidence": "All inventory, products and materials, and other items and supplies used in the operation of the Franchised Restaurant which are not specifically required to be purchased in accordance with our Approved Supplies List and Approved Suppliers List must conform to the specifications and quality standards established by us from time to time.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Approved Supplies List",
+     "object_type": "DefinedTerm",
+     "evidence": "All inventory, products and materials, and other items and supplies used in the operation of the Franchised Restaurant which are not specifically required to be purchased in accordance with our Approved Supplies List and Approved Suppliers List must conform to the specifications and quality standards established by us from time to time.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Approved Suppliers List",
+     "object_type": "DefinedTerm",
+     "evidence": "All inventory, products and materials, and other items and supplies used in the operation of the Franchised Restaurant which are not specifically required to be purchased in accordance with our Approved Supplies List and Approved Suppliers List must conform to the specifications and quality standards established by us from time to time.",
+     "source": "rules"
+    },
+    {
+     "subject": "Approved Supplies List",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Approved Suppliers List",
+     "object_type": "DefinedTerm",
+     "evidence": "All inventory, products and materials, and other items and supplies used in the operation of the Franchised Restaurant which are not specifically required to be purchased in accordance with our Approved Supplies List and Approved Suppliers List must conform to the specifications and quality standards established by us from time to time.",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "Type, quality, taste, portion control and uniformity, and manner of preparation, packaging, displays and sale of all Menu Items, beverages and other food items sold by the Franchised Restaurant and of all food, beverages and other products used in the preparation and packaging thereof;",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You will refrain from any merchandising, advertising or promotional practice which is unethical or may be injurious to our business and/or the business of other Franchised Restaurants or to the goodwill associated with the Marks or System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "You will refrain from any merchandising, advertising or promotional practice which is unethical or may be injurious to our business and/or the business of other Franchised Restaurants or to the goodwill associated with the Marks or System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "You will refrain from any merchandising, advertising or promotional practice which is unethical or may be injurious to our business and/or the business of other Franchised Restaurants or to the goodwill associated with the Marks or System.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "10"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::32",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "sixty (60) days",
+     "name": "sixty (60) days",
+     "type": "Duration"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You will refrain from any merchandising, advertising or promotional practice which is unethical or may be injurious to our business and/or the business of other Franchised Restaurants or to the goodwill associated with the Marks or System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Restaurants",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "You will refrain from any merchandising, advertising or promotional practice which is unethical or may be injurious to our business and/or the business of other Franchised Restaurants or to the goodwill associated with the Marks or System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "You will refrain from any merchandising, advertising or promotional practice which is unethical or may be injurious to our business and/or the business of other Franchised Restaurants or to the goodwill associated with the Marks or System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "In the operation of the Franchised Restaurant you will use only displays, trays, boxes, bags, wrapping paper, labels, forms and other paper and plastic products imprinted with the Marks and colors as prescribed from time to time by us.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "The Franchised Restaurant shall at all times be under your direct, on-premises supervision, unless, upon sixty (60) days prior written notice and approval by us you designate a trained and competent employee to act as full-time general manager.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "at all times be under your direct, on-premises supervision",
+     "object_type": "Obligation",
+     "evidence": "The Franchised Restaurant shall at all times be under your direct, on-premises supervision, unless, upon sixty (60) days prior written notice and approval by us you designate a trained and competent employee to act as full-time general manager.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::33",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "five (5) days",
+     "object_type": "Duration",
+     "evidence": "You will notify us in writing within five (5) days of the commencement of any action, suit, or proceeding, and of the issuance of any order, writ, injunction, award or decree of any court, agency, or other governmental instrumentality, which may adversely affect the operation or financial condition of the Franchised Restaurant.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "provide you with the following",
+     "object_type": "Obligation",
+     "evidence": "Before the opening of the Franchised Restaurant we will provide you with the following:",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::34",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "Proper utilization of procedures to be utilized by the Franchised Restaurant regarding the service and sale of all Menu Items and other food and beverage items, and related items and materials as approved by us;",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::35",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$1,000,000",
+     "name": "$1,000,000",
+     "type": "Amount"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "reasonably require for our own and your protection",
+     "object_type": "Obligation",
+     "evidence": "You will procure at your expense and maintain in full force and effect during the term of this Agreement, an insurance policy or policies protecting you, us and our designated affiliates, and their officers, directors, partners and employees against any loss, liability, personal injury, death, or property damage or expense whatsoever arising or occurring upon or in connection with the Franchised R",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$1,000,000",
+     "object_type": "Amount",
+     "evidence": "Comprehensive general liability insurance and product liability insurance with minimum limits of ONE MILLION Dollars ($1,000,000) combined single limit including the following coverages: contractual liability; personal injury; products/completed operation; and tenant's fire legal liability; insuring against all claims, suits, obligations, liabilities and damages, including attorneys' fees, based u",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$1,000,000",
+     "object_type": "Amount",
+     "evidence": "If you offer delivery service or utilize motor vehicles for any other purpose in the operation of the Franchised Restaurant, automobile liability insurance, including owned, hired and non-owned vehicle coverage, with a combined single limit of at least ONE MILLION Dollars ($1,000,000).",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::36",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$1,000,000",
+     "name": "$1,000,000",
+     "type": "Amount"
+    },
+    {
+     "key": "twenty (20) days",
+     "name": "twenty (20) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$1,000,000",
+     "object_type": "Amount",
+     "evidence": "If you offer delivery service or utilize motor vehicles for any other purpose in the operation of the Franchised Restaurant, automobile liability insurance, including owned, hired and non-owned vehicle coverage, with a combined single limit of at least ONE MILLION Dollars ($1,000,000).",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "be required from time to time by us",
+     "object_type": "Obligation",
+     "evidence": "Such insurance and types of coverage as may be required by the terms of any lease for the Franchised Restaurant, or as may be required from time to time by us.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5",
+    "6"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::37",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "(10%",
+     "name": "(10%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(10%)",
+     "object_type": "Percentage",
+     "evidence": "You covenant that during the term of this Agreement, except as otherwise approved in writing by us, you (if you are an individual), a shareholder of a beneficial interest of ten percent (10%) or more of your securities (if you are a corporation), a general partner of yours (if you are a partnership), a member (if you are a limited liability company) or your full-time manager approved by us shall d",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "Divert or attempt to divert any business or customer of the Franchised Restaurant to any competitor, by direct or indirect inducement or otherwise, or do or perform, directly or indirectly, any other act injurious or prejudicial to the goodwill associated with the Marks or the System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Divert or attempt to divert any business or customer of the Franchised Restaurant to any competitor, by direct or indirect inducement or otherwise, or do or perform, directly or indirectly, any other act injurious or prejudicial to the goodwill associated with the Marks or the System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Divert or attempt to divert any business or customer of the Franchised Restaurant to any competitor, by direct or indirect inducement or otherwise, or do or perform, directly or indirectly, any other act injurious or prejudicial to the goodwill associated with the Marks or the System.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::38",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "two (2) years",
+     "name": "two (2) years",
+     "type": "Duration"
+    },
+    {
+     "key": "trade secret food products",
+     "name": "Trade Secret Food Products",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "menu items",
+     "name": "Menu Items",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "two (2) years",
+     "object_type": "Duration",
+     "evidence": "Accordingly, you covenant that, except as otherwise approved in writing by us, you will not, for a period of two (2) years after the expiration or termination of this Agreement, regardless of the cause of termination, or within two (2) years of the sale of the Franchised Restaurant or any interest in you, either directly or indirectly, for yourself, or through, on behalf of, or in conjunction with",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "two (2) years",
+     "object_type": "Duration",
+     "evidence": "Accordingly, you covenant that, except as otherwise approved in writing by us, you will not, for a period of two (2) years after the expiration or termination of this Agreement, regardless of the cause of termination, or within two (2) years of the sale of the Franchised Restaurant or any interest in you, either directly or indirectly, for yourself, or through, on behalf of, or in conjunction with",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Accordingly, you covenant that, except as otherwise approved in writing by us, you will not, for a period of two (2) years after the expiration or termination of this Agreement, regardless of the cause of termination, or within two (2) years of the sale of the Franchised Restaurant or any interest in you, either directly or indirectly, for yourself, or through, on behalf of, or in conjunction with",
+     "source": "rules"
+    },
+    {
+     "subject": "Trade Secret Food Products",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Menu Items",
+     "object_type": "DefinedTerm",
+     "evidence": "You will not, at any time during or after the term of this Agreement, divulge to any person, partnership, corporation or any other entity any information, trade secrets, the ingredients, recipes, cooking techniques and processes, used in the Trade Secret Food Products, and other food and beverage products and Menu Items used in the System or any information stated in the Manuals.",
+     "source": "rules"
+    },
+    {
+     "subject": "Trade Secret Food Products",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "You will not, at any time during or after the term of this Agreement, divulge to any person, partnership, corporation or any other entity any information, trade secrets, the ingredients, recipes, cooking techniques and processes, used in the Trade Secret Food Products, and other food and beverage products and Menu Items used in the System or any information stated in the Manuals.",
+     "source": "rules"
+    },
+    {
+     "subject": "Menu Items",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "You will not, at any time during or after the term of this Agreement, divulge to any person, partnership, corporation or any other entity any information, trade secrets, the ingredients, recipes, cooking techniques and processes, used in the Trade Secret Food Products, and other food and beverage products and Menu Items used in the System or any information stated in the Manuals.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::39",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    },
+    {
+     "key": "twelve (12) month",
+     "name": "twelve (12) month",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "Is convicted of or pleads no contest to a felony or other crime or offense that is likely to adversely affect your reputation, the Franchised Restaurant, or the goodwill associated with the Marks or System;",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Is convicted of or pleads no contest to a felony or other crime or offense that is likely to adversely affect your reputation, the Franchised Restaurant, or the goodwill associated with the Marks or System;",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Is convicted of or pleads no contest to a felony or other crime or offense that is likely to adversely affect your reputation, the Franchised Restaurant, or the goodwill associated with the Marks or System;",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "five (5) days",
+     "object_type": "Duration",
+     "evidence": "Abandons or fails or refuses to actively operate the Franchised Restaurant for more than five (5) days in any twelve (12) month period or for more than two (2) consecutive business days in any twelve (12) month period, unless the",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "twelve (12) month",
+     "object_type": "Duration",
+     "evidence": "Abandons or fails or refuses to actively operate the Franchised Restaurant for more than five (5) days in any twelve (12) month period or for more than two (2) consecutive business days in any twelve (12) month period, unless the",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "twelve (12) month",
+     "object_type": "Duration",
+     "evidence": "Abandons or fails or refuses to actively operate the Franchised Restaurant for more than five (5) days in any twelve (12) month period or for more than two (2) consecutive business days in any twelve (12) month period, unless the",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::40",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    },
+    {
+     "key": "twelve (12) month",
+     "name": "twelve (12) month",
+     "type": "Duration"
+    },
+    {
+     "key": "(2%",
+     "name": "(2%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "sixty (60) days",
+     "name": "sixty (60) days",
+     "type": "Duration"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "five (5) days",
+     "object_type": "Duration",
+     "evidence": "Abandons or fails or refuses to actively operate the Franchised Restaurant for more than five (5) days in any twelve (12) month period or for more than two (2) consecutive business days in any twelve (12) month period, unless the Franchised Restaurant has been closed for a purpose approved by us or due to force majeure, or fails to relocate to approved premises within an approved period of time fo",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "twelve (12) month",
+     "object_type": "Duration",
+     "evidence": "Abandons or fails or refuses to actively operate the Franchised Restaurant for more than five (5) days in any twelve (12) month period or for more than two (2) consecutive business days in any twelve (12) month period, unless the Franchised Restaurant has been closed for a purpose approved by us or due to force majeure, or fails to relocate to approved premises within an approved period of time fo",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "twelve (12) month",
+     "object_type": "Duration",
+     "evidence": "Abandons or fails or refuses to actively operate the Franchised Restaurant for more than five (5) days in any twelve (12) month period or for more than two (2) consecutive business days in any twelve (12) month period, unless the Franchised Restaurant has been closed for a purpose approved by us or due to force majeure, or fails to relocate to approved premises within an approved period of time fo",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::41",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "nine (9) months",
+     "name": "nine (9) months",
+     "type": "Duration"
+    },
+    {
+     "key": "ten (10) days",
+     "name": "ten (10) days",
+     "type": "Duration"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "thirty (30) days",
+     "object_type": "Duration",
+     "evidence": "Fails to devote your best efforts to adequately represent the Franchised Restaurant in your Designated Area through your sales and service efforts and does not correct such failure within thirty (30) days (or provide proof acceptable to us that you have made all reasonable efforts to correct such failure and will continue to make all reasonable efforts to cure until a cure is effected if such fail",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "thirty (30) days",
+     "object_type": "Duration",
+     "evidence": "Fails to devote your best efforts to adequately represent the Franchised Restaurant in your Designated Area through your sales and service efforts and does not correct such failure within thirty (30) days (or provide proof acceptable to us that you have made all reasonable efforts to correct such failure and will continue to make all reasonable efforts to cure until a cure is effected if such fail",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "2",
+    "3",
+    "13",
+    "14"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::42",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "twenty (20) days",
+     "name": "twenty (20) days",
+     "type": "Duration"
+    },
+    {
+     "key": "$200",
+     "name": "$200",
+     "type": "Amount"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "twenty (20) days",
+     "object_type": "Duration",
+     "evidence": "In addition to our right to terminate this Agreement, and not in lieu of such right or any other rights against you, we, in the event that you have not cured a default under this Agreement within the twenty (20) days after receipt of a written notice to cure from us, may, at our option, enter upon the premises of the Franchised Restaurant and exercise complete authority with respect to the operati",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$200",
+     "object_type": "Amount",
+     "evidence": "You specifically acknowledge that our designated representative may take over, control, and operate the Franchised Restaurant, and that you will pay us a service fee of not less than TWO HUNDRED Dollars ($200) per day plus all travel expenses, room and board and other expenses reasonably incurred by such representative so long as it shall be required by the representative to enforce compliance her",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You will immediately and permanently cease to use, by advertising or in any manner whatsoever, any confidential methods, procedures, and techniques associated with the System; the Marks and distinctive forms, slogans, signs, symbols, logos, or devices associated with the System.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::43",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You will immediately and permanently cease to use, by advertising or in any manner whatsoever, any confidential methods, procedures, and techniques associated with the System; the Marks and distinctive forms, slogans, signs, symbols, logos, or devices associated with the System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "In particular, you will cease to use, without limitation, all signs, advertising materials, stationery, forms, and any other articles which display the Marks associated with the System.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "You will make such modifications or alterations to the premises of the Franchised Restaurant (including, without limitation, the changing of the telephone number) immediately upon termination or expiration of this Agreement as may be necessary to prevent any association between us or the System and any business thereon subsequently operated by you or others, and will make such specific additional ",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::44",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "sixty (60) days",
+     "name": "sixty (60) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You hereby acknowledge our right to access the premises of the Franchised Restaurant if we elect to take possession of any sign or sign faces bearing the Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "assign to us or our designee, all right, title",
+     "object_type": "Obligation",
+     "evidence": "You hereby acknowledge that all telephone numbers used in the operation of the Franchised Restaurant constitute assets of the Franchised Restaurant; and upon termination or expiration of this Agreement you will assign to us or our designee, all right, title, and interest in and to your telephone numbers and will notify the telephone company and all listing agencies of the termination or expiration",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You hereby acknowledge that all telephone numbers used in the operation of the Franchised Restaurant constitute assets of the Franchised Restaurant; and upon termination or expiration of this Agreement you will assign to us or our designee, all right, title, and interest in and to your telephone numbers and will notify the telephone company and all listing agencies of the termination or expiration",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "sixty (60) days",
+     "object_type": "Duration",
+     "evidence": "We will have the right (but not the duty), to be exercised by notice of intent to do so within sixty (60) days after termination or expiration, to purchase for cash any or all assets of the Franchised Restaurant, including leasehold improvements, equipment, supplies, and other inventory, advertising materials, and all items bearing the Marks, at your cost or fair market value, whichever is less.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "We will have the right (but not the duty), to be exercised by notice of intent to do so within sixty (60) days after termination or expiration, to purchase for cash any or all assets of the Franchised Restaurant, including leasehold improvements, equipment, supplies, and other inventory, advertising materials, and all items bearing the Marks, at your cost or fair market value, whichever is less.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::45",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "transfer",
+     "name": "Transfer",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fund",
+     "name": "Fund",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Transfer",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "any sale, assignment, gift, pledge, mortgage or any other encumbrance, transfer by bankruptcy, transfer by judicial order, merger, consolidation, share exchange, transfer by operation of law or otherwise, whether direct or indirect, voluntary or involuntary, of this Agreement or any",
+     "object_type": "Definition",
+     "evidence": "\"Transfer\" means any sale, assignment, gift, pledge, mortgage or any other encumbrance, transfer by bankruptcy, transfer by judicial order, merger, consolidation, share exchange, transfer by operation of law or otherwise, whether direct or indirect, voluntary or involuntary, of this Agreement or any",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "3"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::46",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "transfer",
+     "name": "Transfer",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "3",
+    "8"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::47",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "(49%",
+     "name": "(49%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "three (3) years",
+     "name": "three (3) years",
+     "type": "Duration"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "execute the Owner Agreement attached as EXHIBIT A to this Agreement",
+     "object_type": "Obligation",
+     "evidence": "Any person who acquires any interest in you, this Agreement or the Franchised Restaurant must execute the Owner Agreement attached as EXHIBIT A to this Agreement.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::48",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    19,
+    20
+   ],
+   "entities": [
+    {
+     "key": "(50%",
+     "name": "(50%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "one hundred eighty (180) days",
+     "name": "one hundred eighty (180) days",
+     "type": "Duration"
+    },
+    {
+     "key": "one hundred and eighty (180) days",
+     "name": "one hundred and eighty (180) days",
+     "type": "Duration"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "1",
+    "2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::49",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    20
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "six (6) months",
+     "name": "six (6) months",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "thirty (30) days",
+     "object_type": "Duration",
+     "evidence": "If you or your owners propose to sell the Franchised Restaurant (or its assets) or a controlling interest in the ownership of you as defined in Paragraph XVIII, you or your owners will obtain and deliver a bona fide, executed written offer to purchase same to us, which shall, for a period of thirty (30) days from the date of delivery of such offer to us, have the right, exercisable by written noti",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::50",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    20
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "All standards of quality and performance, including those listed in Paragraph XII, are established to promote and protect the value of the Marks and the System and to insure optimum quality control as to products and services.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::51",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    21
+   ],
+   "entities": [
+    {
+     "key": "bw-3 franchise systems",
+     "name": "BW-3 FRANCHISE SYSTEMS, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "one (1) year",
+     "name": "one (1) year",
+     "type": "Duration"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::52",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    21
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::53",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    21,
+    22,
+    23
+   ],
+   "entities": [
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [
+    "10",
+    "51"
+   ],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::54",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    21,
+    22,
+    23
+   ],
+   "entities": [
+    {
+     "key": "ten (10) business days",
+     "name": "ten (10) business days",
+     "type": "Duration"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "five (5) business days",
+     "name": "five (5) business days",
+     "type": "Duration"
+    },
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::55",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    21,
+    22,
+    23
+   ],
+   "entities": [
+    {
+     "key": "forty-five (45) days",
+     "name": "forty-five (45) days",
+     "type": "Duration"
+    },
+    {
+     "key": "seven (7) days",
+     "name": "seven (7) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::56",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    21,
+    22,
+    23
+   ],
+   "entities": [
+    {
+     "key": "five (5) days",
+     "name": "five (5) days",
+     "type": "Duration"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::57",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::58",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "entities": [
+    {
+     "key": "buffalo wild wings restaurants",
+     "name": "Buffalo Wild Wings Restaurants",
+     "type": "Party"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "bw-3 franchise systems",
+     "name": "BW-3 FRANCHISE SYSTEMS, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "agreements",
+     "name": "Agreements",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchisee",
+     "name": "Franchisee",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Buffalo Wild Wings Restaurants",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "Buffalo Wild Wings Restaurants (\"Restaurants\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "(\"we\" or \"us\") of an Area Development Agreement and/or one or more Franchise Agreements executed (collectively the \"Agreements\") providing certain rights relating to Buffalo Wild Wings Restaurants (the \"Restaurants\") to ________________________",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "32"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "32": "Exhibit A"
+   }
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::59",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "entities": [
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchisee",
+     "name": "Franchisee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "agreements",
+     "name": "Agreements",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Agreements",
+     "object_type": "DefinedTerm",
+     "evidence": "It is a condition to the granting of the franchise to Franchisee that you enter into this Agreement and we have entered into the Agreements in reliance upon your agreement to do so, and will continue to do so;",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "Each of you agrees that during the period Franchisee operates any Buffalo Wild Wings and/or bw-3 Restaurants, or has any beneficial interest therein, or holds any rights to develop one or more such Restaurants (including all renewal periods) you shall not directly or indirectly on your own account or as an employee, consultant, partner, officer, director, shareholder or member of any person, firm,",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::60",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "entities": [
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchisee",
+     "name": "Franchisee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "agreements",
+     "name": "Agreements",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "for a two-year period after Franchisee ceases to have any interest in any Restaurants or any rights to develop Restaurants, regardless of the reasons such interest ceases or terminates, you will not directly or indirectly on your own account or as an employee, consultant, partner, officer, director, shareholder or member of any person, firm, entity, partnership, corporation or company, own operate",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "1) any restaurant business, 2) any prepared food business, or 3) any other business which sells prepared food products the same or similar as the type sold in our System; which is located at or within a ten (10) mile radius of your former Franchised Restaurant or any Buffalo Wild Wings or bw-3 Restaurant.",
+     "source": "rules"
+    },
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST_NOT",
+     "object": "at any time use, copy or duplicate the System or any aspect thereof",
+     "object_type": "Obligation",
+     "evidence": "Except as permitted under the Agreements, you will not at any time use, copy or duplicate the System or any aspect thereof, or any of our trade secrets, recipes, methods of operation, processes, formulas, advertising, marketing, designs, plans, software, programs, know-how or other proprietary ideas or information, nor will you convey, divulge, make available or communicate such information to any",
+     "source": "rules"
+    },
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Except as permitted under the Agreements, you will not at any time use, copy or duplicate the System or any aspect thereof, or any of our trade secrets, recipes, methods of operation, processes, formulas, advertising, marketing, designs, plans, software, programs, know-how or other proprietary ideas or information, nor will you convey, divulge, make available or communicate such information to any",
+     "source": "rules"
+    },
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "System",
+     "object_type": "DefinedTerm",
+     "evidence": "Except as permitted under the Agreements, you will not at any time use, copy or duplicate the System or any aspect thereof, or any of our trade secrets, recipes, methods of operation, processes, formulas, advertising, marketing, designs, plans, software, programs, know-how or other proprietary ideas or information, nor will you convey, divulge, make available or communicate such information to any",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "you engage in any business or market any product or service under a name, mark",
+     "object_type": "Obligation",
+     "evidence": "You will not at any time commit any act that would infringe upon or impair the value of the System or the Marks, nor will you engage in any business or market any product or service under a name, mark, or design that is confusingly or deceptively similar to any of the Marks.",
+     "source": "rules"
+    },
+    {
+     "subject": "System",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Marks",
+     "object_type": "DefinedTerm",
+     "evidence": "You will not at any time commit any act that would infringe upon or impair the value of the System or the Marks, nor will you engage in any business or market any product or service under a name, mark, or design that is confusingly or deceptively similar to any of the Marks.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::61",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "entities": [
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "twelve (12) month",
+     "name": "twelve (12) month",
+     "type": "Duration"
+    },
+    {
+     "key": "system",
+     "name": "System",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "agreements",
+     "name": "Agreements",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be deemed secret and confidential for purposes of this Agreement",
+     "object_type": "Obligation",
+     "evidence": "Any and all information, knowledge, or know-how, including without limitation, drawings, materials, equipment, marketing, recipes and other data, that we designate under the Agreements as secret or confidential shall be deemed secret and confidential for purposes of this Agreement.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [
+    "2"
+   ],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::62",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "entities": [
+    {
+     "key": "franchisee",
+     "name": "Franchisee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "agreements",
+     "name": "Agreements",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "now or in the future owe to any of us (including interest",
+     "object_type": "Obligation",
+     "evidence": "Each of you personally and unconditionally guaranty to us and to our parent and other affiliates, as well as any of their successors or assigns, the punctual payment when due of all sums, indebtedness and liabilities of every kind and nature that Franchisee may now or in the future owe to any of us (including interest, and all attorneys' fees, costs and expenses incurred by any of us in collection",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST_NOT",
+     "object": "be diminished, relieved",
+     "object_type": "Obligation",
+     "evidence": "(1) liability under this guaranty shall be joint and several; (2) that this is a guaranty of payment and not of collection and you shall render any payment required under the Agreements or this guaranty upon demand; (3) this guaranty shall extend to all amounts you may now or in the future owe to any of us, whether pursuant to the Agreements, another agreement with us or otherwise; (4) your liabil",
+     "source": "rules"
+    },
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchisee",
+     "object_type": "DefinedTerm",
+     "evidence": "(1) liability under this guaranty shall be joint and several; (2) that this is a guaranty of payment and not of collection and you shall render any payment required under the Agreements or this guaranty upon demand; (3) this guaranty shall extend to all amounts you may now or in the future owe to any of us, whether pursuant to the Agreements, another agreement with us or otherwise; (4) your liabil",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "3"
+   ],
+   "sections_referenced": [
+    "2"
+   ],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::63",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "entities": [
+    {
+     "key": "agreements",
+     "name": "Agreements",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchisee",
+     "name": "Franchisee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "one (1) year",
+     "name": "one (1) year",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST_NOT",
+     "object": "be diminished, relieved",
+     "object_type": "Obligation",
+     "evidence": "to the Agreements, another agreement with us or otherwise; (4) your liability under this guaranty shall not be contingent or conditioned upon pursuit by us of any remedies against Franchisee or any of you; (5) your liability hereunder shall not be diminished, relieved, or otherwise affected by any extension of time, credit, or other indulgence or waiver that we may from time to time grant to Franc",
+     "source": "rules"
+    },
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchisee",
+     "object_type": "DefinedTerm",
+     "evidence": "to the Agreements, another agreement with us or otherwise; (4) your liability under this guaranty shall not be contingent or conditioned upon pursuit by us of any remedies against Franchisee or any of you; (5) your liability hereunder shall not be diminished, relieved, or otherwise affected by any extension of time, credit, or other indulgence or waiver that we may from time to time grant to Franc",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "be entitled",
+     "object_type": "Obligation",
+     "evidence": "Each of you waives notice of demand, notice of protest, nonpayment or default, and all other notices to which Franchisee or you may be entitled, and all suretyship and guarantor's defenses generally and any and all other notices and legal or equitable defenses to which you may be entitled.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::64",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "entities": [
+    {
+     "key": "transfer",
+     "name": "Transfer",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchisee",
+     "name": "Franchisee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "agreements",
+     "name": "Agreements",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Transfer",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "any sale, assignment, gift, pledge, mortgage or any other encumbrance, transfer by bankruptcy, transfer by judicial order, merger, consolidation, share exchange, transfer by operation of law or otherwise, whether direct or indirect, voluntary or involuntary, of the Agreements or any",
+     "object_type": "Definition",
+     "evidence": "\"Transfer\" means any sale, assignment, gift, pledge, mortgage or any other encumbrance, transfer by bankruptcy, transfer by judicial order, merger, consolidation, share exchange, transfer by operation of law or otherwise, whether direct or indirect, voluntary or involuntary, of the Agreements or any",
+     "source": "rules"
+    },
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "remain personal to you",
+     "object_type": "Obligation",
+     "evidence": "The Agreements, and your rights and obligations under them, are and shall remain personal to you.",
+     "source": "rules"
+    },
+    {
+     "subject": "Transfer",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Agreements",
+     "object_type": "DefinedTerm",
+     "evidence": "As used herein, the term \"Transfer\" shall mean any sale, assignment, gift, pledge, mortgage or any other encumbrance, transfer by bankruptcy, transfer by judicial order, merger, consolidation, share exchange, transfer by operation of law or otherwise, whether direct or indirect, voluntary or involuntary, of the Agreements or any interest in any of them or any rights or obligations arising under th",
+     "source": "rules"
+    },
+    {
+     "subject": "Transfer",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchisee",
+     "object_type": "DefinedTerm",
+     "evidence": "As used herein, the term \"Transfer\" shall mean any sale, assignment, gift, pledge, mortgage or any other encumbrance, transfer by bankruptcy, transfer by judicial order, merger, consolidation, share exchange, transfer by operation of law or otherwise, whether direct or indirect, voluntary or involuntary, of the Agreements or any interest in any of them or any rights or obligations arising under th",
+     "source": "rules"
+    },
+    {
+     "subject": "Agreements",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchisee",
+     "object_type": "DefinedTerm",
+     "evidence": "As used herein, the term \"Transfer\" shall mean any sale, assignment, gift, pledge, mortgage or any other encumbrance, transfer by bankruptcy, transfer by judicial order, merger, consolidation, share exchange, transfer by operation of law or otherwise, whether direct or indirect, voluntary or involuntary, of the Agreements or any interest in any of them or any rights or obligations arising under th",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Transfer",
+     "object_type": "DefinedTerm",
+     "evidence": "Each of you agree and covenant that you will not at any time during which Franchisee is a Buffalo Wild Wings/bw-3 franchisee and/or developer, directly or indirectly, voluntarily or involuntarily, make any Transfer, unless you first obtain our written approval in compliance with the same provisions applicable to a transfer by you as set forth in the Agreements.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchisee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Agreements",
+     "object_type": "DefinedTerm",
+     "evidence": "Each of you agree and covenant that you will not at any time during which Franchisee is a Buffalo Wild Wings/bw-3 franchisee and/or developer, directly or indirectly, voluntarily or involuntarily, make any Transfer, unless you first obtain our written approval in compliance with the same provisions applicable to a transfer by you as set forth in the Agreements.",
+     "source": "rules"
+    },
+    {
+     "subject": "Transfer",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Agreements",
+     "object_type": "DefinedTerm",
+     "evidence": "Each of you agree and covenant that you will not at any time during which Franchisee is a Buffalo Wild Wings/bw-3 franchisee and/or developer, directly or indirectly, voluntarily or involuntarily, make any Transfer, unless you first obtain our written approval in compliance with the same provisions applicable to a transfer by you as set forth in the Agreements.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "35"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "35": "Covenant Not To Transfer"
+   }
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::65",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    23,
+    24,
+    25,
+    26
+   ],
+   "entities": [
+    {
+     "key": "agreements",
+     "name": "Agreements",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchisee",
+     "name": "Franchisee",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::66",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    26,
+    27,
+    28
+   ],
+   "entities": [
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "bw-3 franchise systems",
+     "name": "BW-3 FRANCHISE SYSTEMS, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "lessor",
+     "name": "Lessor",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "lessee",
+     "name": "Lessee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "lease",
+     "name": "Lease",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "premises",
+     "name": "Premises",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "THIS ADDENDUM TO LEASE, dated ______________, 199__, is entered into by and between _______________________(\"Lessor\"), and __________________________ (\"Lessee\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "BW-3 FRANCHISE SYSTEMS, INC",
+     "object_type": "Organization",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Premises",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Premises",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "BW-3 FRANCHISE SYSTEMS, INC",
+     "object_type": "Organization",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "BW-3 FRANCHISE SYSTEMS, INC",
+     "object_type": "Organization",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5",
+    "38"
+   ],
+   "sections_referenced": [
+    "2"
+   ],
+   "section_titles": {
+    "38": "Exhibit C Addendum To Lease",
+    "5": "Miscellaneous."
+   }
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::67",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    26,
+    27,
+    28
+   ],
+   "entities": [
+    {
+     "key": "lease",
+     "name": "Lease",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "lessor",
+     "name": "Lessor",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "lessee",
+     "name": "Lessee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "premises",
+     "name": "Premises",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "bw-3 franchise systems",
+     "name": "BW-3 FRANCHISE SYSTEMS, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fifteen (15) days",
+     "name": "fifteen (15) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "BW-3 FRANCHISE SYSTEMS, INC",
+     "object_type": "Organization",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Premises",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Premises",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "BW-3 FRANCHISE SYSTEMS, INC",
+     "object_type": "Organization",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "BW-3 FRANCHISE SYSTEMS, INC",
+     "object_type": "Organization",
+     "evidence": "Lessor acknowledges that Lessee intends to operate a Restaurant from the leased premises (the \"Premises\") pursuant to a Franchise Agreement (the \"Franchise Agreement\") with bw-3 Franchise Systems, Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "NOW, THEREFORE, it is hereby mutually covenanted and agreed between Lessor and Lessee as follows:",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "operate a Franchised Restaurant on the Premises",
+     "object_type": "Obligation",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Premises",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Premises",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that Lessee shall have the right to remodel, equip, paint and decorate the interior of the Premises and to display such proprietary marks and signs on the interior and exterior of the Premises as Lessee is reasonably required to do pursuant to the Franchise Agreement and any successor Franchise Agreement under which Lessee may operate a Franchised Restaurant on the Premises.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lease",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessee shall have the right to assign all of its right, title and interest in the Lease to bw-3 or any affiliate of bw-3 at any time during the term of the Lease, including any extensions or renewals thereof, without first obtaining Lessor's consent.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessor",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessee shall have the right to assign all of its right, title and interest in the Lease to bw-3 or any affiliate of bw-3 at any time during the term of the Lease, including any extensions or renewals thereof, without first obtaining Lessor's consent.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessor",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessee shall have the right to assign all of its right, title and interest in the Lease to bw-3 or any affiliate of bw-3 at any time during the term of the Lease, including any extensions or renewals thereof, without first obtaining Lessor's consent.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lease",
+     "object_type": "DefinedTerm",
+     "evidence": "However, no assignment shall be effective until such time as bw-3 or its designated affiliate gives Lessor written notice of its acceptance of such assignment, and nothing contained herein or in any other document shall constitute bw-3 or its designated affiliate a party to the Lease, or guarantor thereof, and shall not create any liability or obligation of bw-3 or any affiliate of bw-3 unless and",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "remain liable under the terms of the Lease",
+     "object_type": "Obligation",
+     "evidence": "In the event of an assignment, Lessee shall remain liable under the terms of the Lease.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Lease",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event of an assignment, Lessee shall remain liable under the terms of the Lease.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lease",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event of an assignment, Lessee shall remain liable under the terms of the Lease.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "fifteen (15) days",
+     "object_type": "Duration",
+     "evidence": "(a) In the event there is a default or violation by Lessee under the terms of the Lease, Lessor shall give Lessee and bw-3 written notice of such default or violation within a reasonable time after Lessor receives knowledge of its occurrence. bw-3 will notify Lessor whether it intends to cure the default and take an automatic assignment of Lessee's interest as provided in Paragraph 4(a). bw-3 will",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "have an additional fifteen (15) days in which to cure the default or violation",
+     "object_type": "Obligation",
+     "evidence": "(a) In the event there is a default or violation by Lessee under the terms of the Lease, Lessor shall give Lessee and bw-3 written notice of such default or violation within a reasonable time after Lessor receives knowledge of its occurrence. bw-3 will notify Lessor whether it intends to cure the default and take an automatic assignment of Lessee's interest as provided in Paragraph 4(a). bw-3 will",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lease",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) In the event there is a default or violation by Lessee under the terms of the Lease, Lessor shall give Lessee and bw-3 written notice of such default or violation within a reasonable time after Lessor receives knowledge of its occurrence. bw-3 will notify Lessor whether it intends to cure the default and take an automatic assignment of Lessee's interest as provided in Paragraph 4(a). bw-3 will",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessor",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) In the event there is a default or violation by Lessee under the terms of the Lease, Lessor shall give Lessee and bw-3 written notice of such default or violation within a reasonable time after Lessor receives knowledge of its occurrence. bw-3 will notify Lessor whether it intends to cure the default and take an automatic assignment of Lessee's interest as provided in Paragraph 4(a). bw-3 will",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessor",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) In the event there is a default or violation by Lessee under the terms of the Lease, Lessor shall give Lessee and bw-3 written notice of such default or violation within a reasonable time after Lessor receives knowledge of its occurrence. bw-3 will notify Lessor whether it intends to cure the default and take an automatic assignment of Lessee's interest as provided in Paragraph 4(a). bw-3 will",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5"
+   ],
+   "sections_referenced": [
+    "4"
+   ],
+   "section_titles": {
+    "5": "Miscellaneous."
+   }
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::68",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    26,
+    27,
+    28
+   ],
+   "entities": [
+    {
+     "key": "lessee",
+     "name": "Lessee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fifteen (15) days",
+     "name": "fifteen (15) days",
+     "type": "Duration"
+    },
+    {
+     "key": "bw-3 franchise systems",
+     "name": "BW-3 FRANCHISE SYSTEMS, INC",
+     "type": "Organization"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "fifteen (15) days",
+     "object_type": "Duration",
+     "evidence": "it intends to cure the default and take an automatic assignment of Lessee's interest as provided in Paragraph 4(a). bw-3 will have an additional fifteen (15) days in which to cure the default or violation.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "have an additional fifteen (15) days in which to cure the default or violation",
+     "object_type": "Obligation",
+     "evidence": "it intends to cure the default and take an automatic assignment of Lessee's interest as provided in Paragraph 4(a). bw-3 will have an additional fifteen (15) days in which to cure the default or violation.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5"
+   ],
+   "sections_referenced": [
+    "4"
+   ],
+   "section_titles": {
+    "5": "Miscellaneous."
+   }
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::69",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    29
+   ],
+   "entities": [
+    {
+     "key": "lessor",
+     "name": "Lessor",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "lessee",
+     "name": "Lessee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "lease",
+     "name": "Lease",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchise agreement",
+     "name": "Franchise Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "premises",
+     "name": "Premises",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "franchised restaurant",
+     "name": "Franchised Restaurant",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "restaurants",
+     "name": "Restaurants",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor agrees that it will notify both Lessee and bw-3 of any change in Lessor's mailing address to which notices should be sent.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Upon the expiration or termination of either the Lease or the Franchise Agreement, bw-3 will, at its option, have the right (but not the requirement) to take an automatic assignment of Lessee's interest.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Upon the expiration or termination of either the Lease or the Franchise Agreement, bw-3 will, at its option, have the right (but not the requirement) to take an automatic assignment of Lessee's interest.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Upon the expiration or termination of either the Lease or the Franchise Agreement, bw-3 will, at its option, have the right (but not the requirement) to take an automatic assignment of Lessee's interest.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessor",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessor",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessor",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Premises",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchised Restaurant",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Premises",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchised Restaurant",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restaurants",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Upon the expiration or termination of either the Lease or the Franchise Agreement, Landlord will cooperate with and assist us in gaining possession of premises and if bw-3 does not elect to take an assignment of the Lessee's interest, Lessor will allow bw-3 to enter the Premises, without being guilty of trespass and without incurring any liability to Lessor, to remove all signs, awnings, and a",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "permit bw-3 to remove all such assets being purchased by bw-3",
+     "object_type": "Obligation",
+     "evidence": "In the event bw-3 exercises its option to purchase assets of Lessee, Lessor shall permit bw-3 to remove all such assets being purchased by bw-3.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessor",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event bw-3 exercises its option to purchase assets of Lessee, Lessor shall permit bw-3 to remove all such assets being purchased by bw-3.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lease",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Franchise Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Franchise Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Premises",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) Lessor hereby acknowledges that the provisions of this Addendum to Lease are required pursuant to the Franchise Agreement under which Lessee plans to operate its business and the Lessee would not lease the Premises without this Addendum.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Lessor further acknowledges that Lessee is not an agent or employee of bw-3 and the Lessee has no authority or power to act for, or to create any liability on behalf of, or to in any way bind bw-3 or any affiliate of bw-3, and that Lessor has entered into this Addendum to Lease with full understanding that it creates no duties, obligations or liabilities of or against bw-3 or any affiliate of ",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lease",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Lessor further acknowledges that Lessee is not an agent or employee of bw-3 and the Lessee has no authority or power to act for, or to create any liability on behalf of, or to in any way bind bw-3 or any affiliate of bw-3, and that Lessor has entered into this Addendum to Lease with full understanding that it creates no duties, obligations or liabilities of or against bw-3 or any affiliate of ",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessee",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lease",
+     "object_type": "DefinedTerm",
+     "evidence": "(b) Lessor further acknowledges that Lessee is not an agent or employee of bw-3 and the Lessee has no authority or power to act for, or to create any liability on behalf of, or to in any way bind bw-3 or any affiliate of bw-3, and that Lessor has entered into this Addendum to Lease with full understanding that it creates no duties, obligations or liabilities of or against bw-3 or any affiliate of ",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "provide bw-3 with whatever information Lessor has regarding Lessee's sales from the Restaurant",
+     "object_type": "Obligation",
+     "evidence": "If requested by bw-3, Lessor will provide bw-3 with whatever information Lessor has regarding Lessee's sales from the Restaurant.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "If requested by bw-3, Lessor will provide bw-3 with whatever information Lessor has regarding Lessee's sales from the Restaurant.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "If requested by bw-3, Lessor will provide bw-3 with whatever information Lessor has regarding Lessee's sales from the Restaurant.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be valid unless made in writing and signed by the parties hereto",
+     "object_type": "Obligation",
+     "evidence": "No amendment or variation of the terms of this Addendum to the Lease shall be valid unless made in writing and signed by the parties hereto.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT::chunk::70",
+   "document_id": "BUFFALOWILDWINGSINC_06_05_1998-EX-10.3-FRANCHISE AGREEMENT",
+   "page_numbers": [
+    29
+   ],
+   "entities": [
+    {
+     "key": "lessor",
+     "name": "Lessor",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "lessee",
+     "name": "Lessee",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "lease",
+     "name": "Lease",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "essor will provide bw-3 with whatever information Lessor has regarding Lessee's sales from the Restaurant.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lease",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be valid unless made in writing and signed by the parties hereto",
+     "object_type": "Obligation",
+     "evidence": "No amendment or variation of the terms of this Addendum to the Lease shall be valid unless made in writing and signed by the parties hereto.",
+     "source": "rules"
+    },
+    {
+     "subject": "Lessor",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Lessee",
+     "object_type": "DefinedTerm",
+     "evidence": "Lessor and Lessee expressly agree that bw-3 is a third party beneficiary of this Addendum.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "40"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "40": "In Testimony"
+   }
+  }
+ ]
+}

@@ -1,0 +1,1407 @@
+{
+ "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+ "extractor": "rules",
+ "llm_model": null,
+ "extraction_time_seconds": 0.0551049320000061,
+ "chunks": [
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::0",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "purolator courier",
+     "name": "PUROLATOR COURIER LTD",
+     "type": "Party"
+    },
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "freight",
+     "name": "Freight",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "force majeure",
+     "name": "Force Majeure",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "20 day of november, 1995",
+     "name": "20 day of November, 1995",
+     "type": "Date"
+    },
+    {
+     "key": "20 day",
+     "name": "20 day",
+     "type": "Duration"
+    },
+    {
+     "key": "parcelway courier systems canada",
+     "name": "PARCELWAY COURIER SYSTEMS CANADA LTD",
+     "type": "Organization"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex Inc",
+     "type": "Organization"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "PUROLATOR COURIER LTD",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "PUROLATOR COURIER LTD (\"Purolator\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Freight",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "any goods directed to one Party by the other for pick up and/or delivery;",
+     "object_type": "Definition",
+     "evidence": "\"Freight\" means any goods directed to one Party by the other for pick up and/or delivery;",
+     "source": "rules"
+    },
+    {
+     "subject": "Force Majeure",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "i) An Act of God; ii) A strike, lock out or other labour disturbance; 2 - 2 - iii) A war, revolution, insurrection, riot, blockade or any other unlawful act against public order authority; iv) A storm, fire, flood, explosion",
+     "object_type": "Definition",
+     "evidence": "\"Force Majeure\" means i) An Act of God; ii) A strike, lock out or other labour disturbance; 2 - 2 - iii) A war, revolution, insurrection, riot, blockade or any other unlawful act against public order authority; iv) A storm, fire, flood, explosion",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "PARCELWAY COURIER SYSTEMS CANADA LTD",
+     "object_type": "Organization",
+     "evidence": "(\"Purolator\") - and - PARCELWAY COURIER SYSTEMS CANADA LTD. a subsidiary of Dynamex Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex Inc",
+     "object_type": "Organization",
+     "evidence": "(\"Purolator\") - and - PARCELWAY COURIER SYSTEMS CANADA LTD. a subsidiary of Dynamex Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "PARCELWAY COURIER SYSTEMS CANADA LTD",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex Inc",
+     "object_type": "Organization",
+     "evidence": "(\"Purolator\") - and - PARCELWAY COURIER SYSTEMS CANADA LTD. a subsidiary of Dynamex Inc.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "(\"Dynamex\") WHEREAS Purolator inter alia, is licensed to provide courier services for compensation across Canada and the United States of America; AND WHEREAS Dynamex inter alia, is licensed to provide courier services for compensation across Canada and the United States of America; AND WHEREAS Purolator's principal business activity is next day or multiple day service:",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "AND WHEREAS Dynamex' principal business is sameday service; AND WHEREAS Purolator and Dynamex wish to cooperate, as independent contractors, in the marketing of their respective services and in the provision of those services to their respective customers; NOW THEREFORE in consideration of the mutual covenants contained in this Agreement, the Parties hereto agree as follows:",
+     "source": "rules"
+    },
+    {
+     "subject": "Freight",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Force Majeure",
+     "object_type": "DefinedTerm",
+     "evidence": "1.0 DEFINITIONS 1.1 The following words shall have the following meanings throughout this Agreement: a) \"Agreement\" means this Agreement and all Schedules annexed hereto, as amended from time to time by the Parties; b) \"Freight\" means any goods directed to one Party by the other for pick up and/or delivery; c) \"Force Majeure\" means i) An Act of God; ii) A strike, lock out or other labour disturban",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "1.1",
+    "1.2",
+    "1.3"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "1": "Definitions"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::1",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "MUST",
+     "object": "do the following",
+     "object_type": "Obligation",
+     "evidence": "3.0 SCOPE OF SERVICES 3.1 Subject to the terms and conditions hereinafter set out, Purolator agrees to do the following: i) Offer sameday courier services to its customers under the Purolator name and trade-mark;",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "invoice Dynamex for the services provided at the rates provided for herein",
+     "object_type": "Obligation",
+     "evidence": "In providing such next day or multiple day services, agrees to provide customer service, dispatch, pickup and delivery, tracing and tracking, together with joint sales and marketing efforts with Dynamex, and will invoice Dynamex for the services provided at the rates provided for herein.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "do the following",
+     "object_type": "Obligation",
+     "evidence": "Subject to the terms and conditions hereinafter set out, Dynamex agrees to do the following:",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "MUST",
+     "object": "invoice Purolator for the services provided, at the rates provided for herein",
+     "object_type": "Obligation",
+     "evidence": "In providing such sameday services, agrees to provide customer service, dispatch, pickup and delivery, tracing and tracking, together with joint sales and marketing efforts with Purolator, and will invoice Purolator for the services provided, at the rates provided for herein.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1.2",
+    "1.3",
+    "2",
+    "2.1",
+    "3",
+    "3.1"
+   ],
+   "sections_referenced": [
+    "3.1",
+    "3.2"
+   ],
+   "section_titles": {
+    "3": "Scope Of Services"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::2",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "force majeure",
+     "name": "Force Majeure",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "(90%",
+     "name": "(90%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Force Majeure",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(90%)",
+     "object_type": "Percentage",
+     "evidence": "Each Party agrees to provide the services outlined above at an on time performance level of no less than ninety percent (90%) of the scheduled delivery time, excluding delays caused by the other Party or events of Force Majeure.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex",
+     "object_type": "DefinedTerm",
+     "evidence": "Except for the joint marketing efforts referred to in Section 3.1 (v) above, Purolator agrees not to directly or indirectly solicit next day or multiple day freight from existing sameday customers of Dynamex.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST_NOT",
+     "object": "directly or indirectly solicit overnight freight from customers of Purolator",
+     "object_type": "Obligation",
+     "evidence": "Except for the joint marketing efforts referred to in Section 3.1 (v) above, Dynamex agrees not to directly or indirectly solicit overnight freight from customers of Purolator.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Except for the joint marketing efforts referred to in Section 3.1 (v) above, Dynamex agrees not to directly or indirectly solicit overnight freight from customers of Purolator.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Except for the joint marketing efforts referred to in Section 3.1 (v) above, Dynamex agrees not to directly or indirectly solicit overnight freight from customers of Purolator.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "MUST",
+     "object": "tender to Dynamex all sameday service requests that it receives",
+     "object_type": "Obligation",
+     "evidence": "Purolator agrees to tender to Dynamex all sameday service requests that it receives.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Dynamex",
+     "object_type": "DefinedTerm",
+     "evidence": "Purolator agrees to tender to Dynamex all sameday service requests that it receives.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex",
+     "object_type": "DefinedTerm",
+     "evidence": "Purolator agrees to tender to Dynamex all sameday service requests that it receives.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "tender to Purolator all next day and multiple day transportation requests to Purolator for delivery",
+     "object_type": "Obligation",
+     "evidence": "Dynamex agrees to tender to Purolator all next day and multiple day transportation requests to Purolator for delivery.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Dynamex agrees to tender to Purolator all next day and multiple day transportation requests to Purolator for delivery.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Dynamex agrees to tender to Purolator all next day and multiple day transportation requests to Purolator for delivery.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Dynamex agrees to tender to Purolator all next day and multiple day transportation requests to Purolator for delivery.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex",
+     "object_type": "DefinedTerm",
+     "evidence": "iii) In connection with such sameday service requests, Purolator will handle the customer request, will dispatch the pickup request to Dynamex, will be responsible for billing the customer for the service and collecting the revenue and provide such sales and marketing service, in conjunction with Dynamex, as may be necessary;",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [
+    "3.1",
+    "3.2"
+   ],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::3",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$5,000.00",
+     "name": "$5,000.00",
+     "type": "Amount"
+    },
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "distribution management services",
+     "name": "Distribution Management Services Inc",
+     "type": "Organization"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$5,000.00",
+     "object_type": "Amount",
+     "evidence": "Dynamex may continue to provide the same day service it currently provides to Alltours customers, provided revenue to Dynamex from this business does not exceed Five Thousand Dollars ($5,000.00) per month provided there is no change in control, direct or indirect, in Alltours.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "continue to provide the same day service it currently provides to Alltours customers",
+     "object_type": "Obligation",
+     "evidence": "Dynamex may continue to provide the same day service it currently provides to Alltours customers, provided revenue to Dynamex from this business does not exceed Five Thousand Dollars ($5,000.00) per month provided there is no change in control, direct or indirect, in Alltours.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "In that regard, Dynamex offers its services as Dynamex while Purolator offers its services under the name Distribution Management Services Inc. or DMS.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Distribution Management Services Inc",
+     "object_type": "Organization",
+     "evidence": "In that regard, Dynamex offers its services as Dynamex while Purolator offers its services under the name Distribution Management Services Inc. or DMS.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Distribution Management Services Inc",
+     "object_type": "Organization",
+     "evidence": "In that regard, Dynamex offers its services as Dynamex while Purolator offers its services under the name Distribution Management Services Inc. or DMS.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "It is understood and agreed that Dynamex may enter into an Agreement with another party to provide its services as described herein in the United States, provided however that any such agreement shall not preclude or prevent Dynamex from providing such Services to Purolator in the United States.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to all other terms and conditions of this Agreement, Purolator shall pay to Dynamex the rates set forth in Schedule \"D\".",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "pay to Purolator the",
+     "object_type": "Obligation",
+     "evidence": "Subject to all other terms and conditions of this Agreement, Dynamex shall pay to Purolator the",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Subject to all other terms and conditions of this Agreement, Dynamex shall pay to Purolator the",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Subject to all other terms and conditions of this Agreement, Dynamex shall pay to Purolator the",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::4",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "purolator courier",
+     "name": "PUROLATOR COURIER LTD",
+     "type": "Party"
+    },
+    {
+     "key": "fifteen (15) days",
+     "name": "fifteen (15) days",
+     "type": "Duration"
+    },
+    {
+     "key": "three (3) days",
+     "name": "three (3) days",
+     "type": "Duration"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to all other terms and conditions of this Agreement, Purolator shall pay to Dynamex the rates set forth in Schedule \"D\".",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Subject to all other terms and conditions of this Agreement, Dynamex shall pay to Purolator the rates set forth in Schedule \"E\".",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [
+    "5.2"
+   ],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::5",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "services tax",
+     "name": "Services Tax",
+     "type": "Party"
+    },
+    {
+     "key": "gst",
+     "name": "GST",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fifteen (15) days",
+     "name": "fifteen (15) days",
+     "type": "Duration"
+    },
+    {
+     "key": "freight",
+     "name": "Freight",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Services Tax",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "GST",
+     "object_type": "DefinedTerm",
+     "evidence": "Services Tax (\"GST\")",
+     "source": "rules"
+    },
+    {
+     "subject": "GST",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "appear on each invoice",
+     "object_type": "Obligation",
+     "evidence": "(iii) Either Party's GST registration number shall appear on each invoice.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [
+    "1"
+   ],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::6",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "freight",
+     "name": "Freight",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$4.41",
+     "name": "$4.41",
+     "type": "Amount"
+    },
+    {
+     "key": "$2.00",
+     "name": "$2.00",
+     "type": "Amount"
+    },
+    {
+     "key": "forty five (45) days",
+     "name": "forty five (45) days",
+     "type": "Duration"
+    },
+    {
+     "key": "$100,000.00",
+     "name": "$100,000.00",
+     "type": "Amount"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "9"
+   ],
+   "sections_referenced": [
+    "9"
+   ],
+   "section_titles": {
+    "9": "Insurance"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::7",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "$100,000.00",
+     "name": "$100,000.00",
+     "type": "Amount"
+    },
+    {
+     "key": "$2,000,000.00",
+     "name": "$2,000,000.00",
+     "type": "Amount"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "0"
+   ],
+   "sections_referenced": [
+    "9.1"
+   ],
+   "section_titles": {
+    "0": "Insurance"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::8",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "freight",
+     "name": "Freight",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Freight",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "provide a secure storage area",
+     "object_type": "Obligation",
+     "evidence": "(b) If at any time Freight is not under its complete visual and physical control, it shall provide a secure storage area",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1"
+   ],
+   "sections_referenced": [
+    "9.1"
+   ],
+   "section_titles": {
+    "1": "Compliance With Law"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::9",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "dangerous goods",
+     "name": "Dangerous Goods",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "tdga",
+     "name": "TDGA",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "freight",
+     "name": "Freight",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "TDGA",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dangerous Goods",
+     "object_type": "DefinedTerm",
+     "evidence": "1992, c.34, as amended from time to time (hereinafter referred to as the \"TDGA\") prohibits transportation of any explosive, dangerous or destructive substance, or anything likely to injure or damage property or persons (hereinafter referred to as \"Dangerous Goods\") unless the requirements of the TDGA are met.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dangerous Goods",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "TDGA",
+     "object_type": "DefinedTerm",
+     "evidence": "The Parties agree that they only intend for Dangerous Goods to be carried pursuant to this Agreement if the requirements of the TDGA are met and both Parties are aware that such goods are being carried.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Purolator",
+     "object_type": "Party",
+     "evidence": "Notwithstanding the foregoing, the Parties agree that neither Dynamex nor Purolator shall be under any obligation or duty whatsoever to open for prior inspection any Freight tendered to Dynamex pursuant to this Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Freight",
+     "object_type": "DefinedTerm",
+     "evidence": "Notwithstanding the foregoing, the Parties agree that neither Dynamex nor Purolator shall be under any obligation or duty whatsoever to open for prior inspection any Freight tendered to Dynamex pursuant to this Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Freight",
+     "object_type": "DefinedTerm",
+     "evidence": "Notwithstanding the foregoing, the Parties agree that neither Dynamex nor Purolator shall be under any obligation or duty whatsoever to open for prior inspection any Freight tendered to Dynamex pursuant to this Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Dangerous Goods",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Freight",
+     "object_type": "DefinedTerm",
+     "evidence": "Neither Party shall be responsible for any losses or damage whatsoever that may be sustained by the other Party, its directors, officers, employees and any persons for whom it may become responsible in law, as a result of any Dangerous Goods contained in Freight unless such Party had actual prior knowledge of the presence of Dangerous Goods.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "13"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "13": "Dangerous Goods"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::10",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "twelve (12) month",
+     "name": "twelve (12) month",
+     "type": "Duration"
+    },
+    {
+     "key": "events of default",
+     "name": "Events of Default",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "sixty (60) days",
+     "name": "sixty (60) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "13"
+   ],
+   "sections_referenced": [
+    "17",
+    "17.1"
+   ],
+   "section_titles": {
+    "13": "Dangerous Goods"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::11",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "one hundred and twenty (120) days",
+     "name": "one hundred and twenty (120) days",
+     "type": "Duration"
+    },
+    {
+     "key": "freight",
+     "name": "Freight",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "twelve (12) month",
+     "name": "twelve (12) month",
+     "type": "Duration"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "13"
+   ],
+   "sections_referenced": [
+    "16.1",
+    "17.2"
+   ],
+   "section_titles": {
+    "13": "Performance Penalties"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::12",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "monthly performance failure",
+     "name": "Monthly Performance Failure",
+     "type": "Party"
+    },
+    {
+     "key": "default month",
+     "name": "Default Month",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "twelve (12) month",
+     "name": "twelve (12) month",
+     "type": "Duration"
+    },
+    {
+     "key": "$10.00",
+     "name": "$10.00",
+     "type": "Amount"
+    },
+    {
+     "key": "$250.00",
+     "name": "$250.00",
+     "type": "Amount"
+    },
+    {
+     "key": "(85%",
+     "name": "(85%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "two (2) years",
+     "name": "two (2) years",
+     "type": "Duration"
+    },
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "purolator courier",
+     "name": "PUROLATOR COURIER LTD",
+     "type": "Party"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Monthly Performance Failure",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Default Month",
+     "object_type": "DefinedTerm",
+     "evidence": "Monthly Performance Failure (\"Default Month\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Default Month",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "twelve (12) month",
+     "object_type": "Duration",
+     "evidence": "In the event a Party has, in any twelve (12) month period, more than three (3) Monthly Performance Failures, then the defaulting Party shall pay a penalty to the Party not in default, which the Parties acknowledge is a pre-estimation of damages suffered by the non-defaulting Party due to the current month's Monthly Performance Failure (\"Default Month\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Default Month",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$10.00",
+     "object_type": "Amount",
+     "evidence": "For example, if the defaulting Party, in a Default Month, provided services at an eighty five percent (85%) level and the average yield for the Default Month of the Party not in default is ten dollars ($10.00) and the total number of shipments handled by the defaulting Party pursuant to this Agreement is one hundred (100), then the penalty would be equal to 5 x[(Performance Commitment - Actual Per",
+     "source": "rules"
+    },
+    {
+     "subject": "Default Month",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_AMOUNT",
+     "object": "$250.00",
+     "object_type": "Amount",
+     "evidence": "For example, if the defaulting Party, in a Default Month, provided services at an eighty five percent (85%) level and the average yield for the Default Month of the Party not in default is ten dollars ($10.00) and the total number of shipments handled by the defaulting Party pursuant to this Agreement is one hundred (100), then the penalty would be equal to 5 x[(Performance Commitment - Actual Per",
+     "source": "rules"
+    },
+    {
+     "subject": "Default Month",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_PERCENTAGE",
+     "object": "(85%)",
+     "object_type": "Percentage",
+     "evidence": "For example, if the defaulting Party, in a Default Month, provided services at an eighty five percent (85%) level and the average yield for the Default Month of the Party not in default is ten dollars ($10.00) and the total number of shipments handled by the defaulting Party pursuant to this Agreement is one hundred (100), then the penalty would be equal to 5 x[(Performance Commitment - Actual Per",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "13"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "13": "Performance Penalties"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::13",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "five (5) business days",
+     "name": "five (5) business days",
+     "type": "Duration"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "13"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "13": "Dangerous Goods"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::14",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "force majeure",
+     "name": "Force Majeure",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex",
+     "object_type": "DefinedTerm",
+     "evidence": "(d) there are no pending or threatened actions or proceedings to which Purolator is a Party, or which is before any court or administrative agency, which might materially adversely affect the financial or other condition, business, assets, liabilities or operations of Purolator or the ability of Dynamex to perform its obligations under this Agreement;",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "13"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "13": "Dangerous Goods"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::15",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "purolator",
+     "name": "Purolator",
+     "type": "Party"
+    },
+    {
+     "key": "dynamex",
+     "name": "Dynamex",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Dynamex",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "bind or obligate the other except as expressly set forth in this Agreement",
+     "object_type": "Obligation",
+     "evidence": "The Parties recognize that they operate as an independent business and declare that nothing in this Agreement shall be construed as creating a relationship of employment, joint venture, partnership or agency between Purolator and Dynamex, and no act or omission of either Party shall bind or obligate the other except as expressly set forth in this Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Purolator",
+     "subject_type": "Party",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Dynamex",
+     "object_type": "DefinedTerm",
+     "evidence": "The Parties recognize that they operate as an independent business and declare that nothing in this Agreement shall be construed as creating a relationship of employment, joint venture, partnership or agency between Purolator and Dynamex, and no act or omission of either Party shall bind or obligate the other except as expressly set forth in this Agreement.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "13"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "13": "Dangerous Goods"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::16",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "notice to arbitrate",
+     "name": "Notice to Arbitrate",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ten (10) business days",
+     "name": "ten (10) business days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Notice to Arbitrate",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "contain a concise description of the matter submitted for arbitration",
+     "object_type": "Obligation",
+     "evidence": "The Notice to Arbitrate shall contain a concise description of the matter submitted for arbitration.",
+     "source": "rules"
+    },
+    {
+     "subject": "Notice to Arbitrate",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ten (10) business days",
+     "object_type": "Duration",
+     "evidence": "The Parties hereto shall within ten (10) business days of receipt of the Notice to Arbitrate jointly appoint a single arbitrator.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "13",
+    "18"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "18": "Remedies",
+    "13": "Dangerous Goods"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::17",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "notice to arbitrate",
+     "name": "Notice to Arbitrate",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ten (10) business days",
+     "name": "ten (10) business days",
+     "type": "Duration"
+    },
+    {
+     "key": "canada",
+     "name": "Canada Inc",
+     "type": "Organization"
+    },
+    {
+     "key": "ten (10) days",
+     "name": "ten (10) days",
+     "type": "Duration"
+    },
+    {
+     "key": "six (6) months",
+     "name": "six (6) months",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Notice to Arbitrate",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "contain a concise description of the matter submitted for arbitration",
+     "object_type": "Obligation",
+     "evidence": "The Notice to Arbitrate shall contain a concise description of the matter submitted for arbitration.",
+     "source": "rules"
+    },
+    {
+     "subject": "Notice to Arbitrate",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ten (10) business days",
+     "object_type": "Duration",
+     "evidence": "The Parties hereto shall within ten (10) business days of receipt of the Notice to Arbitrate jointly appoint a single arbitrator.",
+     "source": "rules"
+    },
+    {
+     "subject": "Canada Inc",
+     "subject_type": "Organization",
+     "predicate": "HAS_DURATION",
+     "object": "ten (10) days",
+     "object_type": "Duration",
+     "evidence": "If the Parties fail to appoint an arbitrator who shall jointly select a third arbitrator within ten (10) days, failing which same shall be designated by the President of the Arbitrators' Institute of Canada Inc. upon the request of either Party.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "13",
+    "19"
+   ],
+   "sections_referenced": [
+    "17",
+    "19.2"
+   ],
+   "section_titles": {
+    "19": "Reputation",
+    "13": "Dangerous Goods"
+   }
+  },
+  {
+   "chunk_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT::chunk::18",
+   "document_id": "DYNAMEXINC_06_06_1996-EX-10.4-TRANSPORTATION SERVICES AGREEMENT",
+   "page_numbers": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "six (6) months",
+     "name": "six (6) months",
+     "type": "Duration"
+    },
+    {
+     "key": "twelve (12) months",
+     "name": "twelve (12) months",
+     "type": "Duration"
+    },
+    {
+     "key": "parcelway courier systems canada",
+     "name": "PARCELWAY COURIER SYSTEMS CANADA LTD",
+     "type": "Organization"
+    },
+    {
+     "key": "11/20/95",
+     "name": "11/20/95",
+     "type": "Date"
+    },
+    {
+     "key": "purolator courier",
+     "name": "PUROLATOR COURIER LTD",
+     "type": "Party"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "13"
+   ],
+   "sections_referenced": [
+    "19.2"
+   ],
+   "section_titles": {
+    "13": "Dangerous Goods"
+   }
+  }
+ ]
+}

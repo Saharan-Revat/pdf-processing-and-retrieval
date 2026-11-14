@@ -10,6 +10,10 @@ VECTOR_FILE = Path(
     "results/vector/vector_summary.csv"
 )
 
+GRAPH_FILE = Path(
+    "results/graph/graph_summary.csv"
+)
+
 OUTPUT_FILE = Path(
     "results/retriever_comparison.csv"
 )
@@ -43,8 +47,16 @@ def main():
     bm25["retriever"] = "BM25"
     vector["retriever"] = "Vector"
 
+    frames = [bm25, vector]
+
+    # Graph RAG (Ziyad): "Graph" and "Graph+BM25" retrievers
+    if GRAPH_FILE.exists():
+        graph = pd.read_csv(GRAPH_FILE)
+        graph = graph[graph["k"] == 10].copy()
+        frames.append(graph[columns + ["retriever"]])
+
     comparison = pd.concat(
-        [bm25, vector],
+        frames,
         ignore_index=True
     )
 
@@ -65,7 +77,7 @@ def main():
         index=False
     )
 
-    print("\nBM25 VS VECTOR — K=10")
+    print("\nBM25 VS VECTOR VS GRAPH — K=10")
     print("=" * 90)
 
     print(

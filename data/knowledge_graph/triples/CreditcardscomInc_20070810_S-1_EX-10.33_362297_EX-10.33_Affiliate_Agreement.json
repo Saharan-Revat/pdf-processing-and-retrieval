@@ -1,0 +1,717 @@
+{
+ "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+ "extractor": "rules",
+ "llm_model": null,
+ "extraction_time_seconds": 0.02937229999997726,
+ "chunks": [
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::0",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "entities": [
+    {
+     "key": "chase affiliate program",
+     "name": "Chase Affiliate Program",
+     "type": "Party"
+    },
+    {
+     "key": "affiliate program",
+     "name": "Affiliate Program",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "april 6, 2007",
+     "name": "April 6, 2007",
+     "type": "Date"
+    },
+    {
+     "key": "restricted content",
+     "name": "Restricted Content",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Chase Affiliate Program",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Affiliate Program",
+     "object_type": "DefinedTerm",
+     "evidence": "Chase Affiliate Program (\"Affiliate Program\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Affiliate Program",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restricted Content",
+     "object_type": "DefinedTerm",
+     "evidence": "Enrollment in the Affiliate Program; Restricted Content",
+     "source": "rules"
+    },
+    {
+     "subject": "Affiliate Program",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Restricted Content",
+     "object_type": "DefinedTerm",
+     "evidence": "Chase reserves, in its sole discretion, with or without reason, the right to accept or reject your registration into the Chase Affiliate Program, including but not limited to a determination that your site is unsuitable for or incompatible with the Affiliate Program based on the following criteria (collectively \"Restricted Content\"):",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::1",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "entities": [
+    {
+     "key": "restricted content",
+     "name": "Restricted Content",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::2",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "entities": [
+    {
+     "key": "approved account",
+     "name": "Approved Account",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "$55.00",
+     "name": "$55.00",
+     "type": "Amount"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::3",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "entities": [
+    {
+     "key": "$55.00",
+     "name": "$55.00",
+     "type": "Amount"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::4",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    4
+   ],
+   "entities": [
+    {
+     "key": "approved account",
+     "name": "Approved Account",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "commission",
+     "name": "Commission",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Approved Account",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "any Chase credit card application that is: (i) submitted by any user who clicks on an e-mail, banner or any other advertising material from Affiliate's Website; (ii) is approved by Chase; and (iii) is reported as approved by Chase to",
+     "object_type": "Definition",
+     "evidence": "\"Approved Account\" means any Chase credit card application that is: (i) submitted by any user who clicks on an e-mail, banner or any other advertising material from Affiliate's Website; (ii) is approved by Chase; and (iii) is reported as approved by Chase to",
+     "source": "rules"
+    },
+    {
+     "subject": "Approved Account",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Commission",
+     "object_type": "DefinedTerm",
+     "evidence": "For each Approved Account (as defined in section 4 below) received through Affiliate's site, Affiliate will earn a referral fee calculated in accordance with the schedule set forth below (\"Commission\") paid monthly.",
+     "source": "rules"
+    },
+    {
+     "subject": "Commission",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Approved Account",
+     "object_type": "DefinedTerm",
+     "evidence": "For purposes of determining Affiliate's Commission, an \"Approved Account\" means any Chase credit card application that is:",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "3",
+    "4"
+   ],
+   "sections_referenced": [
+    "4"
+   ],
+   "section_titles": {
+    "3": "Referral Fee",
+    "4": "Approved Account"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::5",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    4
+   ],
+   "entities": [
+    {
+     "key": "commission",
+     "name": "Commission",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::6",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    4
+   ],
+   "entities": [
+    {
+     "key": "affiliate program",
+     "name": "Affiliate Program",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "links",
+     "name": "Links",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Affiliate Program",
+     "subject_type": "DefinedTerm",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Links",
+     "object_type": "DefinedTerm",
+     "evidence": "Affiliate Program (\"Links\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Affiliate Program",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Links",
+     "object_type": "DefinedTerm",
+     "evidence": "Affiliate agrees to place Chase's links provided by Linkshare NetworkTM which manages the Affiliate Program (\"Links\") on its Affiliate's website.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "6"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "6": "Links"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::7",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    5
+   ],
+   "entities": [
+    {
+     "key": "links",
+     "name": "Links",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "7"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "7": "Order Processing"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::8",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    5
+   ],
+   "entities": [
+    {
+     "key": "links",
+     "name": "Links",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "commission",
+     "name": "Commission",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "approved account",
+     "name": "Approved Account",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Commission",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Approved Account",
+     "object_type": "DefinedTerm",
+     "evidence": "No Commission shall be paid if the Approved Account cannot be tracked by Chase's system or if the customer accesses the Chase site through means other than the Links.",
+     "source": "rules"
+    },
+    {
+     "subject": "Commission",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Links",
+     "object_type": "DefinedTerm",
+     "evidence": "No Commission shall be paid if the Approved Account cannot be tracked by Chase's system or if the customer accesses the Chase site through means other than the Links.",
+     "source": "rules"
+    },
+    {
+     "subject": "Approved Account",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Links",
+     "object_type": "DefinedTerm",
+     "evidence": "No Commission shall be paid if the Approved Account cannot be tracked by Chase's system or if the customer accesses the Chase site through means other than the Links.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "8"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "8": "Tracking Of Sales"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::9",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    5
+   ],
+   "entities": [
+    {
+     "key": "affiliate program",
+     "name": "Affiliate Program",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "9",
+    "10"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "9": "Terms And Conditions Of Credit Cards",
+    "10": "Chase Customers"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::10",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "links",
+     "name": "Links",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "11",
+    "12",
+    "13"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Product Descriptions",
+    "12": "Copyrighted Material",
+    "13": "Commercial Use"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::11",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    6
+   ],
+   "entities": [
+    {
+     "key": "chase",
+     "name": "Chase",
+     "type": "Party"
+    },
+    {
+     "key": "licensed materials",
+     "name": "Licensed Materials",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "marks",
+     "name": "Marks",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "seven (7) days",
+     "name": "seven (7) days",
+     "type": "Duration"
+    },
+    {
+     "key": "five (5) business days",
+     "name": "five (5) business days",
+     "type": "Duration"
+    },
+    {
+     "key": "affiliate program",
+     "name": "Affiliate Program",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Chase",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Licensed Materials",
+     "object_type": "DefinedTerm",
+     "evidence": "Chase (\"Licensed Materials\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Marks",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Licensed Materials",
+     "object_type": "DefinedTerm",
+     "evidence": "Notwithstanding anything set forth in this Agreement, Chase reserves full ownership of the Marks and the Licensed Materials (as defined below).",
+     "source": "rules"
+    },
+    {
+     "subject": "Licensed Materials",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Affiliate Program",
+     "object_type": "DefinedTerm",
+     "evidence": "Affiliate is only entitled to use the licensed materials to the extent that it is a member in good standing of the Chase Affiliate Program.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "14",
+    "15"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "14": "Trademarks",
+    "15": "Licenses And Use Of The Chase Logos And Trademarks"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::12",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    6,
+    7
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "16",
+    "17"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "16": "Service Interruption",
+    "17": "Indemnification"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::13",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    7
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "18"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "18": "Confidentiality"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::14",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    7
+   ],
+   "entities": [
+    {
+     "key": "affiliate program",
+     "name": "Affiliate Program",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "19"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "19": "Modification"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::15",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    7,
+    8
+   ],
+   "entities": [
+    {
+     "key": "affiliate program",
+     "name": "Affiliate Program",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "20",
+    "21"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "20": "Warranty Disclaimer",
+    "21": "Limitation Of Damages"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::16",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    8
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "22"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "22": "Independent Investigation"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::17",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    8
+   ],
+   "entities": [
+    {
+     "key": "marathon oil, marathon petroleum",
+     "name": "Marathon Oil, Marathon Petroleum Company",
+     "type": "Organization"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "23"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "23": "Governing Law"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::18",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    8
+   ],
+   "entities": [
+    {
+     "key": "marathon oil, marathon petroleum",
+     "name": "Marathon Oil, Marathon Petroleum Company",
+     "type": "Organization"
+    },
+    {
+     "key": "starbucks foundation, starbucks coffee",
+     "name": "Starbucks Foundation, Starbucks Coffee Company",
+     "type": "Organization"
+    },
+    {
+     "key": "starbucks",
+     "name": "Starbucks Corporation",
+     "type": "Organization"
+    },
+    {
+     "key": "volkswagen group, volkswagen",
+     "name": "Volkswagen Group, Volkswagen AG",
+     "type": "Organization"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Marathon Oil, Marathon Petroleum Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Starbucks Foundation, Starbucks Coffee Company",
+     "object_type": "Organization",
+     "evidence": "stocked.com, overstocks.com, over stock.com, overstock .com, overstockcom Sony Sony, www.sonystyle.com, ImageStation, My Sony, Vaio, EverQuest Speedway Speedway SuperAmerica, Speedway, SuperAmerica, Speedy Rewards, Marathon, Marathon Oil, Marathon Petroleum Company Starbucks Starbucks, Starbucks Coffee, Starbucks Foundation, Starbucks Coffee Company, Starbucks Corporation Subaru Subaru, My Subaru,",
+     "source": "rules"
+    },
+    {
+     "subject": "Marathon Oil, Marathon Petroleum Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Starbucks Corporation",
+     "object_type": "Organization",
+     "evidence": "stocked.com, overstocks.com, over stock.com, overstock .com, overstockcom Sony Sony, www.sonystyle.com, ImageStation, My Sony, Vaio, EverQuest Speedway Speedway SuperAmerica, Speedway, SuperAmerica, Speedy Rewards, Marathon, Marathon Oil, Marathon Petroleum Company Starbucks Starbucks, Starbucks Coffee, Starbucks Foundation, Starbucks Coffee Company, Starbucks Corporation Subaru Subaru, My Subaru,",
+     "source": "rules"
+    },
+    {
+     "subject": "Marathon Oil, Marathon Petroleum Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Volkswagen Group, Volkswagen AG",
+     "object_type": "Organization",
+     "evidence": "stocked.com, overstocks.com, over stock.com, overstock .com, overstockcom Sony Sony, www.sonystyle.com, ImageStation, My Sony, Vaio, EverQuest Speedway Speedway SuperAmerica, Speedway, SuperAmerica, Speedy Rewards, Marathon, Marathon Oil, Marathon Petroleum Company Starbucks Starbucks, Starbucks Coffee, Starbucks Foundation, Starbucks Coffee Company, Starbucks Corporation Subaru Subaru, My Subaru,",
+     "source": "rules"
+    },
+    {
+     "subject": "Starbucks Foundation, Starbucks Coffee Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Starbucks Corporation",
+     "object_type": "Organization",
+     "evidence": "stocked.com, overstocks.com, over stock.com, overstock .com, overstockcom Sony Sony, www.sonystyle.com, ImageStation, My Sony, Vaio, EverQuest Speedway Speedway SuperAmerica, Speedway, SuperAmerica, Speedy Rewards, Marathon, Marathon Oil, Marathon Petroleum Company Starbucks Starbucks, Starbucks Coffee, Starbucks Foundation, Starbucks Coffee Company, Starbucks Corporation Subaru Subaru, My Subaru,",
+     "source": "rules"
+    },
+    {
+     "subject": "Starbucks Foundation, Starbucks Coffee Company",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Volkswagen Group, Volkswagen AG",
+     "object_type": "Organization",
+     "evidence": "stocked.com, overstocks.com, over stock.com, overstock .com, overstockcom Sony Sony, www.sonystyle.com, ImageStation, My Sony, Vaio, EverQuest Speedway Speedway SuperAmerica, Speedway, SuperAmerica, Speedy Rewards, Marathon, Marathon Oil, Marathon Petroleum Company Starbucks Starbucks, Starbucks Coffee, Starbucks Foundation, Starbucks Coffee Company, Starbucks Corporation Subaru Subaru, My Subaru,",
+     "source": "rules"
+    },
+    {
+     "subject": "Starbucks Corporation",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Volkswagen Group, Volkswagen AG",
+     "object_type": "Organization",
+     "evidence": "stocked.com, overstocks.com, over stock.com, overstock .com, overstockcom Sony Sony, www.sonystyle.com, ImageStation, My Sony, Vaio, EverQuest Speedway Speedway SuperAmerica, Speedway, SuperAmerica, Speedy Rewards, Marathon, Marathon Oil, Marathon Petroleum Company Starbucks Starbucks, Starbucks Coffee, Starbucks Foundation, Starbucks Coffee Company, Starbucks Corporation Subaru Subaru, My Subaru,",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "23"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "23": "Governing Law"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::19",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    8
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "23"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "23": "Governing Law"
+   }
+  },
+  {
+   "chunk_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement::chunk::20",
+   "document_id": "CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate Agreement",
+   "page_numbers": [
+    8
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "23"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "23": "Governing Law"
+   }
+  }
+ ]
+}

@@ -16,3 +16,7 @@ __pycache__/
 .idea/
 
 data/chunks_original/
+# Knowledge graph (regenerated in ~1s by build_graph.py / cached LLM calls)
+data/knowledge_graph/graph.graphml
+data/knowledge_graph/neo4j_import/
+data/knowledge_graph/llm_cache/

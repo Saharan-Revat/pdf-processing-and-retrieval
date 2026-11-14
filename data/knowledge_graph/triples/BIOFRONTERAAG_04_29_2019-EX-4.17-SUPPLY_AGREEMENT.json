@@ -1,0 +1,2686 @@
+{
+ "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+ "extractor": "rules",
+ "llm_model": null,
+ "extraction_time_seconds": 0.08212301199995409,
+ "chunks": [
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::0",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    1,
+    2
+   ],
+   "entities": [
+    {
+     "key": "ferrer internacional",
+     "name": "FERRER INTERNACIONAL, S.A",
+     "type": "Organization"
+    },
+    {
+     "key": "cutanea life sciences",
+     "name": "CUTANEA LIFE SCIENCES, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "spanish",
+     "name": "Spanish",
+     "type": "Location"
+    },
+    {
+     "key": "delaware",
+     "name": "Delaware",
+     "type": "Location"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "CUTANEA LIFE SCIENCES, INC",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Confidential Information",
+     "object_type": "DefinedTerm",
+     "evidence": "AND CUTANEA LIFE SCIENCES, INC. [***] = CERTAIN CONFIDENTIAL INFORMATION CONTAINED IN THIS DOCUMENT, MARKED BY BRACKETS, HAS BEEN OMITTED BECAUSE THE INFORMATION (I) IS NOT MATERIAL AND (II) WOULD BE COMPETITIVELY HARMFUL IF PUBLICLY DISCLOSED.",
+     "source": "rules"
+    },
+    {
+     "subject": "FERRER INTERNACIONAL, S.A",
+     "subject_type": "Organization",
+     "predicate": "INCORPORATED_IN",
+     "object": "Spanish",
+     "object_type": "Location",
+     "evidence": "This Supply Agreement (the \"Agreement\") is made as of this ____ day of March, 2018 (the \"Effective Date\"), by and between Cutanea Life Sciences, Inc., a corporation duly organized and existing under the laws of the State of Delaware with its principal place of business at 1500 Liberty Ridge Drive, Suite 3000, Wayne, PA 19087 hereinafter referred to as \"CUTANEA\"), and Ferrer Internacional, S.A., a ",
+     "source": "rules"
+    },
+    {
+     "subject": "CUTANEA LIFE SCIENCES, INC",
+     "subject_type": "Organization",
+     "predicate": "INCORPORATED_IN",
+     "object": "Delaware",
+     "object_type": "Location",
+     "evidence": "This Supply Agreement (the \"Agreement\") is made as of this ____ day of March, 2018 (the \"Effective Date\"), by and between Cutanea Life Sciences, Inc., a corporation duly organized and existing under the laws of the State of Delaware with its principal place of business at 1500 Liberty Ridge Drive, Suite 3000, Wayne, PA 19087 hereinafter referred to as \"CUTANEA\"), and Ferrer Internacional, S.A., a ",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "CUTANEA LIFE SCIENCES, INC",
+     "object_type": "Organization",
+     "evidence": "This Supply Agreement (the \"Agreement\") is made as of this ____ day of March, 2018 (the \"Effective Date\"), by and between Cutanea Life Sciences, Inc., a corporation duly organized and existing under the laws of the State of Delaware with its principal place of business at 1500 Liberty Ridge Drive, Suite 3000, Wayne, PA 19087 hereinafter referred to as \"CUTANEA\"), and Ferrer Internacional, S.A., a ",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "FERRER INTERNACIONAL, S.A",
+     "object_type": "Organization",
+     "evidence": "This Supply Agreement (the \"Agreement\") is made as of this ____ day of March, 2018 (the \"Effective Date\"), by and between Cutanea Life Sciences, Inc., a corporation duly organized and existing under the laws of the State of Delaware with its principal place of business at 1500 Liberty Ridge Drive, Suite 3000, Wayne, PA 19087 hereinafter referred to as \"CUTANEA\"), and Ferrer Internacional, S.A., a ",
+     "source": "rules"
+    },
+    {
+     "subject": "CUTANEA LIFE SCIENCES, INC",
+     "subject_type": "Organization",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "FERRER INTERNACIONAL, S.A",
+     "object_type": "Organization",
+     "evidence": "This Supply Agreement (the \"Agreement\") is made as of this ____ day of March, 2018 (the \"Effective Date\"), by and between Cutanea Life Sciences, Inc., a corporation duly organized and existing under the laws of the State of Delaware with its principal place of business at 1500 Liberty Ridge Drive, Suite 3000, Wayne, PA 19087 hereinafter referred to as \"CUTANEA\"), and Ferrer Internacional, S.A., a ",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "4.17",
+    "17"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "17": "Execution Copy"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::1",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    2
+   ],
+   "entities": [
+    {
+     "key": "medimetriks pharmaceuticals",
+     "name": "Medimetriks Pharmaceuticals, Inc",
+     "type": "Party"
+    },
+    {
+     "key": "medimetriks",
+     "name": "Medimetriks",
+     "type": "Party"
+    },
+    {
+     "key": "march 10, 2014",
+     "name": "March 10, 2014",
+     "type": "Date"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Medimetriks Pharmaceuticals, Inc",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Medimetriks",
+     "object_type": "Party",
+     "evidence": "Medimetriks Pharmaceuticals, Inc (\"Medimetriks\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Medimetriks",
+     "subject_type": "Party",
+     "predicate": "HAS_DATE",
+     "object": "March 10, 2014",
+     "object_type": "Date",
+     "evidence": "(hereinafter \"Medimetriks\") entered into a License and Supply Agreement dated March 10, 2014, as amended, (hereinafter referred as \"LSA\") pursuant to which among other things, Ferrer granted Medimetriks exclusive commercialization and distribution rights to the Product (as defined in the LSA) throughout the Territory (as defined in the LSA); and",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::2",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    2
+   ],
+   "entities": [
+    {
+     "key": "act",
+     "name": "Act",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "business day",
+     "name": "Business Day",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "2 business day",
+     "name": "2 Business Day",
+     "type": "Duration"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Act",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "the Federal Food, Drug and Cosmetic Act, as amended, and regulations promulgated hereunder",
+     "object_type": "Definition",
+     "evidence": "\"Act\" means the Federal Food, Drug and Cosmetic Act, as amended, and regulations promulgated hereunder",
+     "source": "rules"
+    },
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "any day other than a Saturday, Sunday or other day on which banks in Philadelphia, Pennsylvania and/ or Barcelona, Spain are permitted or required to close by any applicable law",
+     "object_type": "Definition",
+     "evidence": "\"Business Day\" means any day other than a Saturday, Sunday or other day on which banks in Philadelphia, Pennsylvania and/ or Barcelona, Spain are permitted or required to close by any applicable law",
+     "source": "rules"
+    },
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "2 Business Day",
+     "object_type": "Duration",
+     "evidence": "1.2 Business Day",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "1.1",
+    "1.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "1": "Definitions",
+    "1.1": "Act",
+    "1.2": "Business Day"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::3",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    3
+   ],
+   "entities": [
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "disclosing party",
+     "name": "Disclosing Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "receiving party",
+     "name": "Receiving Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "other than information described in Section 9.1.2, all business and technical information, including third party information, in whatever form or manner presented, which is: (a) disclosed by or on behalf of a party (the \"Disclosing Party\") to the other",
+     "object_type": "Definition",
+     "evidence": "\"Confidential Information\" means other than information described in Section 9.1.2, all business and technical information, including third party information, in whatever form or manner presented, which is: (a) disclosed by or on behalf of a party (the \"Disclosing Party\") to the other",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "all information of the Disclosing Party that the Disclosing Party would consider confidential or proprietary under the circumstances",
+     "object_type": "Definition",
+     "evidence": "\"Confidential Information\" means all information of the Disclosing Party that the Disclosing Party would consider confidential or proprietary under the circumstances",
+     "source": "rules"
+    },
+    {
+     "subject": "Disclosing Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Other Party",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) disclosed by or on behalf of a party (the \"Disclosing Party\") to the other party (the \"Receiving Party\") or learned or observed by the Receiving Party before or during the term of this Agreement; and (b) disclosed during any discussions and proceedings relating to any of the foregoing information, whether disclosed in oral, electronic, visual, written or any other form.",
+     "source": "rules"
+    },
+    {
+     "subject": "Disclosing Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Receiving Party",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) disclosed by or on behalf of a party (the \"Disclosing Party\") to the other party (the \"Receiving Party\") or learned or observed by the Receiving Party before or during the term of this Agreement; and (b) disclosed during any discussions and proceedings relating to any of the foregoing information, whether disclosed in oral, electronic, visual, written or any other form.",
+     "source": "rules"
+    },
+    {
+     "subject": "Other Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Receiving Party",
+     "object_type": "DefinedTerm",
+     "evidence": "(a) disclosed by or on behalf of a party (the \"Disclosing Party\") to the other party (the \"Receiving Party\") or learned or observed by the Receiving Party before or during the term of this Agreement; and (b) disclosed during any discussions and proceedings relating to any of the foregoing information, whether disclosed in oral, electronic, visual, written or any other form.",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Disclosing Party",
+     "object_type": "DefinedTerm",
+     "evidence": "\"Confidential Information\" shall include all information of the Disclosing Party that the Disclosing Party would consider confidential or proprietary under the circumstances.",
+     "source": "rules"
+    },
+    {
+     "subject": "Disclosing Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Confidential Information",
+     "object_type": "DefinedTerm",
+     "evidence": "The fact that the Disclosing Party may have marked or identified as confidential or proprietary any specific information shall be indicative that such Disclosing Party believes such information to be confidential or proprietary, but the failure to so mark information shall not determine that such information is or is not considered confidential information by such Disclosing Party.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1.3"
+   ],
+   "sections_referenced": [
+    "9.1.2"
+   ],
+   "section_titles": {
+    "1.3": "Confidential Information"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::4",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    3
+   ],
+   "entities": [
+    {
+     "key": "fda",
+     "name": "FDA",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "forecasted needs",
+     "name": "Forecasted Needs",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "governmental or regulatory authority",
+     "name": "Governmental or Regulatory Authority",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "FDA",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "the United States Food and Drug Administration, or any successor entity thereto",
+     "object_type": "Definition",
+     "evidence": "\"FDA\" means the United States Food and Drug Administration, or any successor entity thereto",
+     "source": "rules"
+    },
+    {
+     "subject": "Forecasted Needs",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "CUTANEA's estimate of Products (including in trade/sample form) to be ordered from Supplier for the upcoming rolling [***] period",
+     "object_type": "Definition",
+     "evidence": "\"Forecasted Needs\" means CUTANEA's estimate of Products (including in trade/sample form) to be ordered from Supplier for the upcoming rolling [***] period",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "governments, regulatory authorities, governmental departments, agencies, agents, commissions, bureaus, officials, courts, bodies, boards, tribunals or dispute settlement panels or other law, rule or regulation-making organizations or entities (a) having or purporting to have jurisdiction on behalf o",
+     "object_type": "Definition",
+     "evidence": "\"Governmental or Regulatory Authority\" means governments, regulatory authorities, governmental departments, agencies, agents, commissions, bureaus, officials, courts, bodies, boards, tribunals or dispute settlement panels or other law, rule or regulation-making organizations or entities (a) having or purporting to have jurisdiction on behalf o",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1.4",
+    "1.5",
+    "1.6"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "1.4": "Fda",
+    "1.5": "Forecasted Needs",
+    "1.6": "Governmental Or Regulatory Authority"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::5",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    3,
+    4
+   ],
+   "entities": [
+    {
+     "key": "manufacture",
+     "name": "Manufacture",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "supply price",
+     "name": "Supply Price",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Manufacture",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "all the activities relating to production of the Products including packaging and shipment preparation, quality control and release of Products",
+     "object_type": "Definition",
+     "evidence": "\"Manufacture\" means all the activities relating to production of the Products including packaging and shipment preparation, quality control and release of Products",
+     "source": "rules"
+    },
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "with respect to the Products, the critical quality standards that include test attributes, analytical procedures, and appropriate acceptance criteria and Manufacturing procedures for which such Product should conform to be considered acceptable for its intended use and conform to",
+     "object_type": "Definition",
+     "evidence": "\"Specifications\" means with respect to the Products, the critical quality standards that include test attributes, analytical procedures, and appropriate acceptance criteria and Manufacturing procedures for which such Product should conform to be considered acceptable for its intended use and conform to",
+     "source": "rules"
+    },
+    {
+     "subject": "Supply Price",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "the price to be charged to CUTANEA from time to time by Supplier for Products Manufactured and supplied hereunder, as set forth in Schedule A",
+     "object_type": "Definition",
+     "evidence": "\"Supply Price\" means the price to be charged to CUTANEA from time to time by Supplier for Products Manufactured and supplied hereunder, as set forth in Schedule A",
+     "source": "rules"
+    },
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Manufacture",
+     "object_type": "DefinedTerm",
+     "evidence": "\"Specifications\" means, with respect to the Products, the critical quality standards that include test attributes, analytical procedures, and appropriate acceptance criteria and Manufacturing procedures for which such Product should conform to be considered acceptable for its intended use and conform to quality standards approved by Governmental and Regulatory Authorities and as provided in the ND",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1.7"
+   ],
+   "sections_referenced": [
+    "1.17"
+   ],
+   "section_titles": {
+    "1.7": "Manufacture"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::6",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    3,
+    4
+   ],
+   "entities": [
+    {
+     "key": "supply price",
+     "name": "Supply Price",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "manufacture",
+     "name": "Manufacture",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "forecasted needs",
+     "name": "Forecasted Needs",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Supply Price",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "the price to be charged to CUTANEA from time to time by Supplier for Products Manufactured and supplied hereunder, as set forth in Schedule A",
+     "object_type": "Definition",
+     "evidence": "\"Supply Price\" means the price to be charged to CUTANEA from time to time by Supplier for Products Manufactured and supplied hereunder, as set forth in Schedule A",
+     "source": "rules"
+    },
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Forecasted Needs",
+     "object_type": "DefinedTerm",
+     "evidence": "Supplier shall supply Products in accordance with the Specifications and in sufficient quantity to meet CUTANEA's Forecasted Needs for the length of this Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be approved by CUTANEA, in writing, prior to Supplier Manufacturing the Product",
+     "object_type": "Obligation",
+     "evidence": "All deviations from the Specifications must be approved by CUTANEA, in writing, prior to Supplier Manufacturing the Product.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1.7"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "1.7": "Manufacture"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::7",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    5
+   ],
+   "entities": [
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "forecasted needs",
+     "name": "Forecasted Needs",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "forecast",
+     "name": "Forecast",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ten (10) business days",
+     "name": "ten (10) Business Days",
+     "type": "Duration"
+    },
+    {
+     "key": "six months",
+     "name": "six months",
+     "type": "Duration"
+    },
+    {
+     "key": "fda",
+     "name": "FDA",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "business day",
+     "name": "Business Day",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "governmental or regulatory authority",
+     "name": "Governmental or Regulatory Authority",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "one business day",
+     "name": "one Business Day",
+     "type": "Duration"
+    },
+    {
+     "key": "three business days",
+     "name": "three business days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Forecasted Needs",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ten (10) Business Days",
+     "object_type": "Duration",
+     "evidence": "2.4.1 As soon as practicable following execution of this Agreement, but in any event within ten (10) Business Days, CUTANEA agrees to provide Supplier with a best estimate, non-binding (except for the first six months) forecast of its Forecasted Needs for Products (including in trade/sample form) for the upcoming rolling 18-month period (the \"Forecast\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Forecasted Needs",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "six months",
+     "object_type": "Duration",
+     "evidence": "2.4.1 As soon as practicable following execution of this Agreement, but in any event within ten (10) Business Days, CUTANEA agrees to provide Supplier with a best estimate, non-binding (except for the first six months) forecast of its Forecasted Needs for Products (including in trade/sample form) for the upcoming rolling 18-month period (the \"Forecast\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Forecasted Needs",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Forecast",
+     "object_type": "DefinedTerm",
+     "evidence": "2.4.1 As soon as practicable following execution of this Agreement, but in any event within ten (10) Business Days, CUTANEA agrees to provide Supplier with a best estimate, non-binding (except for the first six months) forecast of its Forecasted Needs for Products (including in trade/sample form) for the upcoming rolling 18-month period (the \"Forecast\").",
+     "source": "rules"
+    },
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "one Business Day",
+     "object_type": "Duration",
+     "evidence": "CUTANEA shall notify Supplier within one Business Day, after it receives any materially adverse contact or communication from any Governmental or Regulatory Authority that relates to any Product.",
+     "source": "rules"
+    },
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Governmental or Regulatory Authority",
+     "object_type": "DefinedTerm",
+     "evidence": "CUTANEA shall notify Supplier within one Business Day, after it receives any materially adverse contact or communication from any Governmental or Regulatory Authority that relates to any Product.",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "MAY",
+     "object": "reasonably be expected to affect patient safety",
+     "object_type": "Obligation",
+     "evidence": "Supplier shall notify CUTANEA as soon as reasonably possible after it receives any materially adverse contact or communication from any Governmental or Regulatory Authority that relates to any Product and may reasonably be expected to affect patient safety.",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "three business days",
+     "object_type": "Duration",
+     "evidence": "2.4.4 CUTANEA shall provide Supplier with copies of all communications received from or sent to any Governmental or Regulatory Authority with respect to any Product within three business days after receipt or sending of the communication, as the case may be (subject to confidentiality and privilege restrictions, if any).",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "2.3",
+    "2.4",
+    "2.4.1",
+    "2.4.4",
+    "4"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "4": "Cutanea",
+    "2.3": "Quality Tests And Checks.",
+    "2.4": "Forecasting And Other Obligations."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::8",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    5,
+    6
+   ],
+   "entities": [
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "forecasted needs",
+     "name": "Forecasted Needs",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "five (5) business days",
+     "name": "five (5) business days",
+     "type": "Duration"
+    },
+    {
+     "key": "supply price",
+     "name": "Supply Price",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ten (10) business days",
+     "name": "ten (10) Business Days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Forecasted Needs",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "five (5) business days",
+     "object_type": "Duration",
+     "evidence": "2.5.2 During the term of this Agreement, CUTANEA will order Product(s) by issuing firm Purchase Orders not less than [***] business days before the requested delivery date(s) of such Product(s), and Supplier shall provide approval of the Purchase Order by the Supplier within five (5) business days following the Purchase Order reception, such approval signifying Supplier's commitment to deliver suc",
+     "source": "rules"
+    },
+    {
+     "subject": "Forecasted Needs",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ten (10) Business Days",
+     "object_type": "Duration",
+     "evidence": "Within ten (10) Business Days following this Agreement becoming effective and thereafter on or before the last day of each calendar quarter, CUTANEA shall provide Supplier with specific data as to its Forecasted Needs for such Product (including in trade/sample form) for the following rolling [***].",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "1",
+    "2.5",
+    "2.5.1",
+    "2.5.2",
+    "2.5.4"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "1": "Cutanea",
+    "2.5": "Purchase Orders."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::9",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    6,
+    7
+   ],
+   "entities": [
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "rejected product",
+     "name": "Rejected Product",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "two (2) business days",
+     "name": "two (2) Business Days",
+     "type": "Duration"
+    },
+    {
+     "key": "business day",
+     "name": "Business Day",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "two (2) business day",
+     "name": "two (2) Business Day",
+     "type": "Duration"
+    },
+    {
+     "key": "fifteen (15) business days",
+     "name": "fifteen (15) Business Days",
+     "type": "Duration"
+    },
+    {
+     "key": "ninety (90) days",
+     "name": "ninety (90) days",
+     "type": "Duration"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Rejected Product",
+     "object_type": "DefinedTerm",
+     "evidence": "Specifications (\"Rejected Product\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "two (2) Business Day",
+     "object_type": "Duration",
+     "evidence": "If for any reason Supplier does not receive any such notification within such two (2) Business Day period, Supplier will promptly notify CUTANEA of such fact and CUTANEA will as soon as practicable and, in any event within another two (2) Business Days thereafter provide such written notice to Supplier and be responsible for any storage or similar charges that Supplier may incur for not delivering",
+     "source": "rules"
+    },
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "two (2) Business Days",
+     "object_type": "Duration",
+     "evidence": "If for any reason Supplier does not receive any such notification within such two (2) Business Day period, Supplier will promptly notify CUTANEA of such fact and CUTANEA will as soon as practicable and, in any event within another two (2) Business Days thereafter provide such written notice to Supplier and be responsible for any storage or similar charges that Supplier may incur for not delivering",
+     "source": "rules"
+    },
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "two (2) Business Day",
+     "object_type": "Duration",
+     "evidence": "The lack of reception of such written acceptance within the second two (2) Business Day period shall be deemed as the batch is accepted.",
+     "source": "rules"
+    },
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be deemed as the batch is accepted",
+     "object_type": "Obligation",
+     "evidence": "The lack of reception of such written acceptance within the second two (2) Business Day period shall be deemed as the batch is accepted.",
+     "source": "rules"
+    },
+    {
+     "subject": "Rejected Product",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ninety (90) days",
+     "object_type": "Duration",
+     "evidence": "As to any such Product batch which is determined to fail the Specifications (\"Rejected Product\"), CUTANEA shall have no obligation to pay for such Rejected Product and Supplier shall replace such Rejected Product as soon as possible and no later than ninety (90) days thereafter.",
+     "source": "rules"
+    },
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Rejected Product",
+     "object_type": "DefinedTerm",
+     "evidence": "As to any such Product batch which is determined to fail the Specifications (\"Rejected Product\"), CUTANEA shall have no obligation to pay for such Rejected Product and Supplier shall replace such Rejected Product as soon as possible and no later than ninety (90) days thereafter.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "2.6",
+    "2.6.1",
+    "6"
+   ],
+   "sections_referenced": [
+    "2.6",
+    "3"
+   ],
+   "section_titles": {
+    "2.6": "Acceptance / Rejection Of Products."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::10",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    6,
+    7
+   ],
+   "entities": [
+    {
+     "key": "rejected product",
+     "name": "Rejected Product",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "ninety (90) days",
+     "name": "ninety (90) days",
+     "type": "Duration"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    },
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Rejected Product",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "ninety (90) days",
+     "object_type": "Duration",
+     "evidence": "replace such Rejected Product as soon as possible and no later than ninety (90) days thereafter.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "2.6",
+    "2.6.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "2.6": "Acceptance / Rejection Of Products."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::11",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    7
+   ],
+   "entities": [
+    {
+     "key": "supply price",
+     "name": "Supply Price",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "2.7",
+    "2.8"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "2.7": "Supply Price.",
+    "2.8": "Quality Agreement."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::12",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    7
+   ],
+   "entities": [
+    {
+     "key": "products",
+     "name": "Products",
+     "type": "Party"
+    },
+    {
+     "key": "pharmacovigilance agreement",
+     "name": "Pharmacovigilance Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Products",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Pharmacovigilance Agreement",
+     "object_type": "DefinedTerm",
+     "evidence": "Products (\"Pharmacovigilance Agreement\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Pharmacovigilance Agreement",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "prevail, and with respect to all other matters, this Agreement will prevail",
+     "object_type": "Obligation",
+     "evidence": "If there is any conflict between this Agreement and the Pharmacovigilance Agreement solely with respect to adverse events and patient safety, the Pharmacovigilance Agreement will prevail, and with respect to all other matters, this Agreement will prevail.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "2.9"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "2.9": "Pharmacovigilance Agreement."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::13",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    8
+   ],
+   "entities": [
+    {
+     "key": "manufacture",
+     "name": "Manufacture",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "fda",
+     "name": "FDA",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "forecast",
+     "name": "Forecast",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Manufacture",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "FDA",
+     "object_type": "DefinedTerm",
+     "evidence": "Supplier undertakes to implement appropriate methods to ensure consistency of supply of the Product for the Territory throughout the Term of the Agreement, including but not limited to using its commercially reasonable efforts to qualify an alternative site owned or operated by Supplier or its Affiliates to Manufacture the Product and obtain approval thereof from the FDA and, if necessary the poss",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "2.10",
+    "2.10.1",
+    "2.10.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "2.10": "Failure To Supply."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::14",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    8
+   ],
+   "entities": [
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "remain valid during the term of the LSA",
+     "object_type": "Obligation",
+     "evidence": "This Agreement comes into force as of the Effective Date and shall remain valid during the term of the LSA.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "3",
+    "4",
+    "4.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "3": "Shipment And Risk Of Loss",
+    "4": "Term And Termination",
+    "4.1": "Term."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::15",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    8,
+    9
+   ],
+   "entities": [
+    {
+     "key": "forty-five (45) calendar days",
+     "name": "forty-five (45) calendar days",
+     "type": "Duration"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "4.2",
+    "4.2.1",
+    "4.2.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "4.2": "Termination."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::16",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    9
+   ],
+   "entities": [
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "4.3",
+    "4.4"
+   ],
+   "sections_referenced": [
+    "4"
+   ],
+   "section_titles": {
+    "4.3": "Additional Rights And Remedies.",
+    "4.4": "Return Of Materials."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::17",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    9
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "4.5"
+   ],
+   "sections_referenced": [
+    "1",
+    "4.3",
+    "4.4",
+    "4.5",
+    "5",
+    "6",
+    "8.4",
+    "9",
+    "10"
+   ],
+   "section_titles": {
+    "4.5": "Survival."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::18",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    9
+   ],
+   "entities": [
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "5",
+    "5.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "5": "Warranties",
+    "5.1": "Conformity With Specifications."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::19",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    10
+   ],
+   "entities": [
+    {
+     "key": "act",
+     "name": "Act",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "5.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "5.2": "Compliance With The Act."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::20",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    10
+   ],
+   "entities": [
+    {
+     "key": "fda",
+     "name": "FDA",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "act",
+     "name": "Act",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "FDA",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Act",
+     "object_type": "DefinedTerm",
+     "evidence": "Subject to CUTANEA's compliance with the provisions set forth in Section 5.2 and Section 5.4 hereof, Supplier warrants that all Products Manufactured, held for sale, sold and shipped pursuant to this Agreement shall have been Manufactured and shipped by Supplier in compliance with applicable FDA regulations and current Good Manufacturing Practices as that term is defined under the Act.",
+     "source": "rules"
+    },
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be the sole responsibility of CUTANEA",
+     "object_type": "Obligation",
+     "evidence": "Compliance with all federal, state, and local laws and regulations concerning Specifications for packaging and labeling provided by CUTANEA shall be the sole responsibility of CUTANEA.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5.3",
+    "5.4"
+   ],
+   "sections_referenced": [
+    "5.2",
+    "5.4"
+   ],
+   "section_titles": {
+    "5.3": "Conformity With Fda Regulations And Cgmps.",
+    "5.4": "Compliance Of Packaging And Labeling With Laws And Regulations."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::21",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    10,
+    11
+   ],
+   "entities": [
+    {
+     "key": "act",
+     "name": "Act",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "manufacture",
+     "name": "Manufacture",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "annual audit",
+     "name": "Annual Audit",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "5.5",
+    "5.5.1",
+    "5.5.2"
+   ],
+   "sections_referenced": [
+    "9"
+   ],
+   "section_titles": {
+    "5.5": "Access To Supplier'S Facilities."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::22",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    11
+   ],
+   "entities": [
+    {
+     "key": "intellectual property",
+     "name": "Intellectual Property",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Intellectual Property",
+     "object_type": "DefinedTerm",
+     "evidence": "Supplier represents and warrants to CUTANEA that, as of the Effective Date, to the best of Supplier's knowledge, information and belief, Supplier is not infringing (and does not guarantee that under its knowledge is infringing) upon any Third Party patent or the intellectual property rights of any Third Party relating to the Products.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "5.6"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "5.6": "Patent And Other Intellectual Property Rights."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::23",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    11
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "5.7"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "5.7": "Disclaimer."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::24",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    11,
+    12
+   ],
+   "entities": [
+    {
+     "key": "act",
+     "name": "Act",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "5.8",
+    "5.8.1",
+    "5.8.2"
+   ],
+   "sections_referenced": [
+    "6",
+    "30"
+   ],
+   "section_titles": {
+    "5.8": "Debarment."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::25",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    12
+   ],
+   "entities": [
+    {
+     "key": "manufacture",
+     "name": "Manufacture",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "pharmacovigilance agreement",
+     "name": "Pharmacovigilance Agreement",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "6",
+    "6.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "6": "Product Recalls",
+    "6.1": "Initiating And Effecting Recall."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::26",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    12
+   ],
+   "entities": [
+    {
+     "key": "product",
+     "name": "Product",
+     "type": "Party"
+    },
+    {
+     "key": "product action",
+     "name": "Product Action",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "governmental or regulatory authority",
+     "name": "Governmental or Regulatory Authority",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "receiving party",
+     "name": "Receiving Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Product",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Product Action",
+     "object_type": "DefinedTerm",
+     "evidence": "Product (\"Product Action\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Receiving Party",
+     "object_type": "DefinedTerm",
+     "evidence": "Upon the receipt by either party of any direction to withdraw or recall any Product from the market from any Governmental or Regulatory Authority having jurisdiction, the receiving party shall notify the other party as soon as practicable in accordance with the terms of this Agreement and the Quality Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Other Party",
+     "object_type": "DefinedTerm",
+     "evidence": "Upon the receipt by either party of any direction to withdraw or recall any Product from the market from any Governmental or Regulatory Authority having jurisdiction, the receiving party shall notify the other party as soon as practicable in accordance with the terms of this Agreement and the Quality Agreement.",
+     "source": "rules"
+    },
+    {
+     "subject": "Receiving Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Other Party",
+     "object_type": "DefinedTerm",
+     "evidence": "Upon the receipt by either party of any direction to withdraw or recall any Product from the market from any Governmental or Regulatory Authority having jurisdiction, the receiving party shall notify the other party as soon as practicable in accordance with the terms of this Agreement and the Quality Agreement.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "6.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "6.2": "Implementation Of Recall."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::27",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    13
+   ],
+   "entities": [
+    {
+     "key": "force majeure",
+     "name": "Force Majeure",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "governmental or regulatory authority",
+     "name": "Governmental or Regulatory Authority",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Force Majeure",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Governmental or Regulatory Authority",
+     "object_type": "DefinedTerm",
+     "evidence": "The occurrence of an event which materially interferes with the ability of a party to perform its obligations or duties hereunder which is not within the reasonable control of the party affected (or in the case of Supplier, any current manufacturer of the Product) not due to the affected party's malfeasance, and which could not with the exercise of reasonable due diligence have been avoided (\"Forc",
+     "source": "rules"
+    },
+    {
+     "subject": "Force Majeure",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Other Party",
+     "object_type": "DefinedTerm",
+     "evidence": "The party prevented from performing its obligations or duties because of Force Majeure shall promptly notify the other party hereto (the \"Other Party\") of the occurrence and particulars of such Force Majeure and shall provide the Other Party, from time to time, with its best estimate of the duration of such Force Majeure and with notice of the termination thereof.",
+     "source": "rules"
+    },
+    {
+     "subject": "Force Majeure",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "promptly recommence",
+     "object_type": "Obligation",
+     "evidence": "Upon termination of Force Majeure, the performance of any suspended obligation or duty shall promptly recommence.",
+     "source": "rules"
+    },
+    {
+     "subject": "Other Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Force Majeure",
+     "object_type": "DefinedTerm",
+     "evidence": "Neither party shall be liable to the other party for any direct, indirect, consequential, incidental, special, punitive or exemplary damages arising out of or relating to the suspension or termination of any of its obligations or duties under this Agreement by reason of the occurrence of Force Majeure.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "7"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "7": "Force Majeure"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::28",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    13
+   ],
+   "entities": [
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be notified to CUTANEA in advance to its implementation",
+     "object_type": "Obligation",
+     "evidence": "Any changes to the Specifications requested by Supplier must be notified to CUTANEA in advance to its implementation, and shall be incorporated only after approval of Governmental or Regulatory Authorities.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "8",
+    "8.1",
+    "8.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "8": "Changes",
+    "8.1": "Changes By Cutanea.",
+    "8.2": "Changes By Supplier."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::29",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    13,
+    14
+   ],
+   "entities": [
+    {
+     "key": "specifications",
+     "name": "Specifications",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "governmental or regulatory authority",
+     "name": "Governmental or Regulatory Authority",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "forecasted needs",
+     "name": "Forecasted Needs",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "disclosing party",
+     "name": "Disclosing Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "receiving party",
+     "name": "Receiving Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Specifications",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Governmental or Regulatory Authority",
+     "object_type": "DefinedTerm",
+     "evidence": "The costs and expenses of any changes to the Specifications requested by any Governmental or Regulatory Authority shall be borne by Supplier unless the change, in the opinion of the JSC (as that term is defined in the LSA), entails a benefit to CUTANEA, in which case the costs arising from the changes and its implementation shall be borne by CUTANEA.",
+     "source": "rules"
+    },
+    {
+     "subject": "Forecasted Needs",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Governmental or Regulatory Authority",
+     "object_type": "DefinedTerm",
+     "evidence": "Any CUTANEA-specific inventory including, but not limited to, raw materials, work-in-process, packaging and finished goods rendered obsolete as a result of Supplier's supplier minimum order quantities that exceed the binding quantities of Product of Forecasted Needs, formula, artwork or packaging changes not requested by CUTANEA or by changes required by any Governmental or Regulatory Authority sh",
+     "source": "rules"
+    },
+    {
+     "subject": "Disclosing Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "be kept confidential and not used by the Receiving Party",
+     "object_type": "Obligation",
+     "evidence": "9.1.1 All Confidential Information furnished by the Disclosing Party during the term of this Agreement shall be kept confidential and not used by the Receiving Party, except for purposes authorized by this Agreement, and shall not be disclosed to any person or firm, unless previously authorized in writing to do so, during the term of this Agreement and for an indefinite period thereafter.",
+     "source": "rules"
+    },
+    {
+     "subject": "Disclosing Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "OBLIGATION_INVOLVES",
+     "object": "Receiving Party",
+     "object_type": "DefinedTerm",
+     "evidence": "9.1.1 All Confidential Information furnished by the Disclosing Party during the term of this Agreement shall be kept confidential and not used by the Receiving Party, except for purposes authorized by this Agreement, and shall not be disclosed to any person or firm, unless previously authorized in writing to do so, during the term of this Agreement and for an indefinite period thereafter.",
+     "source": "rules"
+    },
+    {
+     "subject": "Receiving Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST_NOT",
+     "object": "be disclosed to any person or firm",
+     "object_type": "Obligation",
+     "evidence": "9.1.1 All Confidential Information furnished by the Disclosing Party during the term of this Agreement shall be kept confidential and not used by the Receiving Party, except for purposes authorized by this Agreement, and shall not be disclosed to any person or firm, unless previously authorized in writing to do so, during the term of this Agreement and for an indefinite period thereafter.",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Disclosing Party",
+     "object_type": "DefinedTerm",
+     "evidence": "9.1.1 All Confidential Information furnished by the Disclosing Party during the term of this Agreement shall be kept confidential and not used by the Receiving Party, except for purposes authorized by this Agreement, and shall not be disclosed to any person or firm, unless previously authorized in writing to do so, during the term of this Agreement and for an indefinite period thereafter.",
+     "source": "rules"
+    },
+    {
+     "subject": "Confidential Information",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Receiving Party",
+     "object_type": "DefinedTerm",
+     "evidence": "9.1.1 All Confidential Information furnished by the Disclosing Party during the term of this Agreement shall be kept confidential and not used by the Receiving Party, except for purposes authorized by this Agreement, and shall not be disclosed to any person or firm, unless previously authorized in writing to do so, during the term of this Agreement and for an indefinite period thereafter.",
+     "source": "rules"
+    },
+    {
+     "subject": "Disclosing Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Receiving Party",
+     "object_type": "DefinedTerm",
+     "evidence": "9.1.1 All Confidential Information furnished by the Disclosing Party during the term of this Agreement shall be kept confidential and not used by the Receiving Party, except for purposes authorized by this Agreement, and shall not be disclosed to any person or firm, unless previously authorized in writing to do so, during the term of this Agreement and for an indefinite period thereafter.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "8.3",
+    "8.4",
+    "9.1.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "8.3": "Changes By Governmental Or Regulatory Authorities.",
+    "8.4": "Obsolete Inventory."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::30",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    13,
+    14
+   ],
+   "entities": [
+    {
+     "key": "receiving party",
+     "name": "Receiving Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "disclosing party",
+     "name": "Disclosing Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Receiving Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Confidential Information",
+     "object_type": "DefinedTerm",
+     "evidence": "is hereafter disclosed to the Receiving Party by a third party lawfully entitled to possession of such Confidential Information and under no obligation or duty of confidentiality; or",
+     "source": "rules"
+    },
+    {
+     "subject": "Receiving Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Disclosing Party",
+     "object_type": "DefinedTerm",
+     "evidence": "is required to be disclosed pursuant to regulatory or legal requirements, provided that the Receiving Party provides reasonable advance notice to the Disclosing Party and the Receiving Party reasonably cooperates with the Disclosing Party to obtain confidentiality protection of such information.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "8.3",
+    "8.4"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "8.3": "Changes By Governmental Or Regulatory Authorities.",
+    "8.4": "Obsolete Inventory."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::31",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    14,
+    15
+   ],
+   "entities": [
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "intellectual property",
+     "name": "Intellectual Property",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "receiving party",
+     "name": "Receiving Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "disclosing party",
+     "name": "Disclosing Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Receiving Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Disclosing Party",
+     "object_type": "DefinedTerm",
+     "evidence": "9.1.3 The Receiving Party agrees that money damages would not be a sufficient remedy for any breach of the confidentiality obligations hereunder and that, in addition to all other remedies, the Disclosing Party will be entitled to seek injunctive or other equitable relief as a remedy for any such breach by the Receiving Party without having to post a bond.",
+     "source": "rules"
+    },
+    {
+     "subject": "Receiving Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Disclosing Party",
+     "object_type": "DefinedTerm",
+     "evidence": "The Receiving Party will notify the Disclosing Party in writing immediately upon the occurrence of any unauthorized release of Confidential Information or other breach of the confidentiality obligations hereunder of which it is or becomes aware.",
+     "source": "rules"
+    },
+    {
+     "subject": "Receiving Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Confidential Information",
+     "object_type": "DefinedTerm",
+     "evidence": "The Receiving Party will notify the Disclosing Party in writing immediately upon the occurrence of any unauthorized release of Confidential Information or other breach of the confidentiality obligations hereunder of which it is or becomes aware.",
+     "source": "rules"
+    },
+    {
+     "subject": "Disclosing Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Confidential Information",
+     "object_type": "DefinedTerm",
+     "evidence": "The Receiving Party will notify the Disclosing Party in writing immediately upon the occurrence of any unauthorized release of Confidential Information or other breach of the confidentiality obligations hereunder of which it is or becomes aware.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "9",
+    "9.1.3"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "9": "Confidential"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::32",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    15
+   ],
+   "entities": [
+    {
+     "key": "intellectual property",
+     "name": "Intellectual Property",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "governmental or regulatory authority",
+     "name": "Governmental or Regulatory Authority",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Intellectual Property",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Other Party",
+     "object_type": "DefinedTerm",
+     "evidence": "Except as the Parties may otherwise expressly agree in writing, each party shall continue to own its existing patents, trademarks, copyrights, trade secrets and other intellectual property (\"Intellectual Property\"), without conferring any interests therein on the other party.",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Other Party",
+     "object_type": "DefinedTerm",
+     "evidence": "Notwithstanding anything to the contrary contained herein, each party agrees that it shall cooperate fully and in a timely manner with the other with respect to all disclosures required to be made to the SEC or any other Governmental or Regulatory Authority, including providing written notice to the other party and sufficient time to review and request confidential treatment of Confidential Inform",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Confidential Information",
+     "object_type": "DefinedTerm",
+     "evidence": "Notwithstanding anything to the contrary contained herein, each party agrees that it shall cooperate fully and in a timely manner with the other with respect to all disclosures required to be made to the SEC or any other Governmental or Regulatory Authority, including providing written notice to the other party and sufficient time to review and request confidential treatment of Confidential Inform",
+     "source": "rules"
+    },
+    {
+     "subject": "Other Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Confidential Information",
+     "object_type": "DefinedTerm",
+     "evidence": "Notwithstanding anything to the contrary contained herein, each party agrees that it shall cooperate fully and in a timely manner with the other with respect to all disclosures required to be made to the SEC or any other Governmental or Regulatory Authority, including providing written notice to the other party and sufficient time to review and request confidential treatment of Confidential Inform",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "9.2",
+    "9.3"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "9.2": "Intellectual Property.",
+    "9.3": "Publicity And Sec Filings."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::33",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    15
+   ],
+   "entities": [
+    {
+     "key": "third party",
+     "name": "Third Party",
+     "type": "Party"
+    },
+    {
+     "key": "claims",
+     "name": "Claims",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "losses",
+     "name": "Losses",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Third Party",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "Claims",
+     "object_type": "DefinedTerm",
+     "evidence": "Third Party (\"Claims\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Losses",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Claims",
+     "object_type": "DefinedTerm",
+     "evidence": "Supplier shall indemnify, defend and hold CUTANEA harmless from any and all losses, damages, liabilities, costs, charges, expenses, including, without limitation, court fees and reasonable lawyers' fees and other legal expenses (collectively, \"Losses\") to which CUTANEA may become subject as a result of any claim, complaint, suit, demand, action or other proceeding by any Third Party (collectively ",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "10",
+    "10.1"
+   ],
+   "sections_referenced": [
+    "10.3"
+   ],
+   "section_titles": {
+    "10": "Indemnification",
+    "10.1": "Indemnification By Supplier."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::34",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    16
+   ],
+   "entities": [
+    {
+     "key": "losses",
+     "name": "Losses",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "10.2"
+   ],
+   "sections_referenced": [
+    "10.3"
+   ],
+   "section_titles": {
+    "10.2": "Indemnification By Cutanea."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::35",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    16
+   ],
+   "entities": [
+    {
+     "key": "governmental or regulatory authority",
+     "name": "Governmental or Regulatory Authority",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "indemnified party",
+     "name": "Indemnified Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "indemnifying party",
+     "name": "Indemnifying Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnified Party",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event that any claim is asserted against any party hereto, or any party hereto is made a party defendant in any action or proceeding, and such claim, action or proceeding (which shall mean any action, claim, suit, proceeding, arbitration or Governmental or Regulatory Authority action, notification, investigation or audit, hereinafter referred to as an \"Action or Proceeding\") involves a matt",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Other Party",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event that any claim is asserted against any party hereto, or any party hereto is made a party defendant in any action or proceeding, and such claim, action or proceeding (which shall mean any action, claim, suit, proceeding, arbitration or Governmental or Regulatory Authority action, notification, investigation or audit, hereinafter referred to as an \"Action or Proceeding\") involves a matt",
+     "source": "rules"
+    },
+    {
+     "subject": "Governmental or Regulatory Authority",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifying Party",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event that any claim is asserted against any party hereto, or any party hereto is made a party defendant in any action or proceeding, and such claim, action or proceeding (which shall mean any action, claim, suit, proceeding, arbitration or Governmental or Regulatory Authority action, notification, investigation or audit, hereinafter referred to as an \"Action or Proceeding\") involves a matt",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnified Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Other Party",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event that any claim is asserted against any party hereto, or any party hereto is made a party defendant in any action or proceeding, and such claim, action or proceeding (which shall mean any action, claim, suit, proceeding, arbitration or Governmental or Regulatory Authority action, notification, investigation or audit, hereinafter referred to as an \"Action or Proceeding\") involves a matt",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnified Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifying Party",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event that any claim is asserted against any party hereto, or any party hereto is made a party defendant in any action or proceeding, and such claim, action or proceeding (which shall mean any action, claim, suit, proceeding, arbitration or Governmental or Regulatory Authority action, notification, investigation or audit, hereinafter referred to as an \"Action or Proceeding\") involves a matt",
+     "source": "rules"
+    },
+    {
+     "subject": "Other Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnifying Party",
+     "object_type": "DefinedTerm",
+     "evidence": "In the event that any claim is asserted against any party hereto, or any party hereto is made a party defendant in any action or proceeding, and such claim, action or proceeding (which shall mean any action, claim, suit, proceeding, arbitration or Governmental or Regulatory Authority action, notification, investigation or audit, hereinafter referred to as an \"Action or Proceeding\") involves a matt",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnifying Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "take over the defense of such claim, Action or Proceeding",
+     "object_type": "Obligation",
+     "evidence": "If the Indemnifying Party agrees in writing to be bound by and to promptly pay the full amount of any final judgment from which no further appeal may be taken (or otherwise confirms its indemnification obligation responsibility to the satisfaction of the Indemnified Party) and if the Indemnified Party is reasonably assured of the Indemnifying Party's ability to satisfy such agreement, then such In",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnifying Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnified Party",
+     "object_type": "DefinedTerm",
+     "evidence": "If the Indemnifying Party agrees in writing to be bound by and to promptly pay the full amount of any final judgment from which no further appeal may be taken (or otherwise confirms its indemnification obligation responsibility to the satisfaction of the Indemnified Party) and if the Indemnified Party is reasonably assured of the Indemnifying Party's ability to satisfy such agreement, then such In",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnified Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST_NOT",
+     "object": "be unreasonably withheld",
+     "object_type": "Obligation",
+     "evidence": "In no event shall the Indemnifying Party settle any such claim or potential claim, Action or Proceeding without the prior written consent of the Indemnified Party, which consent shall not be unreasonably withheld.",
+     "source": "rules"
+    },
+    {
+     "subject": "Indemnifying Party",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "Indemnified Party",
+     "object_type": "DefinedTerm",
+     "evidence": "In no event shall the Indemnifying Party settle any such claim or potential claim, Action or Proceeding without the prior written consent of the Indemnified Party, which consent shall not be unreasonably withheld.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "10.3"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "10.3": "Assertion Of Claim."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::36",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    17
+   ],
+   "entities": [
+    {
+     "key": "effective date",
+     "name": "Effective Date",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "three years",
+     "name": "three years",
+     "type": "Duration"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "three years",
+     "object_type": "Duration",
+     "evidence": "10.4.1 Each of Supplier and CUTANEA shall maintain and keep in force at its sole cost and expense throughout the Term of this Agreement and for three years following the effective date of expiration or termination hereof (if such policies are on a claims made basis), Commercial General Liability Insurance from carriers having an A.",
+     "source": "rules"
+    },
+    {
+     "subject": "Effective Date",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "three years",
+     "object_type": "Duration",
+     "evidence": "In addition, each of the Parties shall maintain and keep in force at its sole cost and expense throughout the Term of this Agreement and for three years following the effective date of expiration or termination hereof (if such policies are on a claims made basis), Product Liability Insurance from carriers having an A.M.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "10.4",
+    "10.4.1",
+    "10.4.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "10.4": "Insurance."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::37",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    17,
+    18
+   ],
+   "entities": [
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "supplier personnel",
+     "name": "Supplier Personnel",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "1",
+    "11",
+    "11.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11": "Representations And Warranties",
+    "1": "Representations By"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::38",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "united states foreign corrupt practices act",
+     "name": "United States Foreign Corrupt Practices Act",
+     "type": "Party"
+    },
+    {
+     "key": "fcpa",
+     "name": "FCPA",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "act",
+     "name": "Act",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "United States Foreign Corrupt Practices Act",
+     "subject_type": "Party",
+     "predicate": "ALSO_KNOWN_AS",
+     "object": "FCPA",
+     "object_type": "DefinedTerm",
+     "evidence": "United States Foreign Corrupt Practices Act (\"FCPA\")",
+     "source": "rules"
+    },
+    {
+     "subject": "Act",
+     "subject_type": "DefinedTerm",
+     "predicate": "CO_OCCURS_WITH",
+     "object": "FCPA",
+     "object_type": "DefinedTerm",
+     "evidence": "Both parties shall comply with, and will not cause any party and its Affiliates, associates, directors, officers, shareholders, employees, representatives, sublicensees or agents worldwide to be in violation with any applicable anti-corruption laws, rules and regulations including but not limited to the United States Foreign Corrupt Practices Act (the \"FCPA\") or U.K.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11.2": "Representations By Cutanea."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::39",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    18,
+    19
+   ],
+   "entities": [
+    {
+     "key": "improper performance",
+     "name": "Improper Performance",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "annual audit",
+     "name": "Annual Audit",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Improper Performance",
+     "subject_type": "DefinedTerm",
+     "predicate": "DEFINED_AS",
+     "object": "a breach of expectations that a person will act in good faith, impartially, or in accordance with a position of trust",
+     "object_type": "Definition",
+     "evidence": "\"Improper Performance\" means a breach of expectations that a person will act in good faith, impartially, or in accordance with a position of trust",
+     "source": "rules"
+    },
+    {
+     "subject": "Improper Performance",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST",
+     "object": "act in good faith, impartially",
+     "object_type": "Obligation",
+     "evidence": "\"Improper Performance\" means a breach of expectations that a person will act in good faith, impartially, or in accordance with a position of trust.",
+     "source": "rules"
+    },
+    {
+     "subject": "Annual Audit",
+     "subject_type": "DefinedTerm",
+     "predicate": "MUST_NOT",
+     "object": "apply to for-cause audits, which may be conducted at any time",
+     "object_type": "Obligation",
+     "evidence": "For the avoidance of doubt, this restricted annual audit shall not apply to for-cause audits, which may be conducted at any time.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [
+    "11.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "11.2": "Representations By Cutanea."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::40",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    20
+   ],
+   "entities": [
+    {
+     "key": "business day",
+     "name": "Business Day",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "12.1"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "12.1": "Notices."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::41",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    20
+   ],
+   "entities": [
+    {
+     "key": "pharmacovigilance agreement",
+     "name": "Pharmacovigilance Agreement",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "supply unit price",
+     "name": "Supply Unit Price",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "12.2"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "12.2": "Entire Agreement; Amendment."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::42",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    20
+   ],
+   "entities": [
+    {
+     "key": "ferrer internacional",
+     "name": "FERRER INTERNACIONAL, S.A",
+     "type": "Organization"
+    },
+    {
+     "key": "cutanea life sciences",
+     "name": "CUTANEA LIFE SCIENCES, INC",
+     "type": "Organization"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "12"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "12": "General Provisions"
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::43",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    21
+   ],
+   "entities": [
+    {
+     "key": "other party",
+     "name": "Other Party",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "12.3",
+    "12.4"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "12.3": "Waiver.",
+    "12.4": "Assignment."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::44",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    21
+   ],
+   "entities": [
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "12.5"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "12.5": "Governing Law."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::45",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    22
+   ],
+   "entities": [],
+   "triples": [],
+   "sections_defined": [
+    "12.6",
+    "12.7",
+    "12.8"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "12.6": "Severability.",
+    "12.7": "Headings, Interpretation.",
+    "12.8": "Counterparts."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::46",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    22,
+    23
+   ],
+   "entities": [
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [],
+   "sections_defined": [
+    "12.9"
+   ],
+   "sections_referenced": [],
+   "section_titles": {
+    "12.9": "Independent Contractor."
+   }
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::47",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    23,
+    24
+   ],
+   "entities": [
+    {
+     "key": "cutanea life sciences",
+     "name": "CUTANEA LIFE SCIENCES, INC",
+     "type": "Organization"
+    },
+    {
+     "key": "ferrer internacional",
+     "name": "FERRER INTERNACIONAL, S.A",
+     "type": "Organization"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "supply unit price",
+     "name": "Supply Unit Price",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "december 31, 2018",
+     "name": "December 31, 2018",
+     "type": "Date"
+    },
+    {
+     "key": "thirty (30) days",
+     "name": "thirty (30) days",
+     "type": "Duration"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Supply Unit Price",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DATE",
+     "object": "December 31, 2018",
+     "object_type": "Date",
+     "evidence": "Notwithstanding the foregoing, after December 31, 2018 and during the term of this Agreement, Ferrer may change its Supply Unit Price on any or all the Products from time to time, but no more than once annually, based on documented actual increases to Ferrer's direct manufacturing and labor (but specifically excluding overhead) costs (or those charged by its nominee), provided that Ferrer furnishe",
+     "source": "rules"
+    },
+    {
+     "subject": "Supply Unit Price",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "thirty (30) days",
+     "object_type": "Duration",
+     "evidence": "Notwithstanding the foregoing, after December 31, 2018 and during the term of this Agreement, Ferrer may change its Supply Unit Price on any or all the Products from time to time, but no more than once annually, based on documented actual increases to Ferrer's direct manufacturing and labor (but specifically excluding overhead) costs (or those charged by its nominee), provided that Ferrer furnishe",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [
+    "4.4"
+   ],
+   "section_titles": {}
+  },
+  {
+   "chunk_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT::chunk::48",
+   "document_id": "BIOFRONTERAAG_04_29_2019-EX-4.17-SUPPLY AGREEMENT",
+   "page_numbers": [
+    23,
+    24
+   ],
+   "entities": [
+    {
+     "key": "30 days",
+     "name": "30 days",
+     "type": "Duration"
+    },
+    {
+     "key": "business day",
+     "name": "Business Day",
+     "type": "DefinedTerm"
+    },
+    {
+     "key": "(50%",
+     "name": "(50%)",
+     "type": "Percentage"
+    },
+    {
+     "key": "15 business days",
+     "name": "15 business days",
+     "type": "Duration"
+    },
+    {
+     "key": "confidential information",
+     "name": "Confidential Information",
+     "type": "DefinedTerm"
+    }
+   ],
+   "triples": [
+    {
+     "subject": "Business Day",
+     "subject_type": "DefinedTerm",
+     "predicate": "HAS_DURATION",
+     "object": "30 days",
+     "object_type": "Duration",
+     "evidence": "More concretely, within the first 30 days after every calendar year, Ferrer will calculate the average annual EUR/USD rate based on the EUR/USD rates published in the Financial Times the last business day of every month.",
+     "source": "rules"
+    }
+   ],
+   "sections_defined": [],
+   "sections_referenced": [],
+   "section_titles": {}
+  }
+ ]
+}
