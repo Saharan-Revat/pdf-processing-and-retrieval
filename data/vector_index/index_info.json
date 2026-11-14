@@ -1,0 +1,8 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "num_chunks": 651,
+  "embedding_dimension": 384,
+  "normalized_embeddings": true,
+  "similarity": "cosine",
+  "embedding_time_seconds": 2.936170208035037
+}

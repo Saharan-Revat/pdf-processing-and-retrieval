@@ -1,0 +1,230 @@
+import csv
+import sys
+import time
+from pathlib import Path
+
+
+# ---------------------------------------------------------
+# Import shared BM25 evaluation utilities
+# ---------------------------------------------------------
+
+SCRIPTS_DIR = Path(__file__).resolve().parents[1]
+BM25_DIR = SCRIPTS_DIR / "bm25"
+
+sys.path.insert(0, str(BM25_DIR))
+
+
+from bm25_retrieval import (
+    CHUNKS_DIR,
+    EVALUATION_DIR,
+    load_chunks,
+    load_evaluation,
+    build_bm25_indexes,
+    get_question_document,
+    find_best_gold_mapping
+)
+
+from retrieval_metrics import (
+    calculate_retrieval_metrics
+)
+
+from vector_retrieval import (
+    load_vector_system,
+    retrieve_vector
+)
+
+
+RESULTS_DIR = Path("results/vector")
+RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+
+TOP_K_VALUES = [1, 3, 5, 10]
+
+MAPPING_THRESHOLD = 0.50
+
+
+def get_relevant_chunks(question, mapping_indexes):
+    """
+    Map original NLLP gold passages to the corrected
+    project chunk IDs.
+
+    Uses exactly the same mapping procedure as the
+    BM25 evaluation.
+    """
+
+    document_id = get_question_document(question)
+
+    if document_id not in mapping_indexes:
+        return set()
+
+    document_chunks = (
+        mapping_indexes[document_id]["chunks"]
+    )
+
+    relevant_chunks = set()
+
+    for gold_passage in question["gold_passages"]:
+
+        best_chunk, score = find_best_gold_mapping(
+            gold_passage,
+            document_chunks
+        )
+
+        if (
+            best_chunk is not None
+            and score >= MAPPING_THRESHOLD
+        ):
+            relevant_chunks.add(
+                best_chunk["chunk_id"]
+            )
+
+    return relevant_chunks
+
+
+def evaluate():
+
+    print("Loading evaluation data...")
+
+    chunks = load_chunks(CHUNKS_DIR)
+    questions = load_evaluation(EVALUATION_DIR)
+
+    print(f"Chunks: {len(chunks)}")
+    print(f"Questions: {len(questions)}")
+
+    # Used only for gold passage -> project chunk mapping
+    mapping_indexes = build_bm25_indexes(chunks)
+
+    print("\nLoading vector system...")
+
+    index, metadata, model = load_vector_system()
+
+    rows = []
+
+    for i, question in enumerate(
+        questions,
+        start=1
+    ):
+
+        relevant_ids = get_relevant_chunks(
+            question,
+            mapping_indexes
+        )
+
+        start = time.perf_counter()
+
+        retrieved = retrieve_vector(
+            question,
+            index,
+            metadata,
+            model,
+            top_k=max(TOP_K_VALUES),
+            restrict_to_document=True
+        )
+
+        latency = (
+            time.perf_counter() - start
+        )
+
+        retrieved_ids = [
+            result["chunk_id"]
+            for result in retrieved
+        ]
+
+        for k in TOP_K_VALUES:
+
+            metrics = calculate_retrieval_metrics(
+                retrieved_ids,
+                relevant_ids,
+                k
+            )
+
+            rows.append({
+                "question_id":
+                    question["question_id"],
+
+                "hop_count":
+                    question["hop_count"],
+
+                "difficulty":
+                    question.get(
+                        "difficulty_cell",
+                        ""
+                    ),
+
+                "k": k,
+
+                "precision":
+                    metrics["precision"],
+
+                "recall":
+                    metrics["recall"],
+
+                "reciprocal_rank":
+                    metrics["reciprocal_rank"],
+
+                "evidence_recovery":
+                    metrics["evidence_recovery"],
+
+                "retrieval_latency_ms":
+                    latency * 1000,
+
+                "num_relevant_chunks":
+                    len(relevant_ids)
+            })
+
+        print(
+            f"[{i}/{len(questions)}] "
+            f"{question['question_id']} | "
+            f"{question['hop_count']}-hop | "
+            f"relevant={len(relevant_ids)}"
+        )
+
+    return rows
+
+
+def save_results(rows):
+
+    output_path = (
+        RESULTS_DIR / "vector_results.csv"
+    )
+
+    fieldnames = [
+        "question_id",
+        "hop_count",
+        "difficulty",
+        "k",
+        "precision",
+        "recall",
+        "reciprocal_rank",
+        "evidence_recovery",
+        "retrieval_latency_ms",
+        "num_relevant_chunks"
+    ]
+
+    with open(
+        output_path,
+        "w",
+        newline="",
+        encoding="utf-8"
+    ) as f:
+
+        writer = csv.DictWriter(
+            f,
+            fieldnames=fieldnames
+        )
+
+        writer.writeheader()
+        writer.writerows(rows)
+
+    print(
+        f"\nSaved results to "
+        f"{output_path}"
+    )
+
+
+if __name__ == "__main__":
+
+    rows = evaluate()
+
+    save_results(rows)
+
+    print("\nVector evaluation complete.")
