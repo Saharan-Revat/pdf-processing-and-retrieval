@@ -1,0 +1,6 @@
+Reasoning Depth,Questions,Correct Answers,Gold Answer Match (%),Any Evidence Retrieved (%),Full Evidence Retrieved (%)
+2,25,1,4.0,68.0,8.0
+3,25,2,8.0,88.0,4.0
+4,25,0,0.0,84.0,4.0
+5,25,0,0.0,80.0,0.0
+Overall,100,3,3.0,80.0,4.0
